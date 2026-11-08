@@ -1,0 +1,98 @@
+{
+  "generated_by": "export_supabase_data.mjs",
+  "deterministic_namespace_uuid": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+  "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+  "fixed_timestamp": "2026-11-05T00:00:00.000Z",
+  "source_datasets": {
+    "vocabDatabase_json_count": 3650,
+    "existingVocab_json_count": 104,
+    "vstep_pdf_vocab_bank_count": 20,
+    "merged_runtime_vocab_count": 3666,
+    "expanded_pdf_structures_count": 77,
+    "vstep_pdf_structures_count": 12,
+    "challenge_days_count": 66,
+    "challenge_day_vocab_count": 990,
+    "vstep_28_speaking_seeds_count": 28,
+    "total_quiz_questions_count": 153,
+    "total_pdf_library_records_count": 35
+  },
+  "tables": [
+    {
+      "table": "import_batches",
+      "csv_file": "01_import_batches.csv",
+      "json_file": "01_import_batches.json",
+      "row_count": 1,
+      "csv_sha256": "541bda0e447b7af1f7e19f75e8c8bcfad88f7b63c46081ae16d647600c68d083",
+      "json_sha256": "afb164eb001d782a22e7318e47d0edfb51a15c0ad0ca19db2216e1d0d1bdf6d1"
+    },
+    {
+      "table": "vocabulary_categories",
+      "csv_file": "02_vocabulary_categories.csv",
+      "json_file": "02_vocabulary_categories.json",
+      "row_count": 42,
+      "csv_sha256": "c79101734f31730be897ce79dfa0f5a26c6376e8bf39b99f878970848e096f54",
+      "json_sha256": "09a6f077e63f877450425b998661e31b123a738a748b1e4c45588315d1280e1f"
+    },
+    {
+      "table": "vocabulary",
+      "csv_file": "03_vocabulary.csv",
+      "json_file": "03_vocabulary.json",
+      "row_count": 3666,
+      "csv_sha256": "dabddbc3b944a550d49c0acadc7bcad4a17c39797f9dae4d10645a9c545588a4",
+      "json_sha256": "4f74b6b168ed8df1b77be1b353b469cdf92d31fa05f042cc2dd4c5a484bbc2ee"
+    },
+    {
+      "table": "grammar_structures",
+      "csv_file": "04_grammar_structures.csv",
+      "json_file": "04_grammar_structures.json",
+      "row_count": 89,
+      "csv_sha256": "d5044b4ac85f4c8e0249ee871856376cba1c262d61146fcb885b39a315a16af2",
+      "json_sha256": "b27fdf863d3b94af693e34f0729038f090f44f7c697752f9a5a2dae4e7400ff7"
+    },
+    {
+      "table": "curriculum_days",
+      "csv_file": "05_curriculum_days.csv",
+      "json_file": "05_curriculum_days.json",
+      "row_count": 66,
+      "csv_sha256": "0a6439ba0849ef676787458da1e7bdffb9ac4f3b404ffd153d091660085c6d99",
+      "json_sha256": "598b6f4a2144998b6ad95b882d69cecc111fa4ecc86280ba8e152b4711bca587"
+    },
+    {
+      "table": "curriculum_day_vocab",
+      "csv_file": "06_curriculum_day_vocab.csv",
+      "json_file": "06_curriculum_day_vocab.json",
+      "row_count": 990,
+      "csv_sha256": "361ca866712d21ae62d3b492913d47ea18362cd4585e824db4c013087c65c482",
+      "json_sha256": "ef02f2994df6d517970da2288c05ad3b2bf308c2a4aebda0901e11a64460f85f"
+    },
+    {
+      "table": "ielts_speaking_topics",
+      "csv_file": "07_ielts_speaking_topics.csv",
+      "json_file": "07_ielts_speaking_topics.json",
+      "row_count": 45,
+      "csv_sha256": "a0aa4a2670a673bb5371375c0241c546a9570bd100efb3b9b68b455eec725c67",
+      "json_sha256": "1b51ee1c98a2281a3b93a10ee86637ad30564d713541382c434f6c1f9297c354"
+    },
+    {
+      "table": "quiz_questions",
+      "csv_file": "08_quiz_questions.csv",
+      "json_file": "08_quiz_questions.json",
+      "row_count": 153,
+      "csv_sha256": "72afc67b4a937d6e843b8e526c8b1a79951f16bf1d1f926e30989c4804564dd4",
+      "json_sha256": "55abec24d12f0427329b5d8dc459308583822f0c47e6626222279757967c268e"
+    },
+    {
+      "table": "pdf_library",
+      "csv_file": "09_pdf_library.csv",
+      "json_file": "09_pdf_library.json",
+      "row_count": 35,
+      "csv_sha256": "59f7fb4dc991bd96216d007f825274bba9a0df232ff05c87f1a3dd1410a05906",
+      "json_sha256": "cf60e6ffc90ac4a0cd5218568390faec91d202a6a3c6b4a7b83ecd1a4f62e476"
+    }
+  ],
+  "needs_review_counts": {
+    "vocabulary_needs_review": 5,
+    "pdf_references_needs_review": 2
+  },
+  "storage_assets_count": 59
+}

@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "deviant",
+    "word": "deviant",
+    "ipa": "/ˈdiː.vi.ənt/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Lệch chuẩn, lệch khỏi quy tắc/tiêu chuẩn xã hội thông thường",
+    "detailedNote": "Dạng động từ là \"deviate\" (lệch khỏi). Danh từ chỉ người là \"a deviate\".",
+    "collocations": [
+      "deviant behavior",
+      "deviant actions",
+      "social deviance"
+    ],
+    "exampleEn": "The organization doesn't tolerate deviant behaviors.",
+    "exampleVi": "Tổ chức không chấp nhận các hành vi lệch chuẩn.",
+    "tags": [
+      "social",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "delegate",
+    "word": "delegate",
+    "ipa": "/ˈdel.ɪ.ɡeɪt/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Giao quyền, ủy thác công việc/trách nhiệm cho ai",
+    "detailedNote": "Cấu trúc thông dụng: delegate something to somebody.",
+    "collocations": [
+      "delegate authority",
+      "delegate the task to his assistant",
+      "delegate responsibilities"
+    ],
+    "exampleEn": "The manager delegated the task to his assistant.",
+    "exampleVi": "Người quản lý đã ủy thác nhiệm vụ cho trợ lý của mình.",
+    "tags": [
+      "workplace",
+      "management",
+      "b2"
+    ]
+  },
+  {
+    "id": "tolerate",
+    "word": "tolerate",
+    "ipa": "/ˈtɒl.ər.eɪt/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Bao dung, dung thứ, chấp nhận chịu đựng điều gì",
+    "detailedNote": "Thường dùng trong các câu thể hiện chính sách hoặc giới hạn chịu đựng.",
+    "collocations": [
+      "tolerate misconduct",
+      "tolerate noise",
+      "zero tolerance"
+    ],
+    "exampleEn": "The school does not tolerate bullying under any circumstances.",
+    "exampleVi": "Trường học không chấp nhận hành vi bắt nạt dưới bất kỳ hình thức nào.",
+    "tags": [
+      "social",
+      "behavior",
+      "b2"
+    ]
+  },
+  {
+    "id": "acclaim",
+    "word": "acclaim",
+    "ipa": "/əˈkleɪm/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Sự ngợi khen, ca ngợi rộng rãi của giới chuyên môn/công chúng",
+    "detailedNote": "Tính từ cực hay dùng: acclaimed author / acclaimed movie (được ca ngợi).",
+    "collocations": [
+      "receive/gain/earn/win acclaim",
+      "international acclaim",
+      "critical acclaim"
+    ],
+    "exampleEn": "She gained international acclaim for her ground-breaking research.",
+    "exampleVi": "Cô ấy đã giành được sự hoan nghênh quốc tế nhờ nghiên cứu đột phá.",
+    "tags": [
+      "academic",
+      "arts",
+      "c1"
+    ]
+  },
+  {
+    "id": "portable",
+    "word": "portable",
+    "ipa": "/ˈpɔː.tə.bəl/",
+    "pos": "adj",
+    "level": "B1",
+    "meaning": "Cầm tay được, xách tay, dễ dàng mang theo di động",
+    "detailedNote": "Ghép với thiết bị công nghệ hàng ngày.",
+    "collocations": [
+      "portable charger",
+      "portable speaker",
+      "portable device"
+    ],
+    "exampleEn": "I always carry a portable charger when traveling.",
+    "exampleVi": "Tôi luôn mang theo một chiếc sạc dự phòng khi đi du lịch.",
+    "tags": [
+      "daily",
+      "technology",
+      "b1"
+    ]
+  },
+  {
+    "id": "apparently",
+    "word": "apparently",
+    "ipa": "/əˈpær.ənt.li/",
+    "pos": "adv",
+    "level": "B2",
+    "meaning": "Dường như, hình như, theo như nghe nói / bề ngoài có vẻ",
+    "detailedNote": "Dùng rất tự nhiên trong văn nói và viết để dẫn ý khi chưa kiểm chứng 100%.",
+    "collocations": [
+      "apparently true",
+      "apparently not",
+      "it is apparently..."
+    ],
+    "exampleEn": "Apparently, the flight has been delayed due to severe storms.",
+    "exampleVi": "Hình như chuyến bay đã bị hoãn do bão lớn.",
+    "tags": [
+      "discourse",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "crispy",
+    "word": "crispy",
+    "ipa": "/ˈkrɪs.pi/",
+    "pos": "adj",
+    "level": "B1",
+    "meaning": "Giòn rụm (chuyên dùng miêu tả đồ ăn)",
+    "detailedNote": "Phân biệt: Dùng chuyên cho đồ ăn chiên giòn, nướng giòn.",
+    "collocations": [
+      "crispy chicken",
+      "crispy skin",
+      "crispy texture"
+    ],
+    "exampleEn": "The chef fried the potatoes until they were golden and crispy.",
+    "exampleVi": "Đầu bếp chiên khoai tây cho đến khi chúng có màu vàng ươm và giòn rụm.",
+    "tags": [
+      "food",
+      "daily",
+      "b1"
+    ]
+  },
+  {
+    "id": "flavourful",
+    "word": "flavourful",
+    "ipa": "/ˈfleɪ.vər.fəl/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Đậm đà, tràn ngập hương vị thơm ngon",
+    "detailedNote": "Từ chất lượng cao để miêu tả món ăn thay cho từ \"delicious\" quá phổ thông.",
+    "collocations": [
+      "flavourful broth",
+      "rich and flavourful",
+      "flavourful sauce"
+    ],
+    "exampleEn": "Traditional Vietnamese pho is famous for its fragrant and flavourful broth.",
+    "exampleVi": "Phở truyền thống Việt Nam nổi tiếng với phần nước dùng thơm lừng và đậm đà hương vị.",
+    "tags": [
+      "food",
+      "descriptive",
+      "b2"
+    ]
+  },
+  {
+    "id": "inability",
+    "word": "inability",
+    "ipa": "/ˌɪn.əˈbɪl.ə.ti/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Sự bất lực, không có khả năng, thiếu quyền lực/phương tiện để làm gì",
+    "detailedNote": "Ăn điểm IELTS Band 7+: Danh từ hóa từ \"can't / unable to\". CẤU TRÚC BẮT BUỘC: inability + TO DO sth. KHÔNG dùng \"inability of doing\"!",
+    "collocations": [
+      "inability to focus",
+      "inability to sleep",
+      "inability to adapt",
+      "the government's inability"
+    ],
+    "exampleEn": "People say that I have an inability to focus during long meetings.",
+    "exampleVi": "Mọi người bảo tôi có sự bất lực trong việc tập trung suốt các cuộc họp dài.",
+    "tags": [
+      "ielts-key",
+      "grammar-rule",
+      "c1"
+    ]
+  },
+  {
+    "id": "circadian",
+    "word": "circadian",
+    "ipa": "/sɜːˈkeɪ.di.ən/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Thuộc về chu kỳ sinh học 24 giờ (giấc ngủ, cơ thể)",
+    "detailedNote": "Từ vựng chuyên sâu chủ đề Health & Sleep.",
+    "collocations": [
+      "circadian rhythm (nhịp sinh học)",
+      "circadian preference",
+      "circadian disruption"
+    ],
+    "exampleEn": "Using smartphones late at night severely disrupts our natural circadian rhythm.",
+    "exampleVi": "Dùng điện thoại thông minh đêm muộn gây gián đoạn nghiêm trọng nhịp sinh học tự nhiên của chúng ta.",
+    "tags": [
+      "health",
+      "science",
+      "c1"
+    ]
+  },
+  {
+    "id": "shortcut-to",
+    "word": "shortcut to",
+    "ipa": "/ˈʃɔːt.kʌt tuː/",
+    "pos": "phrase",
+    "level": "B2",
+    "meaning": "Đường tắt dẫn đến điều gì / lối đi tắt",
+    "detailedNote": "Lưu ý: shortcut TO something / doing something (giới từ to).",
+    "collocations": [
+      "no shortcut to success",
+      "shortcut to mastering a language"
+    ],
+    "exampleEn": "There is no shortcut to mastering a foreign language without consistent practice.",
+    "exampleVi": "Không có con đường tắt nào để thành thạo một ngoại ngữ nếu thiếu sự rèn luyện kiên trì.",
+    "tags": [
+      "idiom",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "speechless",
+    "word": "speechless",
+    "ipa": "/ˈspiːtʃ.ləs/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Lặng người, không thốt nên lời (vì kinh ngạc, sốc hoặc xúc động)",
+    "detailedNote": "Từ bắt buộc học cho cả đời thường lẫn văn viết. Cụm ăn điểm: \"leave someone speechless\" hoặc \"be speechless\". Thường đi kèm trạng từ \"utterly / completely speechless\".",
+    "collocations": [
+      "leave me speechless",
+      "utterly speechless",
+      "stand speechless"
+    ],
+    "exampleEn": "I was utterly speechless when they announced that I had won the grand prize.",
+    "exampleVi": "Tôi hoàn toàn không thốt nên lời khi họ thông báo tôi đã đoạt giải đặc biệt.",
+    "tags": [
+      "emotions",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "nurture",
+    "word": "nurture",
+    "ipa": "/ˈnɜː.tʃər/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Bồi dưỡng, nuôi dưỡng (con cái, cây cối, ý tưởng, tài năng, trí tuệ, tham vọng)",
+    "detailedNote": "Từ vựng cốt lõi cho IELTS Writing Task 2 chủ đề giáo dục và phát triển nhân lực.",
+    "collocations": [
+      "nurture talent/skill",
+      "nurture a dream/ambition",
+      "nurture creativity",
+      "self-nurturing"
+    ],
+    "exampleEn": "Our company's goal is not just to hire talent, but to nurture it through mentorship programs.",
+    "exampleVi": "Mục tiêu của công ty chúng tôi không chỉ là tuyển dụng nhân tài, mà là bồi dưỡng họ qua các chương trình cố vấn.",
+    "tags": [
+      "ielts-key",
+      "education",
+      "c1"
+    ]
+  },
+  {
+    "id": "proficiency",
+    "word": "proficiency",
+    "ipa": "/prəˈfɪʃ.ən.si/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Khả năng thành thạo, trình độ năng lực cao",
+    "detailedNote": "Các động từ đi kèm: achieve / attain / demonstrate / improve proficiency.",
+    "collocations": [
+      "language proficiency",
+      "technical proficiency",
+      "demonstrate proficiency in"
+    ],
+    "exampleEn": "Applicants must demonstrate high English proficiency to be considered for the scholarship.",
+    "exampleVi": "Các ứng viên phải chứng minh trình độ tiếng Anh thành thạo cao để được xét duyệt học bổng.",
+    "tags": [
+      "education",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "skilled-tradespeople",
+    "word": "skilled tradespeople",
+    "ipa": "/skɪld ˈtreɪdzˌpiː.pəl/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Những người thợ lành nghề (thợ điện, thợ mộc, thợ sửa ống nước, v.v.)",
+    "detailedNote": "Cụm từ rất hay gặp trong bài thi IELTS về chủ đề thị trường lao động và đào tạo nghề.",
+    "collocations": [
+      "shortage of skilled tradespeople",
+      "demand for skilled tradespeople"
+    ],
+    "exampleEn": "Many developed nations are currently facing a severe shortage of skilled tradespeople.",
+    "exampleVi": "Nhiều quốc gia phát triển hiện đang đối mặt với sự thiếu hụt nghiêm trọng thợ lành nghề.",
+    "tags": [
+      "workplace",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "charge",
+    "word": "charge",
+    "ipa": "/tʃɑːdʒ/",
+    "pos": "verb",
+    "level": "B1",
+    "meaning": "Thu tiền, tính phí; nạp sạc pin; giao phó trách nhiệm",
+    "detailedNote": "Các cụm từ cố định: free of charge (miễn phí), service charge (phí dịch vụ), charge tuition fees.",
+    "collocations": [
+      "free of charge",
+      "service charge",
+      "charge lower tuition fees",
+      "run out of charge"
+    ],
+    "exampleEn": "Some universities charge significantly lower tuition fees for domestic students.",
+    "exampleVi": "Một số trường đại học thu học phí thấp hơn đáng kể đối với sinh viên trong nước.",
+    "tags": [
+      "finance",
+      "daily",
+      "b1"
+    ]
+  },
+  {
+    "id": "adapt-and-thrive",
+    "word": "adapt and thrive",
+    "ipa": "/əˈdæpt ænd θraɪv/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Thích nghi và phát triển mạnh mẽ vượt bậc",
+    "detailedNote": "Cặp từ sóng đôi kinh điển trong bài luận về thay đổi công nghệ hoặc thị trường.",
+    "collocations": [
+      "ability to adapt and thrive",
+      "adapt and thrive in the modern economy"
+    ],
+    "exampleEn": "Organizations that embrace artificial intelligence are more likely to adapt and thrive.",
+    "exampleVi": "Các tổ chức đón đầu trí tuệ nhân tạo có nhiều khả năng thích nghi và phát triển vượt bậc.",
+    "tags": [
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "archaic",
+    "word": "archaic",
+    "ipa": "/ɑːˈkeɪ.ɪk/",
+    "pos": "adj",
+    "level": "C2",
+    "meaning": "Cổ xưa, lỗi thời = extremely old-fashioned",
+    "detailedNote": "Dùng để chỉ quan điểm, luật lệ hoặc hệ thống đã quá cũ kỹ, không còn phù hợp hiện đại.",
+    "collocations": [
+      "archaic ideas",
+      "archaic laws",
+      "archaic system"
+    ],
+    "exampleEn": "The company needs to replace its archaic filing system with cloud storage.",
+    "exampleVi": "Công ty cần thay thế hệ thống hồ sơ cổ lỗ sĩ của mình bằng lưu trữ đám mây.",
+    "tags": [
+      "academic",
+      "c2"
+    ]
+  },
+  {
+    "id": "acquire",
+    "word": "acquire",
+    "ipa": "/əˈkwaɪər/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Đạt được, thu nạp được (kiến thức/kỹ năng qua nỗ lực); mua lại/sáp nhập (công ty, đất đai)",
+    "detailedNote": "Ngoại động từ thuần túy. Thay vì nói learn/get skills (bình dân), nâng band lên \"acquire knowledge/skills\". Lưu ý: Tránh nhầm với \"require\" (yêu cầu).",
+    "collocations": [
+      "acquire knowledge/skills",
+      "acquire land",
+      "mergers and acquisitions (M&A)"
+    ],
+    "exampleEn": "Microsoft acquired GitHub in 2018 to strengthen its developer ecosystem.",
+    "exampleVi": "Microsoft đã mua lại GitHub vào năm 2018 để củng cố hệ sinh thái lập trình viên của mình.",
+    "tags": [
+      "ielts-key",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "impoverished",
+    "word": "impoverished",
+    "ipa": "/ɪmˈpɒv.ər.ɪʃt/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Siêu nghèo khó, khốn cùng = very poor",
+    "detailedNote": "Từ vựng học thuật cao cấp để thay thế \"very poor\" trong IELTS Writing Task 2.",
+    "collocations": [
+      "impoverished area",
+      "impoverished community",
+      "impoverished family"
+    ],
+    "exampleEn": "The government initiated targeted programs to provide clean water to impoverished areas.",
+    "exampleVi": "Chính phủ đã khởi xướng các chương trình trọng điểm nhằm cung cấp nước sạch cho các vùng nghèo khó.",
+    "tags": [
+      "ielts-key",
+      "social",
+      "c1"
+    ]
+  },
+  {
+    "id": "clarify",
+    "word": "clarify",
+    "ipa": "/ˈklær.ɪ.faɪ/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Làm rõ, gỡ rối thông tin đã có sẵn nhưng bị mơ hồ, khó hiểu",
+    "detailedNote": "PHÂN BIỆT VỚI EXPLAIN: \"Explain\" là cung cấp thông tin mới từ đầu. \"Clarify\" là khi thông tin đã đưa ra rồi nhưng bị mập mờ, cần làm sáng tỏ lại chi tiết. Danh từ: clarity.",
+    "collocations": [
+      "clarify the situation",
+      "clarify this point",
+      "seek clarification"
+    ],
+    "exampleEn": "Could you please clarify this point regarding the contract deadline?",
+    "exampleVi": "Bạn có thể vui lòng làm rõ điểm này liên quan đến hạn chót của hợp đồng không?",
+    "distinctionNote": "Explain (giải thích từ đầu điều chưa biết) vs Clarify (làm rõ điều đã nói nhưng còn mập mờ, gây hiểu lầm).",
+    "tags": [
+      "distinction",
+      "communication",
+      "c1"
+    ]
+  },
+  {
+    "id": "incorporate",
+    "word": "incorporate",
+    "ipa": "/ɪnˈkɔː.pər.eɪt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Kết hợp, tích hợp, sáp nhập một yếu tố vào hệ thống lớn",
+    "detailedNote": "LỖI SAI HAY GẶP: Dùng incorporate TO là SAI! Bắt buộc dùng: incorporate something INTO something. Hoặc incorporated WITH (sáp nhập).",
+    "collocations": [
+      "incorporate features into",
+      "incorporate technology",
+      "fully incorporate"
+    ],
+    "exampleEn": "The company decided to incorporate advanced AI features into the app.",
+    "exampleVi": "Công ty đã quyết định tích hợp các tính năng AI tiên tiến vào ứng dụng.",
+    "tags": [
+      "grammar-rule",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "obsolete",
+    "word": "obsolete",
+    "ipa": "/ˈɒb.səl.iːt/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Lỗi thời, cổ hủ, không còn sử dụng vì đã bị thay thế bởi cái mới tốt hơn",
+    "detailedNote": "Cụm từ đắt giá: planned obsolescence (sự lỗi thời có chủ đích trong kinh doanh). Động từ hay đi kèm: become / go obsolete.",
+    "collocations": [
+      "become obsolete",
+      "technologically obsolete",
+      "planned obsolescence",
+      "obsolete machinery"
+    ],
+    "exampleEn": "Traditional film cameras have become virtually obsolete with the rise of digital photography.",
+    "exampleVi": "Máy quay phim truyền thống gần như đã trở nên lỗi thời trước sự trỗi dậy của nhiếp ảnh kỹ thuật số.",
+    "tags": [
+      "technology",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "compelling",
+    "word": "compelling",
+    "ipa": "/kəmˈpel.ɪŋ/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Có sức thuyết phục cao, hấp dẫn khó cưỡng",
+    "detailedNote": "Rất hay dùng để miêu tả bằng chứng (evidence), lập luận (argument) hoặc câu chuyện (story).",
+    "collocations": [
+      "compelling evidence",
+      "compelling reason",
+      "more compelling"
+    ],
+    "exampleEn": "The scientist presented compelling evidence that human activity accelerates climate change.",
+    "exampleVi": "Nhà khoa học đã đưa ra bằng chứng đầy thuyết phục rằng hoạt động con người đẩy nhanh biến đổi khí hậu.",
+    "tags": [
+      "academic",
+      "writing",
+      "c1"
+    ]
+  },
+  {
+    "id": "accountability",
+    "word": "accountability",
+    "ipa": "/əˌkaʊn.təˈbɪl.ə.ti/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Trách nhiệm giải trình (phải giải thích và chịu trách nhiệm khi được hỏi)",
+    "detailedNote": "Từ cốt lõi trong quản trị doanh nghiệp và chính trị xã hội.",
+    "collocations": [
+      "corporate accountability",
+      "ensure accountability",
+      "hold someone accountable"
+    ],
+    "exampleEn": "Corporate accountability is essential to maintain public trust and prevent financial fraud.",
+    "exampleVi": "Trách nhiệm giải trình của doanh nghiệp là điều thiết yếu để duy trì niềm tin công chúng và ngăn ngừa gian lận tài chính.",
+    "tags": [
+      "business",
+      "society",
+      "c1"
+    ]
+  },
+  {
+    "id": "equivalent-to",
+    "word": "equivalent to",
+    "ipa": "/ɪˈkwɪv.əl.ənt tuː/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Tương đương với cái gì (về giá trị, ý nghĩa, số lượng)",
+    "detailedNote": "Vừa là Adj vừa là Noun: \"be equivalent to something\" hoặc \"the equivalent of/in something\". Mẹo nhấn âm: đuôi -valent trọng âm rơi ngay trước nó.",
+    "collocations": [
+      "be equivalent to",
+      "the equivalent in cash",
+      "rough equivalent"
+    ],
+    "exampleEn": "Three years of practical work experience may be equivalent to a formal university qualification.",
+    "exampleVi": "Ba năm kinh nghiệm làm việc thực tế có thể tương đương với một bằng cấp đại học chính quy.",
+    "tags": [
+      "comparison",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "undeniable",
+    "word": "undeniable",
+    "ipa": "/ˌʌn.dɪˈnaɪ.ə.bəl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Không thể phủ nhận, hiển nhiên đúng",
+    "detailedNote": "Dùng mở đầu câu trong IELTS Writing: \"Although A has undeniable benefits, B is still more important because...\"",
+    "collocations": [
+      "undeniable fact",
+      "undeniable truth",
+      "undeniable benefit"
+    ],
+    "exampleEn": "It is an undeniable fact that modern technology has drastically altered daily communication.",
+    "exampleVi": "Một sự thật không thể phủ nhận là công nghệ hiện đại đã thay đổi hoàn toàn cách giao tiếp hàng ngày.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "widespread-adoption",
+    "word": "widespread adoption",
+    "ipa": "/ˌwaɪd.spred əˈdɒp.ʃən/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Sự tiếp nhận / áp dụng rộng rãi (công nghệ, chính sách, thói quen)",
+    "detailedNote": "Cụm danh từ ăn điểm Band 7.5+ thay cho \"many people use it\".",
+    "collocations": [
+      "gain/achieve widespread adoption",
+      "widespread adoption of electric vehicles"
+    ],
+    "exampleEn": "The widespread adoption of online banking has minimized the need for physical branches.",
+    "exampleVi": "Sự áp dụng rộng rãi của ngân hàng trực tuyến đã giảm thiểu nhu cầu về các chi nhánh vật lý.",
+    "tags": [
+      "collocation",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "criteria",
+    "word": "criteria",
+    "ipa": "/kraɪˈtɪə.ri.ə/",
+    "pos": "noun",
+    "level": "B2",
+    "meaning": "Tiêu chí (đây là số NHIỀU; số ít là criterion /kraɪˈtɪə.ri.ən/)",
+    "detailedNote": "LƯU Ý NGỮ PHÁP: \"criteria\" là số nhiều -> dùng \"These criteria are...\". Cấu trúc: criteria FOR Noun / criteria TO Verb. Cụm: meet the criteria (đáp ứng tiêu chí).",
+    "collocations": [
+      "meet the criteria",
+      "selection criteria",
+      "criteria for evaluation"
+    ],
+    "exampleEn": "What are the main criteria for selecting the scholarship winner?",
+    "exampleVi": "Những tiêu chí chính để lựa chọn người chiến thắng học bổng là gì?",
+    "tags": [
+      "grammar-rule",
+      "academic",
+      "b2"
+    ]
+  },
+  {
+    "id": "feasible",
+    "word": "feasible",
+    "ipa": "/ˈfiː.zə.bəl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Khả thi (nhấn mạnh về CÔNG CỤ: đủ tiền, đủ nguồn lực/sức lực để làm)",
+    "detailedNote": "PHÂN BIỆT BỘ BA: Possible (xác suất xảy ra 0-100%), Feasible (có đủ công cụ/tiền để triển khai), Viable (sau khi làm xong sẽ sống tốt, sinh lời). Cụm: feasible to do / feasible within budget / feasibility study.",
+    "collocations": [
+      "technically feasible",
+      "economically feasible",
+      "feasible within the current budget",
+      "feasibility study"
+    ],
+    "exampleEn": "With my current savings, traveling abroad is not feasible, so I will postpone the trip.",
+    "exampleVi": "Với số tiền tiết kiệm hiện tại, việc đi du lịch nước ngoài là không khả thi, vì vậy tôi sẽ hoãn chuyến đi.",
+    "distinctionNote": "Possible (cơ hội xảy ra) vs Feasible (đủ tiền/nguồn lực thực hiện) vs Viable (sinh lời, tồn tại bền vững).",
+    "tags": [
+      "distinction",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "vanish",
+    "word": "vanish",
+    "ipa": "/ˈvæn.ɪʃ/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Biến mất hoàn toàn, tan biến",
+    "detailedNote": "Mang sắc thái mạnh mẽ, cam kết và dứt khoát hơn từ thông thường \"disappear\".",
+    "collocations": [
+      "entirely vanish",
+      "vanish without a trace",
+      "vanish into thin air"
+    ],
+    "exampleEn": "All my stress seemed to entirely vanish the moment I stepped into nature.",
+    "exampleVi": "Mọi căng thẳng dường như tan biến hoàn toàn ngay giây phút tôi bước vào thiên nhiên.",
+    "tags": [
+      "descriptive",
+      "b2"
+    ]
+  },
+  {
+    "id": "unparalleled",
+    "word": "unparalleled",
+    "ipa": "/ʌnˈpær.ə.leld/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Vô song, không gì sánh bằng (nhấn mạnh không có cái nào khác bằng)",
+    "detailedNote": "Từ vựng C1 tuyệt vời để nâng tầm bài viết thay cho \"the best / greatest\".",
+    "collocations": [
+      "unparalleled convenience",
+      "unparalleled luxury",
+      "unparalleled impact on"
+    ],
+    "exampleEn": "E-commerce offers consumers unparalleled convenience and endless variety.",
+    "exampleVi": "Thương mại điện tử mang lại cho người tiêu dùng sự tiện lợi vô song cùng sự đa dạng bất tận.",
+    "tags": [
+      "ielts-key",
+      "descriptive",
+      "c1"
+    ]
+  },
+  {
+    "id": "minimize",
+    "word": "minimize",
+    "ipa": "/ˈmɪn.ɪ.maɪz/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Giảm thiểu đến mức tối thiểu, thu nhỏ lại hết mức",
+    "detailedNote": "Danh từ: minimization. Tính từ: minimal (rất nhỏ, không đáng kể).",
+    "collocations": [
+      "minimize risks",
+      "minimize negative impact",
+      "minimize costs"
+    ],
+    "exampleEn": "Proper ergonomic setup helps minimize the risk of workplace injuries.",
+    "exampleVi": "Bố trí công thái học hợp lý giúp giảm thiểu tối đa rủi ro chấn thương nơi làm việc.",
+    "tags": [
+      "academic",
+      "action",
+      "b2"
+    ]
+  },
+  {
+    "id": "eliminate",
+    "word": "eliminate",
+    "ipa": "/ɪˈlɪm.ɪ.neɪt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Loại bỏ hoàn toàn, xóa sổ, triệt tiêu (bệnh tật, nhu cầu, đối thủ)",
+    "detailedNote": "PHÂN BIỆT VỚI DISCARD: \"Eliminate\" là xóa bỏ hoàn toàn một khái niệm/nhu cầu/vấn đề (eliminate poverty, eliminate the need for...). Còn \"Discard\" là vứt bỏ đồ vật cụ thể vào sọt rác (discard old clothes/rubbish).",
+    "collocations": [
+      "eliminate the need for",
+      "eliminate direct competitors",
+      "eliminate discrimination"
+    ],
+    "exampleEn": "Digital documentation helps eliminate the need for massive paper storage.",
+    "exampleVi": "Tài liệu kỹ thuật số giúp loại bỏ hoàn toàn nhu cầu về các kho lưu trữ giấy cồng kềnh.",
+    "distinctionNote": "Eliminate (xóa sổ, loại trừ vấn đề/nhu cầu) vs Discard (vứt bỏ vật thể cụ thể như quần áo cũ, rác).",
+    "tags": [
+      "distinction",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "tactile-experience",
+    "word": "tactile experience",
+    "ipa": "/ˈtæk.taɪl ɪkˈspɪə.ri.əns/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Trải nghiệm xúc giác (cảm giác chạm vào, cầm nắm thực tế bằng tay)",
+    "detailedNote": "Cụm từ kinh điển trong các bài luận so sánh giữa sách giấy vs sách điện tử, hoặc mua sắm online vs offline.",
+    "collocations": [
+      "offer a tactile experience",
+      "rich tactile feedback"
+    ],
+    "exampleEn": "Many readers still prefer printed books because they offer a unique tactile experience.",
+    "exampleVi": "Nhiều độc giả vẫn chuộng sách in vì chúng mang lại trải nghiệm xúc giác độc đáo khi lật từng trang sách.",
+    "tags": [
+      "collocation",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "relieve",
+    "word": "relieve",
+    "ipa": "/rɪˈliːv/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Làm giảm nhẹ, giải tỏa (cơn đau, căng thẳng, áp lực)",
+    "detailedNote": "Tính từ: relieved (cảm thấy nhẹ nhõm). Cụm: relieve pain, relieve stress / anxiety / tension.",
+    "collocations": [
+      "relieve stress/anxiety",
+      "relieve pain",
+      "relieve pressure"
+    ],
+    "exampleEn": "Taking short breaks during intensive study helps relieve mental fatigue.",
+    "exampleVi": "Nghỉ giải lao ngắn trong thời gian học tập căng thẳng giúp giải tỏa mệt mỏi trí não.",
+    "tags": [
+      "health",
+      "psychology",
+      "b2"
+    ]
+  },
+  {
+    "id": "sentimental-value",
+    "word": "sentimental value",
+    "ipa": "/ˌsen.tɪˈmen.təl ˈvæl.juː/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Giá trị tình cảm / giá trị tinh thần gắn liền với kỷ niệm",
+    "detailedNote": "PHÂN BIỆT VỚI NOSTALGIC: \"Sentimental value\" là giá trị tinh thần gắn với một ĐỒ VẬT/con người cụ thể (dù món đồ rẻ tiền nhưng có giá trị tình cảm lớn). Còn \"Nostalgic\" là cảm giác hoài niệm hướng về THỜI GIAN/quá khứ (feeling nostalgic about school days).",
+    "collocations": [
+      "hold a lot of sentimental value",
+      "great sentimental value",
+      "of sentimental value to someone"
+    ],
+    "exampleEn": "It is an inexpensive ring, but it holds immense sentimental value for me.",
+    "exampleVi": "Đó là một chiếc nhẫn không đắt tiền, nhưng nó chứa đựng giá trị tình cảm vô giá đối với tôi.",
+    "distinctionNote": "Sentimental (tình cảm gắn với đồ vật/kỷ vật) vs Nostalgic (hoài niệm hướng về quá khứ/thời gian đã qua).",
+    "tags": [
+      "distinction",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "enduring",
+    "word": "enduring",
+    "ipa": "/ɪnˈdʒʊə.rɪŋ/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Lâu dài, trường tồn, bền vững qua năm tháng",
+    "detailedNote": "Bắt nguồn từ động từ \"endure\" (chịu đựng / kéo dài). Dùng miêu tả giá trị, tình bạn, di sản.",
+    "collocations": [
+      "enduring value",
+      "enduring love/friendship",
+      "enduring impact"
+    ],
+    "exampleEn": "The traditional values of perseverance and honesty hold enduring importance.",
+    "exampleVi": "Các giá trị truyền thống về lòng kiên trì và sự trung thực luôn giữ tầm quan trọng trường tồn.",
+    "tags": [
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "contamination",
+    "word": "contamination",
+    "ipa": "/kənˌtæm.ɪˈneɪ.ʃən/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Sự nhiễm bẩn, nhiễm độc trực tiếp (thực phẩm, nguồn nước, vi khuẩn)",
+    "detailedNote": "PHÂN BIỆT VỚI POLLUTION: \"Pollution\" dùng cho quy mô lớn, vĩ mô quyển (air pollution, environmental pollution). \"Contamination\" dùng cho quy mô nhỏ hơn, trực tiếp tiếp xúc chất độc/vi khuẩn (water contamination, cross-contamination - nhiễm khuẩn chéo).",
+    "collocations": [
+      "cross-contamination",
+      "water contamination",
+      "prevent contamination"
+    ],
+    "exampleEn": "The local river was closed to fishing due to chemical contamination from the factory.",
+    "exampleVi": "Dòng sông địa phương đã bị cấm đánh bắt cá do sự nhiễm độc hóa chất từ nhà máy.",
+    "distinctionNote": "Pollute/Pollution (ô nhiễm diện rộng môi trường vĩ mô) vs Contaminate/Contamination (nhiễm bẩn/nhiễm độc trực tiếp vào nước, thức ăn).",
+    "tags": [
+      "distinction",
+      "environment",
+      "c1"
+    ]
+  },
+  {
+    "id": "resigned",
+    "word": "resigned",
+    "ipa": "/rɪˈzaɪnd/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Cam chịu, chấp nhận số phận/thực tại dù buồn hay bất lực vì không thể thay đổi",
+    "detailedNote": "Cấu trúc: be resigned to something / doing something. Động từ phản thân: resign oneself to. Phân biệt với động từ resign (từ chức).",
+    "collocations": [
+      "resigned to her fate",
+      "a resigned sigh",
+      "a resigned look"
+    ],
+    "exampleEn": "Seeing that nothing could be done, she gave a resigned sigh and accepted the outcome.",
+    "exampleVi": "Nhận thấy chẳng thể làm được gì hơn, cô ấy thở dài cam chịu và chấp nhận kết quả.",
+    "tags": [
+      "psychology",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "alleviate",
+    "word": "alleviate",
+    "ipa": "/əˈliː.vi.eɪt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Làm giảm bớt, xoa dịu, giảm nhẹ (gánh nặng, nỗi đau, ô nhiễm, nghèo đói)",
+    "detailedNote": "Từ vựng vàng cho IELTS Task 2: \"can be significantly alleviated by...\"",
+    "collocations": [
+      "alleviate poverty",
+      "alleviate traffic congestion",
+      "significantly alleviated"
+    ],
+    "exampleEn": "Air pollution in urban areas can be significantly alleviated by planting more trees.",
+    "exampleVi": "Ô nhiễm không khí tại các khu đô thị có thể được giảm nhẹ đáng kể bằng cách trồng nhiều cây xanh.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "thriving",
+    "word": "thriving",
+    "ipa": "/ˈθraɪ.vɪŋ/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Đang phát triển thịnh vượng, phồn vinh, rất thành công",
+    "detailedNote": "Động từ gốc: thrive. Rất hay đi với business, economy, community.",
+    "collocations": [
+      "thriving business",
+      "thriving economy",
+      "thriving ecosystem"
+    ],
+    "exampleEn": "The small coastal town has transformed into a thriving tourist destination.",
+    "exampleVi": "Thị trấn ven biển nhỏ đã chuyển mình thành một điểm đến du lịch phồn thịnh.",
+    "tags": [
+      "business",
+      "economy",
+      "b2"
+    ]
+  },
+  {
+    "id": "swamped",
+    "word": "swamped",
+    "ipa": "/swɒmpt/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Ngập đầu, quá tải công việc = fully occupied",
+    "detailedNote": "Cấu trúc cố định: be swamped WITH something (danh từ).",
+    "collocations": [
+      "be swamped with work",
+      "be swamped with emails",
+      "swamped by requests"
+    ],
+    "exampleEn": "I'm completely swamped with emails after returning from the two-week vacation.",
+    "exampleVi": "Tôi hoàn toàn ngập đầu trong đống email sau khi trở về từ kỳ nghỉ hai tuần.",
+    "tags": [
+      "workplace",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "empathy",
+    "word": "empathy",
+    "ipa": "/ˈem.pə.θi/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Sự thấu cảm (đặt mình vào vị trí cảm xúc người khác vì từng trải qua hoặc cảm nhận trọn vẹn)",
+    "detailedNote": "PHÂN BIỆT VỚI SYMPATHY: Sympathy là thông cảm từ góc độ bên ngoài (thấy thương tội nghiệp, mua trà sữa an ủi). Empathy là thấu cảm sâu sắc (cùng khóc, đặt mình hoàn toàn vào hoàn cảnh của họ).",
+    "collocations": [
+      "show empathy toward",
+      "feel deep empathy",
+      "empathetic listener"
+    ],
+    "exampleEn": "Great medical professionals possess not only knowledge but also deep empathy toward their patients.",
+    "exampleVi": "Những chuyên gia y tế giỏi không chỉ có kiến thức mà còn sở hữu sự thấu cảm sâu sắc đối với bệnh nhân của họ.",
+    "distinctionNote": "Empathy (thấu cảm - đặt mình vào vị trí họ) vs Sympathy (thông cảm - nhìn từ bên ngoài thấy thương).",
+    "tags": [
+      "distinction",
+      "psychology",
+      "c1"
+    ]
+  },
+  {
+    "id": "formidable",
+    "word": "formidable",
+    "ipa": "/fɔːˈmɪd.ə.bəl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Đáng gờm, ghê gớm, dữ dội khiến người khác phải kiêng nể hoặc cảm thấy khó vượt qua",
+    "detailedNote": "Dùng cho đối thủ (enemy/competitor), thử thách (challenge) hoặc trở ngại (obstacle).",
+    "collocations": [
+      "formidable enemy",
+      "formidable obstacle",
+      "formidable task"
+    ],
+    "exampleEn": "Securing venture funding in a tight market proved to be a formidable task.",
+    "exampleVi": "Việc huy động vốn đầu tư mạo hiểm trong một thị trường eo hẹp đã chứng minh là một nhiệm vụ vô cùng đáng gờm.",
+    "tags": [
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "tackle",
+    "word": "tackle",
+    "ipa": "/ˈtæk.əl/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Giải quyết, xử lý dứt khoát vấn đề khó khăn; cản phá (thể thao)",
+    "detailedNote": "Thay thế cực tốt cho \"deal with\" hoặc \"solve\" trong các bài luận chính sách.",
+    "collocations": [
+      "tackle tough issues",
+      "tackle climate change",
+      "tackle crime"
+    ],
+    "exampleEn": "The government needs to adopt decisive policies to tackle youth unemployment.",
+    "exampleVi": "Chính phủ cần áp dụng các chính sách quyết liệt để giải quyết vấn đề thất nghiệp ở thanh niên.",
+    "tags": [
+      "ielts-key",
+      "action",
+      "b2"
+    ]
+  },
+  {
+    "id": "unprecedented",
+    "word": "unprecedented",
+    "ipa": "/ʌnˈpres.ɪ.den.tɪd/",
+    "pos": "adj",
+    "level": "C2",
+    "meaning": "Chưa từng có tiền lệ, chưa từng xảy ra trong lịch sử",
+    "detailedNote": "Từ vựng C2 cực mạnh trong văn phong báo chí và học thuật.",
+    "collocations": [
+      "on an unprecedented scale",
+      "unprecedented growth",
+      "unprecedented crisis"
+    ],
+    "exampleEn": "Global supply chains faced disruptions on an unprecedented scale during the pandemic.",
+    "exampleVi": "Chuỗi cung ứng toàn cầu đã đối mặt với những gián đoạn ở quy mô chưa từng có trong lịch sử suốt thời kỳ đại dịch.",
+    "tags": [
+      "academic",
+      "c2"
+    ]
+  },
+  {
+    "id": "remedy",
+    "word": "remedy",
+    "ipa": "/ˈrem.ə.di/",
+    "pos": "noun",
+    "level": "B2",
+    "meaning": "Phương thuốc dân gian, mẹo chữa tại nhà (không cần kê đơn)",
+    "detailedNote": "PHÂN BIỆT VỚI CURE VÀ MEDICINE: \"Remedy\" là mẹo dân gian, trà gừng, nước muối; \"Medicine\" là thuốc hóa học do bác sĩ kê; \"Cure\" là phương pháp điều trị dứt điểm hoàn toàn căn bệnh.",
+    "collocations": [
+      "natural remedy",
+      "home remedy for sore throat",
+      "effective remedy"
+    ],
+    "exampleEn": "Warm salt water is a classic home remedy for easing a sore throat.",
+    "exampleVi": "Nước muối ấm là một phương thuốc dân gian kinh điển để làm dịu cơn đau họng.",
+    "distinctionNote": "Remedy (mẹo chữa/thuốc dân gian) vs Medicine (thuốc tây y) vs Cure (chữa khỏi dứt điểm).",
+    "tags": [
+      "distinction",
+      "health",
+      "b2"
+    ]
+  },
+  {
+    "id": "degrade",
+    "word": "degrade",
+    "ipa": "/dɪˈɡreɪd/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Làm suy thoái, xuống cấp phẩm chất, làm thoái hóa môi trường/phẩm giá",
+    "detailedNote": "Danh từ: degradation. Cụm: environmental degradation (suy thoái môi trường).",
+    "collocations": [
+      "degrade the environment",
+      "degraded ecosystem",
+      "degraded dignity"
+    ],
+    "exampleEn": "Deforestation and heavy pollution continue to degrade delicate ecosystems.",
+    "exampleVi": "Nạn phá rừng và ô nhiễm nặng nề tiếp tục làm suy thoái các hệ sinh thái mỏng manh.",
+    "tags": [
+      "environment",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "underlying",
+    "word": "underlying",
+    "ipa": "/ˌʌn.dəˈlaɪ.ɪŋ/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Cốt lõi, tiềm ẩn sâu bên dưới (nguyên nhân ẩn không lộ trên bề mặt nhưng chi phối)",
+    "detailedNote": "Thường dùng trong y tế (bệnh lý nền - underlying condition) và kinh tế xã hội (underlying cause).",
+    "collocations": [
+      "underlying cause (nguyên nhân gốc rễ)",
+      "underlying motivation",
+      "underlying principle"
+    ],
+    "exampleEn": "Doctors looked past the superficial symptoms to uncover the underlying cause of the disease.",
+    "exampleVi": "Các bác sĩ đã nhìn vượt qua các triệu chứng bề ngoài để phát hiện ra nguyên nhân cốt lõi của căn bệnh.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "ruined",
+    "word": "ruined",
+    "ipa": "/ˈruː.ɪnd/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Bị hủy hoại, đổ nát, tan tành, bị phá sản",
+    "detailedNote": "Động từ: ruin (ruin a picnic, ruin a mood). Bị phá sản tài chính: financially ruined.",
+    "collocations": [
+      "financially ruined",
+      "ruined building",
+      "ruin a surprise"
+    ],
+    "exampleEn": "The sudden downpour completely ruined our weekend outdoor picnic.",
+    "exampleVi": "Cơn mưa rào bất chợt đã hủy hoại hoàn toàn buổi dã ngoại ngoài trời cuối tuần của chúng tôi.",
+    "tags": [
+      "daily",
+      "b2"
+    ]
+  },
+  {
+    "id": "imperative",
+    "word": "imperative",
+    "ipa": "/ɪmˈper.ə.tɪv/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Tối quan trọng, khẩn cấp, bắt buộc phải hành động ngay",
+    "detailedNote": "Cấu trúc giả định cực hay trong IELTS: \"It is imperative that S + (should) + V(bare)...\" hoặc \"It is imperative to do sth\".",
+    "collocations": [
+      "it is imperative to recognize",
+      "action is imperative",
+      "imperative duty"
+    ],
+    "exampleEn": "It is imperative that prompt actions be taken to combat global warming.",
+    "exampleVi": "Điều tối quan trọng là các hành động kịp thời phải được triển khai để chống lại sự nóng lên toàn cầu.",
+    "tags": [
+      "grammar-rule",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "accelerate",
+    "word": "accelerate",
+    "ipa": "/əkˈsel.ə.reɪt/",
+    "pos": "verb",
+    "level": "C2",
+    "meaning": "Tăng tốc, đẩy nhanh tiến độ, làm xảy ra sớm hơn",
+    "detailedNote": "Trong kinh tế: accelerating inflation (lạm phát phi mã), accelerating growth (tăng trưởng thần tốc).",
+    "collocations": [
+      "accelerating growth",
+      "accelerate progress",
+      "accelerate inflation"
+    ],
+    "exampleEn": "New investments in digital infrastructure are the key to accelerating economic growth.",
+    "exampleVi": "Các khoản đầu tư mới vào cơ sở hạ tầng kỹ thuật số là chìa khóa để đẩy nhanh tăng trưởng kinh tế.",
+    "tags": [
+      "business",
+      "c2"
+    ]
+  },
+  {
+    "id": "profound",
+    "word": "profound",
+    "ipa": "/prəˈfaʊnd/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Sâu sắc, to lớn, có ảnh hưởng sâu rộng",
+    "detailedNote": "Thay thế cực tốt cho \"deep / big / huge\": profound impact / profound thought / profound change.",
+    "collocations": [
+      "have a profound impact on",
+      "profound effect",
+      "profound thought"
+    ],
+    "exampleEn": "The digital revolution has exerted a profound impact on how modern societies interact.",
+    "exampleVi": "Cuộc cách mạng kỹ thuật số đã tạo ra một tác động sâu sắc lên cách các xã hội hiện đại tương tác.",
+    "tags": [
+      "ielts-key",
+      "writing",
+      "c1"
+    ]
+  },
+  {
+    "id": "ease",
+    "word": "ease",
+    "ipa": "/iːz/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Làm dịu đi, xoa dịu, nới lỏng nhẹ nhàng từ từ; sự dễ dàng",
+    "detailedNote": "Mang sắc thái nhẹ nhàng, từ từ (gently/gradually) mà reduce hay move không diễn tả hết. Tài chính: ease monetary policy (nới lỏng chính sách tiền tệ). Cụm nói: put someone at ease.",
+    "collocations": [
+      "put someone at ease",
+      "ease the pain",
+      "ease monetary policy"
+    ],
+    "exampleEn": "Her warm welcoming smile immediately put all the nervous interviewees at ease.",
+    "exampleVi": "Nụ cười chào đón ấm áp của cô ấy ngay lập tức làm cho tất cả các ứng viên phỏng vấn đang lo lắng cảm thấy nhẹ nhõm thoải mái.",
+    "tags": [
+      "psychology",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "interpersonal-skills",
+    "word": "interpersonal skills",
+    "ipa": "/ˌɪn.təˈpɜː.sən.əl skɪlz/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Kỹ năng giao tiếp và ứng xử liên cá nhân (khéo léo, thấu hiểu, kết nối)",
+    "detailedNote": "Phân biệt: \"Personal interaction\" là hành động tiếp xúc, còn \"Interpersonal skills\" là năng lực thực hiện tương tác đó hiệu quả.",
+    "collocations": [
+      "strong interpersonal skills",
+      "develop interpersonal skills",
+      "lack interpersonal skills"
+    ],
+    "exampleEn": "Besides technical expertise, employers place enormous value on strong interpersonal skills.",
+    "exampleVi": "Bên cạnh chuyên môn kỹ thuật, các nhà tuyển dụng đặt giá trị rất lớn vào kỹ năng giao tiếp ứng xử liên cá nhân vững vàng.",
+    "tags": [
+      "workplace",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "mandate",
+    "word": "mandate",
+    "ipa": "/ˈmæn.deɪt/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Lệnh chính thức, chỉ thị pháp lý bắt buộc từ cơ quan có thẩm quyền",
+    "detailedNote": "Cấu trúc bị động phổ biến: S + be + mandated + to be V3/ed. Ví dụ: Every bridge is mandated to be inspected annually.",
+    "collocations": [
+      "government mandate",
+      "give a mandate to",
+      "statutory mandate"
+    ],
+    "exampleEn": "The CEO issued a direct mandate to reduce operational costs by ten percent.",
+    "exampleVi": "Tổng giám đốc đã ban hành chỉ thị trực tiếp yêu cầu cắt giảm 10% chi phí vận hành.",
+    "tags": [
+      "law",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "compel",
+    "word": "compel",
+    "ipa": "/kəmˈpel/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Ép buộc, thúc ép khó lòng từ chối",
+    "detailedNote": "Cấu trúc cực phổ biến: S + be + compelled + to do something. So sánh cấp độ bắt buộc: Require (cần) -> Mandate (lệnh chính phủ) -> Obligate (nghĩa vụ ân tình) -> Compel (ép khó từ chối) -> Enforce (cưỡng chế).",
+    "collocations": [
+      "feel compelled to",
+      "compel someone to do sth",
+      "compelling reasons"
+    ],
+    "exampleEn": "She felt compelled to speak up when she witnessed the unfair treatment of her colleague.",
+    "exampleVi": "Cô ấy cảm thấy buộc phải lên tiếng khi chứng kiến sự đối xử bất công với đồng nghiệp của mình.",
+    "tags": [
+      "action",
+      "c1"
+    ]
+  },
+  {
+    "id": "advent-of",
+    "word": "the advent of",
+    "ipa": "/ðiː ˈæd.vent ɒv/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Sự ra đời, sự xuất hiện đánh dấu bước ngoặt của cái gì",
+    "detailedNote": "Dùng khi muốn nhấn mạnh: \"Kể từ lúc có X, mọi thứ đã thay đổi\". Nó nói về việc X đã có mặt (không nói về việc phát triển nhanh hay chậm). Task 2 mở bài tuyệt đỉnh.",
+    "collocations": [
+      "the advent of technology",
+      "the advent of the internet",
+      "the advent of modern medicine"
+    ],
+    "exampleEn": "The advent of the smartphone has revolutionized the way humans access knowledge.",
+    "exampleVi": "Sự ra đời của điện thoại thông minh đã cách mạng hóa cách thức con người tiếp cận tri thức.",
+    "tags": [
+      "ielts-key",
+      "writing",
+      "c1"
+    ]
+  },
+  {
+    "id": "probation",
+    "word": "probation",
+    "ipa": "/prəˈbeɪ.ʃən/",
+    "pos": "noun",
+    "level": "B2",
+    "meaning": "Thời gian thử việc (công sở); thời gian quản chế / án treo (pháp luật)",
+    "detailedNote": "Thành ngữ công sở: \"on probation\" (đang trong giai đoạn thử việc), \"probation period\" (thời gian thử việc).",
+    "collocations": [
+      "on probation",
+      "probation period",
+      "pass probation"
+    ],
+    "exampleEn": "After six months on probation, she was offered a permanent position with full benefits.",
+    "exampleVi": "Sau sáu tháng thử việc, cô ấy đã được nhận vào vị trí chính thức lâu dài với đầy đủ chế độ đãi ngộ.",
+    "tags": [
+      "workplace",
+      "b2"
+    ]
+  },
+  {
+    "id": "inevitable",
+    "word": "inevitable",
+    "ipa": "/ɪnˈev.ɪ.tə.bəl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Không thể tránh khỏi, chắc chắn sẽ xảy ra (tất yếu)",
+    "detailedNote": "Dùng rất phổ biến khi bàn về quy luật tự nhiên, lão hóa, hay biến động kinh tế.",
+    "collocations": [
+      "inevitable consequence",
+      "inevitable result",
+      "it is inevitable that"
+    ],
+    "exampleEn": "Getting older is inevitable; however, how gracefully we age depends on our lifestyle choices.",
+    "exampleVi": "Việc già đi là không thể tránh khỏi; tuy nhiên, chúng ta già đi phong độ ra sao phụ thuộc vào lựa chọn lối sống.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "exert",
+    "word": "exert",
+    "ipa": "/ɪɡˈzɜːt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Áp đặt, gây ra, dùng (sức mạnh, áp lực, tầm ảnh hưởng) đè nặng lên đối tượng khác",
+    "detailedNote": "QUY TẮC CỐT LÕI: \"Exert\" CHỈ đi với các danh từ trừu tượng thể hiện sức mạnh/áp lực: exert pressure / exert influence / exert control.",
+    "collocations": [
+      "exert pressure on",
+      "exert a profound influence on",
+      "exert control over"
+    ],
+    "exampleEn": "The excessive workload exerts a profound pressure on young corporate employees.",
+    "exampleVi": "Khối lượng công việc quá tải đè nặng một áp lực sâu sắc lên những nhân viên văn phòng trẻ tuổi.",
+    "tags": [
+      "ielts-key",
+      "action",
+      "c1"
+    ]
+  },
+  {
+    "id": "strain",
+    "word": "the strains",
+    "ipa": "/ðə streɪnz/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Sự căng thẳng, áp lực quá tải đè nặng lên hệ thống hoặc tinh thần",
+    "detailedNote": "Dùng phản ánh trạng thái \"quá tải\", \"kiệt quệ\" của hệ thống công cộng hoặc con người.",
+    "collocations": [
+      "strain on the public health system",
+      "urban strain",
+      "economic strain",
+      "put a strain on"
+    ],
+    "exampleEn": "A rapidly aging demographic puts an enormous strain on public healthcare systems.",
+    "exampleVi": "Dân số già hóa nhanh chóng đang tạo ra áp lực đè nặng khổng lồ lên hệ thống y tế công cộng.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "resilience",
+    "word": "resilience",
+    "ipa": "/rɪˈzɪl.jəns/",
+    "pos": "noun",
+    "level": "C2",
+    "meaning": "Khả năng phục hồi, kiên cường vượt qua khó khăn",
+    "detailedNote": "Tính từ: resilient. Một trong những từ vựng đắt giá nhất mô tả phẩm chất con người hoặc nền kinh tế.",
+    "collocations": [
+      "build resilience",
+      "emotional resilience",
+      "economic resilience"
+    ],
+    "exampleEn": "Children who overcome early adversity frequently develop remarkable mental resilience.",
+    "exampleVi": "Những đứa trẻ vượt qua nghịch cảnh từ sớm thường rèn luyện được sức bền tinh thần đáng kinh ngạc.",
+    "tags": [
+      "psychology",
+      "c2"
+    ]
+  },
+  {
+    "id": "societal",
+    "word": "societal",
+    "ipa": "/səˈsaɪ.ə.təl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Thuộc về toàn bộ hệ thống xã hội / thể chế quốc gia",
+    "detailedNote": "MẸO NHỚ: Nếu nói \"giữa người với người\" hoặc \"hòa đồng\", hãy dùng \"social\". Nếu đang nói về \"cả một hệ thống xã hội, vấn đề quốc gia/thể chế\", bắt buộc dùng \"societal\".",
+    "collocations": [
+      "societal development",
+      "societal norms",
+      "societal challenges",
+      "societal changes"
+    ],
+    "exampleEn": "Technological shifts require comprehensive societal adjustments to safeguard vulnerable citizens.",
+    "exampleVi": "Những chuyển dịch công nghệ đòi hỏi sự điều chỉnh của toàn bộ hệ thống xã hội để bảo vệ công dân yếu thế.",
+    "distinctionNote": "Social (quan hệ giữa người với người / hòa đồng) vs Societal (toàn bộ hệ thống, thể chế xã hội quy mô lớn).",
+    "tags": [
+      "distinction",
+      "society",
+      "c1"
+    ]
+  },
+  {
+    "id": "implement-vs-execute",
+    "word": "implement vs execute",
+    "ipa": "/ˈɪm.plɪ.ment/ vs /ˈek.sɪ.kjuːt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Implement: đưa ý tưởng thành hiện thực; Execute: thực thi dứt khoát hoàn tất kế hoạch/động tác",
+    "detailedNote": "MẸO NHỚ CỐT LÕI: \"Implement = Làm cho nó TỒN TẠI (từ ý tưởng thành thực tế)\". \"Execute = Làm cho nó XONG (từ kế hoạch thành kết quả)\". Trong thể thao/vũ đạo/âm nhạc, khi thực hiện một động tác khó, cú sút, đoạn nhạc -> luôn dùng EXECUTE!",
+    "collocations": [
+      "implement a policy/system/changes",
+      "execute a dance routine",
+      "execute a plan flawlessly"
+    ],
+    "exampleEn": "The team practiced the routine for weeks to execute every move perfectly in the final.",
+    "exampleVi": "Nhóm đã tập bài nhảy suốt nhiều tuần để thực thi chuẩn xác từng động tác trong trận chung kết.",
+    "distinctionNote": "Implement (bắt đầu triển khai, đưa ý tưởng vào hoạt động) vs Execute (thực thi dứt khoát, hoàn tất kỹ thuật/động tác).",
+    "tags": [
+      "distinction",
+      "action",
+      "c1"
+    ]
+  },
+  {
+    "id": "mitigate",
+    "word": "mitigate",
+    "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Giảm nhẹ tác hại, mức độ nghiêm trọng hoặc hậu quả xấu",
+    "detailedNote": "PHÂN BIỆT VỚI DECLINE: \"Mitigate\" là chủ động làm giảm nhẹ tác hại xấu. \"Decline\" là tự tụt giảm (số liệu) hoặc nói lời từ chối (decline an invitation).",
+    "collocations": [
+      "mitigate risks",
+      "mitigate the effects of climate change",
+      "mitigate damage"
+    ],
+    "exampleEn": "Governments must act urgently to mitigate the severe consequences of global warming.",
+    "exampleVi": "Các chính phủ phải hành động khẩn trương để giảm nhẹ các hậu quả nặng nề của hiện tượng nóng lên toàn cầu.",
+    "distinctionNote": "Mitigate (giảm nhẹ rủi ro/hậu quả xấu) vs Decline (tự tụt giảm về số lượng hoặc từ chối).",
+    "tags": [
+      "distinction",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "capture",
+    "word": "capture",
+    "ipa": "/ˈkæp.tʃər/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Ghi lại trọn vẹn; thu hút mạnh mẽ; chiếm giữ",
+    "detailedNote": "Thay vì nói shows hoặc describes, dùng captures: \"The documentary captures my attention immediately\". Cụm lãng mạn: capture someone's heart.",
+    "collocations": [
+      "capture attention/interest",
+      "capture someone's heart",
+      "capture data",
+      "capturing territory"
+    ],
+    "exampleEn": "The documentary captures viewer attention immediately because it portrays nature so vividly.",
+    "exampleVi": "Bộ phim tài liệu thu hút sự chú ý của người xem ngay lập tức bởi nó lột tả thiên nhiên một cách vô cùng sống động.",
+    "tags": [
+      "writing",
+      "b2"
+    ]
+  },
+  {
+    "id": "lingering",
+    "word": "lingering",
+    "ipa": "/ˈlɪŋ.ɡər.ɪŋ/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Dai dẳng, vương vấn, kéo dài không chịu dứt",
+    "detailedNote": "Động từ: linger (chần chừ, nán lại). Đi kèm với nghi ngờ, mùi hương, hậu quả.",
+    "collocations": [
+      "lingering doubt",
+      "lingering suspicion",
+      "lingering smell",
+      "lingering effect"
+    ],
+    "exampleEn": "Despite his official apology, a lingering doubt remained among his business partners.",
+    "exampleVi": "Dù anh ta đã chính thức xin lỗi, một nỗi nghi ngờ dai dẳng vẫn còn vương lại giữa các đối tác kinh doanh.",
+    "tags": [
+      "ielts-key",
+      "descriptive",
+      "c1"
+    ]
+  },
+  {
+    "id": "doubt-vs-suspicion",
+    "word": "doubt vs suspicion",
+    "ipa": "/daʊt/ vs /səˈspɪʃ.ən/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Doubt: nghi ngờ tính đúng/sai logic; Suspicion: nghi ngờ ai đó làm điều xấu/phạm pháp",
+    "detailedNote": "MẸO NHỚ NHANH: Nghĩ đến \"Doubt\" là nghĩ đến dấu hỏi chấm (không chắc chắn, logic). Nghĩ đến \"Suspicion\" là nghĩ đến thám tử/cảnh sát (tin rằng ai đó đang làm điều xấu, phạm tội).",
+    "collocations": [
+      "lingering doubt",
+      "under suspicion of murder",
+      "cast doubt on"
+    ],
+    "exampleEn": "The police arrested the suspect because there was a strong suspicion of embezzlement.",
+    "exampleVi": "Cảnh sát đã bắt giữ nghi phạm vì có sự nghi ngờ mạnh mẽ về hành vi tham ô.",
+    "distinctionNote": "Doubt (nghi ngờ vì chưa chắc đúng hay sai logic) vs Suspicion (nghi ngờ ai đó làm điều xấu, phạm tội gian lận).",
+    "tags": [
+      "distinction",
+      "psychology",
+      "c1"
+    ]
+  },
+  {
+    "id": "slender",
+    "word": "slender",
+    "ipa": "/ˈslen.dər/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Thon thả, thanh mảnh, uyển chuyển duyên dáng (khen ngợi)",
+    "detailedNote": "PHÂN BIỆT VỚI SLIM VÀ THIN: \"Thin\" là gầy chung chung (có thể thiếu cân); \"Slim\" là gọn gàng, thon gọn; \"Slender\" mang sắc thái trang nhã hơn cả, miêu tả vóc dáng mỏng manh nhưng uyển chuyển, thanh lịch.",
+    "collocations": [
+      "slender waist",
+      "slender fingers",
+      "slender figure"
+    ],
+    "exampleEn": "The ballerina had a remarkably slender and graceful physique.",
+    "exampleVi": "Nữ vũ công ba-lê có một vóc dáng thanh mảnh và duyên dáng một cách đáng kinh ngạc.",
+    "distinctionNote": "Thin (gầy) vs Slim (thon gọn, đẹp) vs Slender (thanh mảnh, uyển chuyển, trang nhã).",
+    "tags": [
+      "distinction",
+      "descriptive",
+      "b2"
+    ]
+  },
+  {
+    "id": "coerce",
+    "word": "coerce",
+    "ipa": "/koʊˈɜːs/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Cưỡng ép, ép buộc bằng đe dọa, áp lực hoặc vũ lực",
+    "detailedNote": "CẤU TRÚC CHUẨN NHẤT: coerce someone INTO V-ing. Dạng bị động: S + be coerced into V-ing.",
+    "collocations": [
+      "coerce someone into signing",
+      "coerce into confessing",
+      "coercive measures"
+    ],
+    "exampleEn": "The employee claimed he was coerced into signing the unfair resignation letter.",
+    "exampleVi": "Người nhân viên khẳng định mình đã bị ép buộc ký vào lá đơn xin thôi việc bất công.",
+    "tags": [
+      "grammar-rule",
+      "law",
+      "c1"
+    ]
+  },
+  {
+    "id": "possession",
+    "word": "possession",
+    "ipa": "/pəˈzeʃ.ən/",
+    "pos": "noun",
+    "level": "B2",
+    "meaning": "Sự sở hữu; tài sản, của cải vật chất, tư trang cá nhân",
+    "detailedNote": "Lưu ý phát âm có âm /z/: /pəˈzeʃ.ən/. Các cụm đắt giá: take possession of (tiếp quản quyền sở hữu), prized possession (món đồ trân quý nhất), personal possessions (tư trang).",
+    "collocations": [
+      "prized possession",
+      "personal possessions",
+      "take possession of",
+      "illegal possession"
+    ],
+    "exampleEn": "That vintage guitar handed down from his grandfather is his most prized possession.",
+    "exampleVi": "Cây đàn guitar cổ được ông nội truyền lại là món đồ trân quý nhất của anh ấy.",
+    "tags": [
+      "law",
+      "daily",
+      "b2"
+    ]
+  },
+  {
+    "id": "accommodate",
+    "word": "accommodate",
+    "ipa": "/əˈkɒm.ə.deɪt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Đáp ứng nhu cầu/nguyện vọng; cung cấp chỗ ăn ở/chứa đủ số lượng người",
+    "detailedNote": "Từ đa năng bậc cao thay thế cho fit, hold, help, house, adapt. Cụm: accommodate someone's needs/request.",
+    "collocations": [
+      "accommodate a large number of people",
+      "accommodate someone's needs",
+      "fully accommodated (có sẵn chỗ ngủ)"
+    ],
+    "exampleEn": "The conference venue was carefully chosen because it can comfortably accommodate 500 delegates.",
+    "exampleVi": "Địa điểm hội nghị đã được lựa chọn kỹ càng vì nó có thể chứa đựng thoải mái 500 đại biểu.",
+    "tags": [
+      "hospitality",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "defy",
+    "word": "defy",
+    "ipa": "/dɪˈfaɪ/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Thách thức, bất chấp, vượt qua mọi giới hạn/kỳ vọng hoặc quy luật",
+    "detailedNote": "Quá khứ: defied. Các cụm đỉnh cao: \"defy expectations\" (vượt ngoài mong đợi), \"defy the odds\" (lội ngược dòng thành công bất chấp xác suất), \"defies explanation\" (khó hiểu đến mức không thể giải thích nổi).",
+    "collocations": [
+      "defy expectations",
+      "defy the odds",
+      "defy explanation",
+      "defy orders"
+    ],
+    "exampleEn": "The team defied the odds to defeat the reigning champions in the final tournament.",
+    "exampleVi": "Đội bóng đã lội ngược dòng bất chấp mọi dự đoán để đánh bại nhà đương kim vô địch trong trận chung kết.",
+    "tags": [
+      "ielts-key",
+      "action",
+      "c1"
+    ]
+  },
+  {
+    "id": "stunning",
+    "word": "stunning",
+    "ipa": "/ˈstʌn.ɪŋ/",
+    "pos": "adj",
+    "level": "B2",
+    "meaning": "Tuyệt đẹp, lộng lẫy, gây choáng ngợp sửng sốt",
+    "detailedNote": "Dùng miêu tả vẻ đẹp của phụ nữ, trang phục hoặc phong cảnh thiên nhiên hùng vĩ.",
+    "collocations": [
+      "stunning view",
+      "stunning dress",
+      "stunning beach"
+    ],
+    "exampleEn": "We spent our sunny afternoon on a stunning beach with crystal-clear turquoise waters.",
+    "exampleVi": "Chúng tôi dành buổi chiều ngập nắng trên một bãi biển tuyệt đẹp với làn nước màu ngọc lam trong vắt như pha lê.",
+    "tags": [
+      "descriptive",
+      "travel",
+      "b2"
+    ]
+  },
+  {
+    "id": "monumental",
+    "word": "monumental",
+    "ipa": "/ˌmɒn.jʊˈmen.təl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Đồ sộ, vĩ đại, mang tính lịch sử để đời (công trình hoặc thành tựu)",
+    "detailedNote": "Thay thế cực mạnh cho massive / enormous / significant: \"monumental achievement / task / decision\".",
+    "collocations": [
+      "monumental achievement",
+      "monumental task",
+      "monumental decision",
+      "monumental shift"
+    ],
+    "exampleEn": "Constructing the transcontinental railway was a monumental achievement for that era.",
+    "exampleVi": "Xây dựng tuyến đường sắt xuyên lục địa là một thành tựu vĩ đại để đời của thời đại đó.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "cater-to",
+    "word": "cater to",
+    "ipa": "/ˈkeɪ.tər tuː/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Chiều chuộng, phục vụ đúng gu/nhu cầu của một nhóm đối tượng cụ thể",
+    "detailedNote": "Band 7.0+: Sắc thái cốt lõi của \"cater to\" là phục vụ chuyên biệt, đánh trúng thị hiếu (ví dụ cater to the elderly, cater to vegetarians). Khác với \"serve\" chỉ là bưng bê phục vụ chung.",
+    "collocations": [
+      "cater to the needs of",
+      "cater to a younger demographic",
+      "cater for"
+    ],
+    "exampleEn": "The luxury resort was uniquely designed to cater to the needs of affluent travelers.",
+    "exampleVi": "Khu nghỉ dưỡng cao cấp được thiết kế riêng biệt để chiều chuộng đúng nhu cầu của những du khách giàu có.",
+    "distinctionNote": "Cater to (phục vụ đúng gu, chiều chuộng đối tượng cụ thể) vs Serve (phục vụ chung chung).",
+    "tags": [
+      "distinction",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "illiterate",
+    "word": "illiterate",
+    "ipa": "/ɪˈlɪt.ər.ət/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Mù chữ; hoặc mù kiến thức về một lĩnh vực cụ thể (công nghệ, tài chính, âm nhạc)",
+    "detailedNote": "Ghép từ cực xịn: technologically illiterate (mù công nghệ), financially illiterate (mù tài chính), computer-illiterate.",
+    "collocations": [
+      "technologically illiterate",
+      "financially illiterate",
+      "computer-illiterate"
+    ],
+    "exampleEn": "Being financially illiterate leaves young adults vulnerable to predatory lending schemes.",
+    "exampleVi": "Việc mù kiến thức tài chính khiến người trẻ dễ trở thành nạn nhân của các bẫy tín dụng đen.",
+    "tags": [
+      "education",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "surpass",
+    "word": "surpass",
+    "ipa": "/səˈpɑːs/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Vượt trội hơn về chất lượng, tài năng hoặc đẳng cấp",
+    "detailedNote": "PHÂN BIỆT BỘ TỪ: \"Beat\" (đánh bại đối thủ); \"Exceed\" (vượt quá con số, ngân sách, giới hạn định trước); \"Surpass\" (vượt trội hơn hẳn về chất lượng, đẳng cấp: surpass expectations, surpass oneself). Cụm: far surpass.",
+    "collocations": [
+      "surpass expectations",
+      "surpass the record",
+      "far surpass the competition",
+      "surpass oneself"
+    ],
+    "exampleEn": "The young athlete far surpassed all expectations by breaking the world record.",
+    "exampleVi": "Vận động viên trẻ đã vượt xa mọi kỳ vọng khi phá vỡ kỷ lục thế giới.",
+    "distinctionNote": "Surpass (vượt trội về chất lượng/đẳng cấp) vs Exceed (vượt con số/giới hạn) vs Beat (hạ gục đối thủ).",
+    "tags": [
+      "distinction",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "beyond",
+    "word": "beyond",
+    "ipa": "/bɪˈjɒnd/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Vượt ra ngoài phạm vi, nằm ngoài tầm kiểm soát hoặc tầm hiểu biết",
+    "detailedNote": "Thành ngữ bản xứ cửa miệng: \"This is beyond me\" (Tôi chịu, vượt quá tầm hiểu của tôi!). Các cụm học thuật: beyond belief, beyond my understanding.",
+    "collocations": [
+      "this is beyond me",
+      "beyond belief",
+      "beyond my understanding",
+      "beyond description"
+    ],
+    "exampleEn": "The intricate workings of quantum mechanics are simply beyond my understanding.",
+    "exampleVi": "Các cơ chế phức tạp của cơ học lượng tử đơn giản là nằm ngoài tầm hiểu biết của tôi.",
+    "tags": [
+      "speaking",
+      "idiom",
+      "c1"
+    ]
+  },
+  {
+    "id": "microfiber",
+    "word": "microfiber vs rag vs napkin",
+    "ipa": "/ˈmaɪ.krəʊˌfaɪ.bər/",
+    "pos": "noun",
+    "level": "B2",
+    "meaning": "Microfiber: khăn sợi nhân tạo siêu mịn lau kính; Rag: giẻ lau cũ rách bẩn; Napkin: khăn ăn",
+    "detailedNote": "Microfiber: sợi tổng hợp siêu thấm hút, lau kính lau xe không rụng bông. Rag: mảnh vải rách cũ dùng lau dầu mỡ lem luốc. Napkin: khăn giấy/khăn vải trên bàn ăn.",
+    "collocations": [
+      "microfiber cloth",
+      "clean with a rag",
+      "paper napkin",
+      "cloth napkin"
+    ],
+    "exampleEn": "Always use a soft microfiber cloth to clean eyeglasses to avoid scratching the lenses.",
+    "exampleVi": "Luôn sử dụng khăn vải sợi microfiber mềm để lau kính mắt nhằm tránh làm xước mắt kính.",
+    "distinctionNote": "Microfiber (khăn sợi nhân tạo lau kính không xước) vs Rag (giẻ lau cũ rách) vs Napkin (khăn ăn bàn tiệc).",
+    "tags": [
+      "distinction",
+      "daily",
+      "b2"
+    ]
+  },
+  {
+    "id": "interfere-with",
+    "word": "interfere with",
+    "ipa": "/ˌɪn.təˈfɪər wɪð/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Can thiệp, gây cản trở, làm phiền (theo chiều hướng tiêu cực)",
+    "detailedNote": "LƯU Ý NGỮ PHÁP QUAN TRỌNG: \"Interfere\" là NỘI ĐỘNG TỪ, vì có giới từ \"with\" phía sau nên KHÔNG chia ở thể bị động! (Không dùng \"is interfered with\").",
+    "collocations": [
+      "interfere with my study",
+      "interfere with sleep",
+      "interfere in private matters"
+    ],
+    "exampleEn": "Constant street noise interferes with students trying to concentrate on their exams.",
+    "exampleVi": "Tiếng ồn đường phố liên tục gây cản trở các học sinh đang cố gắng tập trung cho kỳ thi.",
+    "tags": [
+      "grammar-rule",
+      "b2"
+    ]
+  },
+  {
+    "id": "prosecute",
+    "word": "prosecute",
+    "ipa": "/ˈprɒs.ɪ.kjuːt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Khởi tố, truy tố ai đó trước tòa vì hành vi phạm tội",
+    "detailedNote": "Cấu trúc: prosecute someone FOR doing something. Danh từ: prosecution.",
+    "collocations": [
+      "prosecute for theft",
+      "trespassers will be prosecuted"
+    ],
+    "exampleEn": "The authorities promised to strictly prosecute anyone involved in financial embezzlement.",
+    "exampleVi": "Nhà chức trách hứa sẽ truy tố nghiêm khắc bất kỳ ai dính líu đến hành vi tham ô tài chính.",
+    "tags": [
+      "law",
+      "c1"
+    ]
+  },
+  {
+    "id": "specify",
+    "word": "specify",
+    "ipa": "/ˈspes.ɪ.faɪ/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Chỉ rõ, nêu cụ thể chi tiết, định rõ (màu sắc, ngày giao, điều khoản)",
+    "detailedNote": "Văn nói hay gặp: \"Nói rõ ra xem nào!\". Văn bản công việc: The contract specifies the deadline.",
+    "collocations": [
+      "specify the price",
+      "specify the delivery date",
+      "clearly specify"
+    ],
+    "exampleEn": "Please specify the exact delivery address and preferred time slot when placing your order.",
+    "exampleVi": "Vui lòng nêu rõ địa chỉ giao hàng chính xác và khung giờ mong muốn khi đặt đơn hàng.",
+    "tags": [
+      "business",
+      "communication",
+      "b2"
+    ]
+  },
+  {
+    "id": "absorbed-in",
+    "word": "absorbed in",
+    "ipa": "/əbˈzɔːbd ɪn/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Đắm chìm, say sưa, mải mê quên lối về của đầu óc (học tập, làm việc, đọc sách)",
+    "detailedNote": "PHÂN BIỆT VỚI IMMERSED IN: Dùng \"absorbed in\" khi muốn nói về sự tập trung cao độ của ĐẦU ÓC (Work, Book, Study, Calculation). Dùng \"immersed in\" khi nói về sự bao phủ của MÔI TRƯỜNG/TRẢI NGHIỆM (Culture, Language, VR game).",
+    "collocations": [
+      "absorbed in calculation",
+      "absorbed in thought",
+      "absorbed in a book"
+    ],
+    "exampleEn": "He was so absorbed in his complex calculations that he did not hear the doorbell ring.",
+    "exampleVi": "Anh ấy say sưa đắm chìm vào những phép tính phức tạp đến nỗi không nghe thấy chuông cửa reo.",
+    "distinctionNote": "Absorbed in (đầu óc mải mê tập trung học/nghiên cứu) vs Immersed in (hòa mình trọn vẹn vào môi trường văn hóa/ngôn ngữ).",
+    "tags": [
+      "distinction",
+      "psychology",
+      "c1"
+    ]
+  },
+  {
+    "id": "detrimental",
+    "word": "detrimental",
+    "ipa": "/ˌdet.rɪˈmen.təl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Gây hại, có tác động tiêu cực xấu xí",
+    "detailedNote": "Từ vựng \"ăn điểm\" IELTS thay thế hoàn hảo cho bad / harmful. Cấu trúc: be detrimental TO sth / have a detrimental effect ON sth. Cụm danh từ: \"to the detriment of\" (làm thiệt hại cho...).",
+    "collocations": [
+      "have a detrimental effect on",
+      "detrimental consequences",
+      "to the detriment of his health"
+    ],
+    "exampleEn": "Working excessive overtime regularly occurs to the detriment of employees’ health.",
+    "exampleVi": "Làm thêm giờ quá mức thường xuyên xảy ra và gây thiệt hại trực tiếp cho sức khỏe nhân viên.",
+    "tags": [
+      "ielts-key",
+      "academic",
+      "c1"
+    ]
+  },
+  {
+    "id": "pose",
+    "word": "pose",
+    "ipa": "/pəʊz/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Đặt ra, tiềm ẩn, tạo ra mối đe dọa / nguy cơ / thách thức",
+    "detailedNote": "Sắc thái: POSE = A khiến B phải đối mặt với nguy cơ (nhấn mạnh nguy cơ tiềm tàng, chưa khẳng định hậu quả đã xảy ra).",
+    "collocations": [
+      "pose a risk to",
+      "pose a threat to",
+      "pose a serious danger to coastal cities"
+    ],
+    "exampleEn": "Rising sea levels pose an existential danger to low-lying coastal cities.",
+    "exampleVi": "Mực nước biển dâng cao đặt ra mối nguy cơ sinh tồn đối với các thành phố ven biển trũng thấp.",
+    "tags": [
+      "ielts-key",
+      "environment",
+      "b2"
+    ]
+  },
+  {
+    "id": "irreversible",
+    "word": "irreversible",
+    "ipa": "/ˌɪr.ɪˈvɜː.sə.bəl/",
+    "pos": "adj",
+    "level": "C1",
+    "meaning": "Không thể đảo ngược, không thể khôi phục lại như cũ",
+    "detailedNote": "Trái nghĩa: reversible. Cụm đắt giá Task 2: irreversible damage, irreversible consequences, irreversible climate changes.",
+    "collocations": [
+      "irreversible damage",
+      "irreversible changes",
+      "irreversible loss"
+    ],
+    "exampleEn": "Failing to curb carbon emissions immediately will cause irreversible damage to planet Earth.",
+    "exampleVi": "Không cắt giảm khí thải carbon ngay lập tức sẽ gây ra thiệt hại không thể đảo ngược cho Trái Đất.",
+    "tags": [
+      "ielts-key",
+      "environment",
+      "c1"
+    ]
+  },
+  {
+    "id": "serenity",
+    "word": "serenity",
+    "ipa": "/səˈren.ə.ti/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Sự thanh thản, bình yên sâu lắng trong tâm hồn (danh từ không đếm được)",
+    "detailedNote": "Chỉ trạng thái cảm xúc trừu tượng. Cụm tuyệt đẹp: \"serenity amidst the chaos\" (sự bình yên giữa tâm bão hỗn loạn).",
+    "collocations": [
+      "serenity amidst the chaos",
+      "feel a sense of serenity",
+      "inner serenity"
+    ],
+    "exampleEn": "Meditation allows practitioners to discover inner serenity amidst the chaos of urban life.",
+    "exampleVi": "Thiền định cho phép người thực hành tìm thấy sự thanh thản nội tâm giữa sự hỗn loạn của cuộc sống đô thị.",
+    "tags": [
+      "psychology",
+      "descriptive",
+      "c1"
+    ]
+  },
+  {
+    "id": "hectic-lifestyle",
+    "word": "hectic lifestyle",
+    "ipa": "/ˈhek.tɪk ˈlaɪf.staɪl/",
+    "pos": "phrase",
+    "level": "B2",
+    "meaning": "Lối sống tất bật, quay cuồng, lúc nào cũng phải chạy theo công việc",
+    "detailedNote": "Từ khóa \"vàng\" cho hầu hết đề thi liên quan đến sức khỏe tinh thần, cân bằng cuộc sống và đô thị hóa.",
+    "collocations": [
+      "hectic pace of life",
+      "hectic schedule",
+      "escape a hectic lifestyle"
+    ],
+    "exampleEn": "Modern city dwellers often suffer from chronic stress due to their increasingly hectic lifestyle.",
+    "exampleVi": "Cư dân đô thị hiện đại thường chịu căng thẳng kinh niên do lối sống ngày càng bận rộn tất bật của họ.",
+    "tags": [
+      "collocation",
+      "ielts-key",
+      "b2"
+    ]
+  },
+  {
+    "id": "precipitate",
+    "word": "precipitate",
+    "ipa": "/prɪˈsɪp.ɪ.teɪt/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Gây ra, châm ngòi, đẩy sự việc vào tình thế hỗn loạn đột ngột",
+    "detailedNote": "Nhấn mạnh vai trò là NGÒI NỔ / KÍCH HOẠT. Cụm: precipitate something into chaos (đẩy cái gì vào cảnh hỗn loạn). Trong y khoa: bộc phát cơn bệnh.",
+    "collocations": [
+      "precipitate into chaos",
+      "precipitate a crisis",
+      "precipitate sudden changes"
+    ],
+    "exampleEn": "The abrupt collapse of the major investment bank precipitated the entire market into chaos.",
+    "exampleVi": "Sự sụp đổ đột ngột của ngân hàng đầu tư lớn đã đẩy toàn bộ thị trường vào cảnh hỗn loạn.",
+    "tags": [
+      "academic",
+      "economy",
+      "c1"
+    ]
+  },
+  {
+    "id": "forgo-vs-relinquish",
+    "word": "forgo vs relinquish",
+    "ipa": "/fɔːˈɡəʊ/ vs /rɪˈlɪŋ.kwɪʃ/",
+    "pos": "verb",
+    "level": "C1",
+    "meaning": "Forgo: tự nguyện bỏ qua/kiềm chế (món ăn, cơ hội); Relinquish: buông bỏ thứ đang sở hữu (quyền lực)",
+    "detailedNote": "MẸO NHỚ: \"Forgo\" là nhịn, bỏ qua một thứ bạn chưa lấy hoặc sắp nhận (forgo dessert, forgo a pay rise). \"Relinquish\" là buông tay khỏi một thứ bạn ĐANG THỰC SỰ NẮM GIỮ (relinquish control of the company, relinquish custody).",
+    "collocations": [
+      "forgo dessert",
+      "forgo an opportunity",
+      "relinquish control of",
+      "relinquish power"
+    ],
+    "exampleEn": "Founders often find it emotionally difficult to relinquish control of their startups to professional executives.",
+    "exampleVi": "Các nhà sáng lập thường cảm thấy khó khăn về mặt cảm xúc khi nhượng lại quyền kiểm soát công ty khởi nghiệp cho các giám đốc điều hành chuyên nghiệp.",
+    "distinctionNote": "Forgo (kiềm chế, tự nguyện bỏ qua thứ sắp nhận) vs Relinquish (buông tay, từ bỏ quyền lực/tài sản đang thực sở hữu).",
+    "tags": [
+      "distinction",
+      "business",
+      "c1"
+    ]
+  },
+  {
+    "id": "by-far",
+    "word": "by far",
+    "ipa": "/baɪ fɑːr/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Vượt trội hơn hẳn, xa hơn hẳn (dùng bổ nghĩa cho so sánh nhất hoặc so sánh hơn)",
+    "detailedNote": "Vị trí: Đứng trước hoặc sau so sánh nhất: \"by far the best\" hoặc \"the best by far\". Nhấn mạnh sự chênh lệch cách biệt rất lớn. Trường hợp đặc biệt với so sánh hơn: \"larger by far than...\".",
+    "collocations": [
+      "by far the biggest",
+      "by far the most effective",
+      "the fastest by far"
+    ],
+    "exampleEn": "Electric public transit is by far the most sustainable solution for metropolitan commuting.",
+    "exampleVi": "Giao thông công cộng chạy điện vượt trội hơn hẳn là giải pháp bền vững nhất cho việc đi lại tại các đô thị lớn.",
+    "tags": [
+      "grammar-rule",
+      "ielts-key",
+      "c1"
+    ]
+  },
+  {
+    "id": "stringent",
+    "word": "stringent",
+    "ipa": "/ˈstrɪn.dʒənt/",
+    "pos": "adj",
+    "level": "C2",
+    "meaning": "Nghiêm ngặt, khắt khe, chặt chẽ (về quy định, ngân sách thắt chặt)",
+    "detailedNote": "Từ C2 cực chất thay cho strict: stringent regulations, stringent budget, stringent measures.",
+    "collocations": [
+      "stringent budget",
+      "stringent legislation",
+      "stringent safety rules"
+    ],
+    "exampleEn": "The laboratory adheres to stringent safety regulations to prevent cross-contamination.",
+    "exampleVi": "Phòng thí nghiệm tuân thủ các quy định an toàn nghiêm ngặt để ngăn ngừa sự nhiễm khuẩn chéo.",
+    "tags": [
+      "academic",
+      "law",
+      "c2"
+    ]
+  },
+  {
+    "id": "solitude-vs-loneliness",
+    "word": "solitude vs loneliness",
+    "ipa": "/ˈsɒl.ɪ.tʃuːd/ vs /ˈləʊn.li.nəs/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Solitude: sự tĩnh lặng một mình tự nguyện, an nhiên; Loneliness: sự cô đơn buồn tủi, trống rỗng",
+    "detailedNote": "MẸO NHỚ: Solitude là trạng thái một mình TÍCH CỰC, do chính mình chủ động lựa chọn để nạp lại năng lượng. Loneliness là cảm xúc TIÊU CỰC, cảm giác bị cô lập, thiếu kết nối xã hội dù xung quanh có người hay không.",
+    "collocations": [
+      "peaceful solitude",
+      "enjoy solitude",
+      "overcome loneliness"
+    ],
+    "exampleEn": "He cherished moments of quiet solitude in the mountains to write his new novel.",
+    "exampleVi": "Anh ấy trân trọng những khoảnh khắc tĩnh lặng an nhiên trên núi để viết cuốn tiểu thuyết mới của mình.",
+    "distinctionNote": "Solitude (ở một mình tự nguyện, tích cực, an nhiên) vs Loneliness (cô đơn, buồn bã, trống rỗng).",
+    "tags": [
+      "distinction",
+      "psychology",
+      "c1"
+    ]
+  },
+  {
+    "id": "itinerary-vs-plan",
+    "word": "itinerary vs plan",
+    "ipa": "/aɪˈtɪn.ər.ər.i/ vs /plæn/",
+    "pos": "noun",
+    "level": "C1",
+    "meaning": "Itinerary: lịch trình chi tiết từng chặng di chuyển/du lịch; Plan: kế hoạch ý định chung",
+    "detailedNote": "PHÂN BIỆT: \"Plan\" là ý định và mục tiêu chung (plan for the future). \"Itinerary\" là bảng chi tiết các bước, địa điểm, giờ giấc thực tế của chuyến đi (reach a consensus on the itinerary).",
+    "collocations": [
+      "travel itinerary",
+      "reach a consensus on the itinerary",
+      "detailed itinerary"
+    ],
+    "exampleEn": "The tour organizer sent a comprehensive itinerary detailing every stop along the coastal journey.",
+    "exampleVi": "Đơn vị tổ chức tour đã gửi một lịch trình toàn diện chi tiết từng điểm dừng chân dọc theo hành trình ven biển.",
+    "distinctionNote": "Plan (kế hoạch chung chung) vs Itinerary (lịch trình chi tiết ngày giờ chặng đi du lịch/công tác).",
+    "tags": [
+      "distinction",
+      "travel",
+      "c1"
+    ]
+  },
+  {
+    "id": "thick-vs-obtuse",
+    "word": "thick vs obtuse",
+    "ipa": "/θɪk/ vs /əbˈtʃuːs/",
+    "pos": "adj",
+    "level": "C2",
+    "meaning": "Thick: chậm hiểu, tối dạ (đời thường); Obtuse: cố tình đần độn, cố ý không hiểu một cách khó chịu",
+    "detailedNote": "Cấp độ: Slow (chậm) -> Thick (tối dạ, nói mãi không hiểu) -> Obtuse (cố tình giả ngơ, cố tình không muốn hiểu điều người khác nói).",
+    "collocations": [
+      "a bit thick",
+      "deliberately obtuse",
+      "not being obtuse"
+    ],
+    "exampleEn": "I'm not being obtuse; I genuinely don't understand how your proposed model functions.",
+    "exampleVi": "Tôi không phải đang cố tình giả đần độn đâu; tôi thực sự không hiểu mô hình đề xuất của bạn vận hành thế nào.",
+    "distinctionNote": "Thick (chậm hiểu, tối dạ tự nhiên) vs Obtuse (cố tình không hiểu, giả ngơ gây khó chịu).",
+    "tags": [
+      "distinction",
+      "speaking",
+      "c2"
+    ]
+  },
+  {
+    "id": "there-will-be",
+    "word": "There will be + Danh từ",
+    "ipa": "/ðeər wɪl biː/",
+    "pos": "grammar",
+    "level": "B1",
+    "meaning": "Sẽ có... (Dùng cho cả số ít và số nhiều; KHÔNG cộng trực tiếp với tính từ đứng một mình)",
+    "detailedNote": "LỖI THƯỜNG GẶP: \"There will be\" KHÔNG cộng trực tiếp với tính từ (ví dụ: Không nói \"There will be difficult\" mà phải là \"There will be difficulties\"). Không dùng \"This\" thay cho \"There\" trong cấu trúc này.",
+    "collocations": [
+      "there will be a meeting",
+      "there can be more people",
+      "there will be opportunities"
+    ],
+    "exampleEn": "There will be significant challenges ahead, but our team is well-prepared.",
+    "exampleVi": "Sẽ có những thử thách đáng kể ở phía trước, nhưng đội ngũ của chúng tôi đã chuẩn bị kỹ càng.",
+    "tags": [
+      "grammar-rule",
+      "ielts-key",
+      "b1"
+    ]
+  },
+  {
+    "id": "emphatic-do",
+    "word": "Emphatic Do / Did",
+    "ipa": "/emˈfæt.ɪk duː/",
+    "pos": "grammar",
+    "level": "B2",
+    "meaning": "Cấu trúc nhấn mạnh khẳng định trong văn nói và viết (do/did + V nguyên thể)",
+    "detailedNote": "Dùng trợ động từ do/does/did ngay trước động từ thường để khẳng định mạnh mẽ: \"I did remember your birthday!\" (Hôm qua tôi thực sự có nhớ mà!) hoặc \"I do hope you come\".",
+    "collocations": [
+      "I did tell you",
+      "I do hope",
+      "it does make a difference"
+    ],
+    "exampleEn": "Although I arrived late, I did complete all my assigned responsibilities before leaving.",
+    "exampleVi": "Dù tôi đến muộn, tôi thực sự đã hoàn thành mọi trách nhiệm được giao trước khi ra về.",
+    "tags": [
+      "grammar-rule",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "explore-vs-discover",
+    "word": "explore vs discover",
+    "ipa": "/ɪkˈsplɔːr/ vs /dɪˈskʌv.ər/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Explore: đi dạo khám phá trải nghiệm thứ đã có sẵn; Discover: phát hiện ra thứ mới tinh chưa ai biết",
+    "detailedNote": "MẸO NHỚ: \"Discover\" = tìm ra, phát hiện cái mới chưa từng biết có tồn tại (Columbus discovered America). \"Explore\" = đi tham quan, thám hiểm, dành thời gian đi quanh tìm hiểu sâu địa điểm đã có sẵn (explore Da Lat city).",
+    "collocations": [
+      "explore the city",
+      "explore options",
+      "discover new facts",
+      "discover a planet"
+    ],
+    "exampleEn": "During our vacation, we spent three days exploring the historic quarters of Kyoto.",
+    "exampleVi": "Trong kỳ nghỉ, chúng tôi đã dành ba ngày để đi dạo khám phá các khu phố lịch sử của Kyoto.",
+    "distinctionNote": "Explore (thám hiểm, tìm hiểu sâu nơi chốn đã có sẵn) vs Discover (tìm ra, phát hiện vật/chân lý mới tinh).",
+    "tags": [
+      "distinction",
+      "travel",
+      "b2"
+    ]
+  },
+  {
+    "id": "pave-the-way",
+    "word": "pave the way for",
+    "ipa": "/peɪv ðə weɪ fɔːr/",
+    "pos": "phrase",
+    "level": "C1",
+    "meaning": "Mở đường cho, tạo tiền đề / đặt nền móng cho điều gì",
+    "detailedNote": "Thành ngữ học thuật C1/C2 cực kỳ được chuộng trong IELTS Writing Task 2 khi nói về công nghệ hoặc chính sách mở đường cho tương lai.",
+    "collocations": [
+      "pave the way for future investment",
+      "pave the way for breakthroughs"
+    ],
+    "exampleEn": "The initial success of the pilot project paved the way for nationwide implementation.",
+    "exampleVi": "Thành công ban đầu của dự án thí điểm đã mở đường cho việc triển khai trên toàn quốc.",
+    "tags": [
+      "ielts-key",
+      "idiom",
+      "c1"
+    ]
+  },
+  {
+    "id": "decompress",
+    "word": "decompress",
+    "ipa": "/ˌdiː.kəmˈpres/",
+    "pos": "verb",
+    "level": "B2",
+    "meaning": "Xả hơi, giải tỏa căng thẳng, thư giãn đầu óc sau kỳ làm việc áp lực",
+    "detailedNote": "Từ cực hay trong giao tiếp công sở: \"To decompress before an examination\" (xả hơi thư giãn trước kỳ thi).",
+    "collocations": [
+      "need time to decompress",
+      "decompress after work",
+      "decompress before exams"
+    ],
+    "exampleEn": "I usually take a brisk walk in the park to decompress after an intense workday.",
+    "exampleVi": "Tôi thường đi bộ nhanh trong công viên để xả hơi thư giãn sau một ngày làm việc căng thẳng.",
+    "tags": [
+      "psychology",
+      "speaking",
+      "b2"
+    ]
+  },
+  {
+    "id": "get-butterflies",
+    "word": "get butterflies",
+    "ipa": "/ɡet ˈbʌt.ə.flaɪz/",
+    "pos": "idiom",
+    "level": "B2",
+    "meaning": "Bồn chồn, nôn nao, xốn xang (khi chuẩn bị lên sân khấu, phỏng vấn hoặc đứng trước crush)",
+    "detailedNote": "Thành ngữ đầy đủ: get/have butterflies in one's stomach.",
+    "collocations": [
+      "get butterflies before a presentation",
+      "butterflies in my stomach"
+    ],
+    "exampleEn": "No matter how many times I give a speech, I still get butterflies before stepping onto the stage.",
+    "exampleVi": "Bất kể tôi đã phát biểu bao nhiêu lần, tôi vẫn cảm thấy bồn chồn nôn nao trước khi bước lên sân khấu.",
+    "tags": [
+      "idiom",
+      "speaking",
+      "b2"
+    ]
+  }
+]

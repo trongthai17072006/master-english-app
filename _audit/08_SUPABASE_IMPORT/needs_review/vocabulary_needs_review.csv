@@ -1,0 +1,6 @@
+﻿legacy_id,word,ipa,pos,meaning_vi,issue_code,issue_detail,source_ref
+vstep-pdf-voc-02,metropolitan,/ˌmet.rəˈpɒl.ɪ.tən/,adj,,DUPLICATE_MERGED_AT_RUNTIME,"Overlaps with vocabDatabase.json id=""metropolitan""; deduplicated in VOCAB_DATABASE runtime merge",src/data/vstepPdfKnowledgeBankData.ts
+vstep-pdf-voc-04,alleviate,/əˈliː.vi.eɪt/,verb,,DUPLICATE_MERGED_AT_RUNTIME,"Overlaps with vocabDatabase.json id=""alleviate""; deduplicated in VOCAB_DATABASE runtime merge",src/data/vstepPdfKnowledgeBankData.ts
+vstep-pdf-voc-07,coerce,/kəʊˈɜːs/,verb,,DUPLICATE_MERGED_AT_RUNTIME,"Overlaps with vocabDatabase.json id=""coerce""; deduplicated in VOCAB_DATABASE runtime merge",src/data/vstepPdfKnowledgeBankData.ts
+vstep-pdf-voc-15,decompress,/ˌdiː.kəmˈpres/,verb,,DUPLICATE_MERGED_AT_RUNTIME,"Overlaps with vocabDatabase.json id=""decompress""; deduplicated in VOCAB_DATABASE runtime merge",src/data/vstepPdfKnowledgeBankData.ts
+protein,protein,/protein/,noun,Protein,MEANING_IDENTICAL_TO_WORD,"Vietnamese meaning ""Protein"" is identical to English headword ""protein"" (loanword/untranslated)",src/data/vocabDatabase.json (id=protein)

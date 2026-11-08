@@ -1,0 +1,11 @@
+[
+  {
+    "id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "batch_code": "LEXIMASTER_BASELINE_2026_11_05",
+    "description": "Initial deterministic export of LexiMaster IELTS static learning banks (Vocab, Grammar, 60-Day Curriculum, Speaking 28 Seeds, Quizzes, PDF Knowledge Bank)",
+    "source_version": "1.0.0",
+    "total_tables": 9,
+    "imported_at": "2026-11-05T00:00:00.000Z",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  }
+]

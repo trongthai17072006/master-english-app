@@ -1,0 +1,677 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Caveat:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400..800;1,9..40,400..800&family=JetBrains+Mono:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-headline: 'Anton', 'Bebas Neue', 'Oswald', sans-serif;
+  --font-bebas: 'Bebas Neue', 'Anton', 'Oswald', sans-serif;
+  --font-oswald: 'Oswald', 'DM Sans', sans-serif;
+  --font-sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-editorial: 'Playfair Display', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-heading: 'Oswald', 'Playfair Display', sans-serif;
+  --font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-ui: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-handwriting: 'Caveat', cursive, serif;
+}
+
+/* ==========================================================================
+   OFFICIAL BRAND COLOR PALETTE & AUTHENTIC FIVE-LAYER SVG NEWSPAPER SYSTEM
+   ========================================================================== */
+:root {
+  /* 1. Paper Background Colors */
+  --paper-main: #E9DCC2;       /* Nền chính: Màu giấy nền */
+  --paper-writing: #F1E7D3;    /* Giấy viết: Sáng hơn nền một chút */
+  --paper-aged: #DCC9A8;       /* Bàn phím / Vùng tối (aged): Tối hơn, tạo độ sâu */
+
+  /* 2. Border & Vignette */
+  --border-warm: rgba(120, 84, 40, 0.3); /* Viền: Nâu đỏ ấm ở góc */
+
+  /* 3. Button Gradient */
+  --btn-parchment-gradient: linear-gradient(180deg, #F6EEDC 0%, #EADDC0 100%); /* Nút bấm: Gradient sáng -> đậm */
+
+  /* 4. Ink & Text Colors (Retained for high contrast) */
+  --ink-primary: #181614;
+  --ink-secondary: #51483D;
+  --editorial-red: #C92532;
+
+  /* Mapped Aliases for Five-Layer Newspaper System */
+  --paper: var(--paper-main);
+  --paper-secondary: var(--paper-writing);
+  --paper-dark: #C9B38E;
+  --ink-muted: #362E25;
+  --ink-border: #493B2D;
+  --editorial-red-dark: #991D27;
+  --editorial-red-light: #E8B7AC;
+
+  /* Layer 1: Organic Paper Blotting (~720px scale feTurbulence)
+     Simulates subtle natural paper discoloration, organic stains and uneven ink absorption */
+  --blot: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='720' height='720' viewBox='0 0 720 720'%3E%3Cfilter id='blot' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.0065 0.008' numOctaves='4' seed='19' stitchTiles='stitch' result='noise'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0.44  0 0 0 0 0.32  0 0 0 0 0.18  0 0 0 0.14 -0.03' in='noise'/%3E%3C/filter%3E%3Crect width='720' height='720' filter='url(%23blot)'/%3E%3C/svg%3E");
+
+  /* Layer 2: Natural Paper Fibers (~520px scale feTurbulence)
+     Simulates fine natural paper fibers and recycled paper material */
+  --fiber: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='520' height='520' viewBox='0 0 520 520'%3E%3Cfilter id='fiber' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence type='turbulence' baseFrequency='0.028 0.11' numOctaves='3' seed='42' stitchTiles='stitch' result='fibers'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0.35  0 0 0 0 0.27  0 0 0 0 0.17  0 0 0 0.075 -0.015' in='fibers'/%3E%3C/filter%3E%3Crect width='520' height='520' filter='url(%23fiber)'/%3E%3C/svg%3E");
+
+  /* Layer 3: Fine Paper Grain (~260px scale feTurbulence)
+     Adds tiny printed-paper imperfections and tactile newsprint grain */
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260' viewBox='0 0 260 260'%3E%3Cfilter id='grain' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.78' numOctaves='3' seed='7' stitchTiles='stitch' result='speckle'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0.12  0 0 0 0 0.09  0 0 0 0 0.07  0 0 0 0.055 0' in='speckle'/%3E%3C/filter%3E%3Crect width='260' height='260' filter='url(%23grain)'/%3E%3C/svg%3E");
+
+  /* Typography Variables */
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-editorial: 'Playfair Display', Georgia, serif;
+  --font-heading: 'Oswald', 'Playfair Display', sans-serif;
+  --font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-ui: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-handwriting: 'Caveat', cursive, serif;
+
+  /* Mapped Legacy Tokens to Official Newspaper Palette */
+  --bg-main: #E9DCC2;
+  --bg-card: #F1E7D3;
+  --bg-secondary: #DCC9A8;
+  --bg-card-hover: #F1E7D3;
+  --border-subtle: #493B2D;
+  --border-muted: #493B2D;
+  --border-primary: #C92532;
+  --primary-red: #C92532;
+  --primary-red-alt: #991D27;
+  --primary-red-hover: #991D27;
+  --primary-red-tint: #E8B7AC;
+  --text-primary: #181614;
+  --text-secondary: #2C2520;
+  --text-muted: #362E25;
+  --ease-out-quart: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    background: var(--paper);
+    color: var(--ink-primary);
+  }
+
+  body {
+    font-family: var(--font-body);
+    line-height: 1.6;
+    font-size: 16px;
+    color: var(--ink-primary);
+    background:
+      radial-gradient(
+        ellipse at 50% 45%,
+        transparent 55%,
+        rgba(120, 84, 40, 0.18) 100%
+      ),
+      var(--blot),
+      var(--fiber),
+      var(--grain),
+      var(--paper);
+    background-attachment: fixed;
+    min-height: 100vh;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  input, textarea, [contenteditable="true"] {
+    -webkit-user-select: text;
+    user-select: text;
+  }
+
+  p, li, dd, dt, blockquote, label, input, select, textarea {
+    font-family: var(--font-body);
+    line-height: 1.6;
+    text-wrap: pretty;
+  }
+
+  button, nav {
+    font-family: var(--font-ui);
+    font-synthesis: none;
+    line-height: 1.45;
+  }
+
+  button:focus-visible,
+  a:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    outline: 2px solid var(--editorial-red);
+    outline-offset: 2px;
+  }
+
+  button {
+    transition: transform 0.15s var(--ease-out-quart), background-color 0.15s var(--ease-out-quart), border-color 0.15s var(--ease-out-quart), box-shadow 0.15s var(--ease-out-quart), color 0.15s var(--ease-out-quart);
+  }
+
+  button:active:not(:disabled) {
+    transform: scale(0.985);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-synthesis: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    line-height: 1.15;
+    text-wrap: balance;
+  }
+
+  code, pre, kbd, samp {
+    font-family: var(--font-mono) !important;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* ==========================================================================
+   VINTAGE NEWSPAPER EDITORIAL TYPOGRAPHY CLASSES
+   ========================================================================== */
+.font-headline {
+  font-family: 'Anton', 'Bebas Neue', 'Oswald', sans-serif !important;
+  text-transform: uppercase;
+  letter-spacing: 0.015em;
+  line-height: 0.94;
+}
+
+.font-bebas {
+  font-family: 'Bebas Neue', 'Anton', 'Oswald', sans-serif !important;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 0.95;
+}
+
+.font-oswald {
+  font-family: 'Oswald', 'DM Sans', sans-serif !important;
+  letter-spacing: 0.02em;
+}
+
+.font-dm {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+.font-serif, .font-editorial, .heading-font, .font-playfair {
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-synthesis: none !important;
+  font-variant-ligatures: common-ligatures contextual;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.font-handwriting {
+  font-family: var(--font-handwriting) !important;
+}
+
+.font-reading, .font-body, .font-sans {
+  font-family: var(--font-body) !important;
+  line-height: 1.6;
+}
+
+.font-mono {
+  font-family: var(--font-mono) !important;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.font-ui-vn {
+  font-family: var(--font-ui) !important;
+  font-synthesis: none !important;
+  letter-spacing: normal;
+}
+
+/* ==========================================================================
+   FIVE-LAYER NEWSPAPER SURFACES, PRINT TEXTURES & EDITORIAL COMPONENTS
+   ========================================================================== */
+.newspaper-bg {
+  background:
+    radial-gradient(
+      ellipse at 50% 45%,
+      transparent 55%,
+      rgba(120, 84, 40, 0.18) 100%
+    ),
+    var(--blot),
+    var(--fiber),
+    var(--grain),
+    var(--paper);
+}
+
+.newspaper-card {
+  background-color: #F1E7D3;
+  background-image: var(--fiber), var(--grain);
+  border: 1.5px solid #493B2D;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0px rgba(24, 22, 20, 0.22), inset 0 0 24px rgba(201, 179, 142, 0.25);
+  color: #181614;
+}
+
+.newspaper-card-main {
+  background-color: #E9DCC2;
+  background-image: var(--blot), var(--fiber), var(--grain);
+  border: 1.5px solid #493B2D;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0px rgba(24, 22, 20, 0.24), inset 0 0 28px rgba(120, 84, 40, 0.12);
+  color: #181614;
+}
+
+.newspaper-card-aged {
+  background-color: #DCC9A8;
+  background-image: var(--fiber), var(--grain);
+  border: 1.5px solid #493B2D;
+  border-radius: 2px;
+  box-shadow: 2px 2px 0px rgba(24, 22, 20, 0.18), inset 0 0 18px rgba(121, 107, 89, 0.18);
+  color: #181614;
+}
+
+.newspaper-card-dark {
+  background-color: #C9B38E;
+  background-image: var(--fiber), var(--grain);
+  border: 1.5px solid #493B2D;
+  border-radius: 2px;
+  color: #181614;
+}
+
+.newspaper-ink-box {
+  background-color: #181614;
+  background-image: var(--grain);
+  border: 1.5px solid #493B2D;
+  border-radius: 2px;
+  color: #F1E7D3;
+}
+
+.newspaper-red-grunge {
+  background-color: #C92532;
+  background-image:
+    radial-gradient(circle at 18% 30%, rgba(153, 29, 39, 0.55) 0%, transparent 55%),
+    radial-gradient(circle at 85% 75%, rgba(24, 22, 20, 0.25) 0%, transparent 45%),
+    var(--blot),
+    var(--grain);
+  border: 1.5px solid #181614;
+  border-radius: 2px;
+  color: #F1E7D3;
+}
+
+/* Vintage Engraving Image Blending & Seamless Print Integration */
+.vintage-engraving-img {
+  mix-blend-mode: multiply;
+  filter: contrast(1.08) brightness(0.98) sepia(0.06);
+}
+
+.vintage-print-seamless {
+  mix-blend-mode: multiply;
+  filter: contrast(1.07) brightness(0.99) sepia(0.05);
+  pointer-events: none;
+  user-select: none;
+}
+
+.watermark-engraving {
+  mix-blend-mode: multiply;
+  filter: contrast(1.05) sepia(0.08);
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Soft Edge Masking Utilities for Seamless Newspaper Integration */
+.mask-radial-soft {
+  -webkit-mask-image: radial-gradient(ellipse 78% 78% at 50% 50%, #000 48%, rgba(0, 0, 0, 0.78) 68%, transparent 96%);
+  mask-image: radial-gradient(ellipse 78% 78% at 50% 50%, #000 48%, rgba(0, 0, 0, 0.78) 68%, transparent 96%);
+}
+
+.mask-radial-tight {
+  -webkit-mask-image: radial-gradient(ellipse 72% 72% at 50% 50%, #000 44%, rgba(0, 0, 0, 0.68) 66%, transparent 92%);
+  mask-image: radial-gradient(ellipse 72% 72% at 50% 50%, #000 44%, rgba(0, 0, 0, 0.68) 66%, transparent 92%);
+}
+
+.mask-fade-left {
+  -webkit-mask-image: linear-gradient(to left, #000 46%, rgba(0, 0, 0, 0.65) 74%, transparent 98%);
+  mask-image: linear-gradient(to left, #000 46%, rgba(0, 0, 0, 0.65) 74%, transparent 98%);
+}
+
+.mask-fade-right {
+  -webkit-mask-image: linear-gradient(to right, #000 46%, rgba(0, 0, 0, 0.65) 74%, transparent 98%);
+  mask-image: linear-gradient(to right, #000 46%, rgba(0, 0, 0, 0.65) 74%, transparent 98%);
+}
+
+.mask-fade-bottom {
+  -webkit-mask-image: linear-gradient(to top, #000 48%, rgba(0, 0, 0, 0.65) 75%, transparent 98%);
+  mask-image: linear-gradient(to top, #000 48%, rgba(0, 0, 0, 0.65) 75%, transparent 98%);
+}
+
+/* Risograph Misregistration & Halftone Accents */
+.risograph-red-accent {
+  filter: drop-shadow(2px 2px 0px rgba(201, 37, 50, 0.35));
+}
+
+/* Halftone Dot Pattern Overlay */
+.halftone-dots {
+  background-image: radial-gradient(#181614 1.1px, transparent 1.1px);
+  background-size: 6px 6px;
+}
+
+.halftone-dots-red {
+  background-image: radial-gradient(#C92532 1.2px, transparent 1.2px);
+  background-size: 6px 6px;
+}
+
+/* Vintage Buttons */
+.btn-newspaper-red {
+  background-color: #C92532;
+  background-image: var(--grain);
+  color: #F1E7D3;
+  border: 1.5px solid #181614;
+  border-radius: 2px;
+  box-shadow: 2px 2px 0px #181614;
+  font-weight: 700;
+}
+
+.btn-newspaper-red:hover:not(:disabled) {
+  background-color: #991D27;
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0px #181614;
+}
+
+.btn-newspaper-secondary {
+  background-color: #E9DCC2;
+  background-image: var(--grain);
+  color: #181614;
+  border: 1.5px solid #181614;
+  border-radius: 2px;
+  box-shadow: 2px 2px 0px rgba(24, 22, 20, 0.35);
+  font-weight: 700;
+}
+
+.btn-newspaper-secondary:hover:not(:disabled) {
+  background-color: #DCC9A8;
+  border-color: #C92532;
+}
+
+.btn-newspaper-ink {
+  background-color: #181614;
+  background-image: var(--grain);
+  color: #F1E7D3;
+  border: 1.5px solid #181614;
+  border-radius: 2px;
+  box-shadow: 2px 2px 0px rgba(73, 59, 45, 0.5);
+  font-weight: 700;
+}
+
+.btn-newspaper-ink:hover:not(:disabled) {
+  background-color: #51483D;
+}
+
+/* Inputs & Search */
+.input-newspaper {
+  background-color: #F1E7D3 !important;
+  background-image: var(--grain);
+  border: 1.5px solid #493B2D !important;
+  color: #181614 !important;
+  border-radius: 2px;
+}
+
+.input-newspaper::placeholder {
+  color: #796B59 !important;
+}
+
+.input-newspaper:focus {
+  border-color: #C92532 !important;
+  box-shadow: 0 0 0 2px rgba(201, 37, 50, 0.2) !important;
+  outline: none !important;
+}
+
+/* Newspaper Dividers & Double Rules */
+.newspaper-rule-double {
+  border-top: 2px solid #181614;
+  border-bottom: 1px solid #493B2D;
+  height: 4px;
+}
+
+.newspaper-stamp {
+  border: 2px solid #C92532;
+  color: #C92532;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  transform: rotate(-3deg);
+  box-shadow: inset 0 0 0 1px rgba(201, 37, 50, 0.35);
+}
+
+/* ==========================================================================
+   LEGACY CLASS OVERRIDES (Ensure 100% Consistency Across All Components)
+   ========================================================================== */
+.edtech-frosted-glass {
+  background-color: #F1E7D3 !important;
+  background-image: var(--fiber), var(--grain) !important;
+  border: 1.5px solid #493B2D !important;
+  border-radius: 2px !important;
+  box-shadow: 3px 3px 0px rgba(24, 22, 20, 0.22) !important;
+  backdrop-filter: none !important;
+}
+
+.edtech-card-surface, .cyber-card {
+  background-color: #F1E7D3 !important;
+  background-image: var(--fiber), var(--grain) !important;
+  border: 1.5px solid #493B2D !important;
+  border-radius: 2px !important;
+  box-shadow: 3px 3px 0px rgba(24, 22, 20, 0.2) !important;
+  color: #181614 !important;
+}
+
+.edtech-card-hover:hover, .cyber-card-hover:hover, .dol-card-hover:hover, .editorial-card-hover:hover {
+  transform: translateY(-2px);
+  border-color: #C92532 !important;
+  box-shadow: 4px 4px 0px rgba(24, 22, 20, 0.28) !important;
+}
+
+.dol-card-shadow, .editorial-shadow {
+  box-shadow: 3px 3px 0px rgba(24, 22, 20, 0.22) !important;
+}
+
+.cyber-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 24px;
+  border-bottom: 2px solid #493B2D;
+  padding-bottom: 12px;
+  position: relative;
+}
+
+.cyber-section-header::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 90px;
+  height: 3px;
+  background: #C92532;
+}
+
+.cyber-diamond {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: #C92532;
+  border-radius: 1px;
+  transform: rotate(45deg);
+  flex-shrink: 0;
+}
+
+.cyber-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #E8B7AC;
+  border: 1px solid #C92532;
+  color: #991D27;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.cyber-badge::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: #C92532;
+  border-radius: 50%;
+}
+
+.btn-cyber-primary {
+  background: #C92532 !important;
+  color: #F1E7D3 !important;
+  border: 1.5px solid #181614 !important;
+  border-radius: 5px !important;
+  box-shadow: 2px 2px 0px #181614 !important;
+}
+
+.btn-cyber-primary:hover {
+  background: #991D27 !important;
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0px #181614 !important;
+}
+
+.btn-cyber-secondary {
+  background: #E9DCC2 !important;
+  color: #181614 !important;
+  border: 1.5px solid #493B2D !important;
+  border-radius: 5px !important;
+}
+
+.btn-cyber-secondary:hover {
+  background: #DCC9A8 !important;
+  border-color: #C92532 !important;
+}
+
+.cyber-quote {
+  font-size: 0.86rem;
+  color: #181614;
+  background: #DCC9A8;
+  border-left: 3px solid #C92532;
+  padding: 10px 14px;
+  border-radius: 0 4px 4px 0;
+}
+
+.cyber-underline {
+  padding: 0 4px;
+  background-image: linear-gradient(
+    120deg,
+    rgba(201, 37, 50, 0.22) 0%,
+    rgba(201, 179, 142, 0.35) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 100% 0.35em;
+  background-position: 0 88%;
+  display: inline;
+}
+
+.cyber-progress-bar {
+  background: #C92532;
+}
+
+/* Recharts SVG Typography Unification */
+.recharts-wrapper,
+.recharts-surface,
+.recharts-text,
+.recharts-cartesian-axis-tick-value,
+.recharts-legend-item-text,
+.recharts-tooltip-wrapper {
+  font-family: var(--font-mono) !important;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Audio Playing Animation */
+@keyframes audioPulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(201, 37, 50, 0.45);
+  }
+  50% {
+    transform: scale(1.06);
+    box-shadow: 0 0 0 6px rgba(201, 37, 50, 0);
+  }
+}
+
+.audio-playing {
+  animation: audioPulse 0.8s ease-in-out infinite;
+}
+
+/* Home Hero Motion UI Keyframes */
+@keyframes mascotBreathe {
+  0%, 100% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-5px) scale(1.012);
+  }
+}
+
+.animate-mascot-breathe {
+  animation: mascotBreathe 4s ease-in-out infinite;
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+/* Official Google Sign-In Button adapted to Vintage Editorial */
+.gsi-material-button {
+  background-color: #F1E7D3;
+  border: 1.5px solid #493B2D;
+  border-radius: 5px;
+  color: #181614;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: 14px;
+  height: 40px;
+  padding: 0 16px;
+}
+
+/* Vintage Newspaper Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #DCC9A8;
+  border-left: 1px solid #493B2D;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #796B59;
+  border: 1px solid #493B2D;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #51483D;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+    transform: none !important;
+  }
+}
+
+/* Chỉ cho phép bôi đen khi có class .allow-copy */
+body.allow-copy,
+body.allow-copy * {
+  -webkit-user-select: text !important;
+  user-select: text !important;
+}
+

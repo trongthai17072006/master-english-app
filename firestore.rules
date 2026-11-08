@@ -1,0 +1,62 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ============================================================================
+    // HELPER FUNCTIONS — ROLE-BASED ACCESS CONTROL (RBAC)
+    // ============================================================================
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    // Chỉ duy nhất tài khoản Admin đã xác thực email mới có quyền Ghi (Write/Insert/Update/Delete)
+    // vào kho Từ Vựng, Cấu Trúc Ngữ Pháp (#78+) và Lộ Trình 60 Ngày.
+    function isAdmin() {
+      return isAuthenticated() &&
+        (
+          (request.auth.token.email == "trongthai17072006@gmail.com" && request.auth.token.email_verified == true) ||
+          exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+        );
+    }
+
+    // ============================================================================
+    // 1. KHO TỪ VỰNG, CẤU TRÚC & LỘ TRÌNH 60 NGÀY (PUBLIC READ-ONLY / ADMIN WRITE-ONLY)
+    // ============================================================================
+    match /vocabulary/{vocabId} {
+      allow get, list: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /grammar_structures/{structureId} {
+      allow get, list: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /challenge_60_days/{dayId} {
+      allow get, list: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /curriculum_custom_content/{docId} {
+      allow get, list: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // ============================================================================
+    // 2. DỮ LIỆU CÁ NHÂN CỦA HỌC VIÊN (CHỈ CHỦ TÀI KHOẢN MỚI ĐỌC/GHI ĐƯỢC)
+    // ============================================================================
+    match /users/{userId}/{document=**} {
+      allow read, write: if isOwner(userId) || isAdmin();
+    }
+
+    match /admins/{adminUid} {
+      allow read: if isAuthenticated() && request.auth.uid == adminUid;
+      allow write: if false; // Chỉ quản trị viên cấp cao thiết lập qua Console
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿source_file,referenced_path,issue_code,issue_detail
+src/data/expandedPdfLibraryData.ts:85,/assets/aistudio/Untitled_document_bb0198f5.pdf,MISSING_BINARY_PDF_IN_PUBLIC,"Structured content (77 structures, 232 examples) is 100% extracted in expandedPdfLibraryData.ts, but original raw PDF binary is not present in public/assets/aistudio/"
+src/data/vstepPdfKnowledgeBankData.ts:203,/assets/aistudio/_n_thi_vstep_11d6f8c6.pdf,MISSING_BINARY_PDF_IN_PUBLIC,"Structured content (24 unified records, 20 vocab, 5 writing, 17 speaking, 3 listening) is 100% extracted in vstepPdfKnowledgeBankData.ts, but original raw PDF binary is not present in public/assets/aistudio/"

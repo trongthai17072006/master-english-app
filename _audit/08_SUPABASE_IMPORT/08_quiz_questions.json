@@ -1,0 +1,3347 @@
+[
+  {
+    "id": "f59fba7c-45ee-526c-a234-c0237f13119c",
+    "legacy_id": "c1",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "Due to heavy workload, I am completely swamped ______ unread client emails.",
+    "options": [
+      "with",
+      "by",
+      "of",
+      "in"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc cố định: \"be swamped WITH something\" (ngập đầu trong việc gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "3cb4cec5e205937a60180bacc01194c05421ac1635f7338d6089ac7c6b645602",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "3d4b84a0-9816-5a4a-af17-506ab7d7e52a",
+    "legacy_id": "c2",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "People say that she has an inability ______ adapt to rapid workplace transitions.",
+    "options": [
+      "to",
+      "of",
+      "for",
+      "with"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "QUY TẮC BẮT BUỘC: inability + TO-infinitive (không bao giờ dùng \"inability of doing\").",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7f0d00b84ef9aec6ebfd6a593d39f29b297befd0a24c34b4d8216abdb3f3a4e6",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c83d521e-4a11-5a1f-868a-4346d2a22687",
+    "legacy_id": "c3",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "High inflation exerts profound downward pressure ______ household consumer spending.",
+    "options": [
+      "on",
+      "to",
+      "for",
+      "over"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: exert pressure/influence ON someone/something (đè nặng áp lực lên ai/cái gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "a0e9e1d249397618a6b3cad7e0bf6ef1797022ce8c196a539ff7451ee87f151b",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "58d34ec3-ed45-528f-8670-0308dcb4ae7b",
+    "legacy_id": "c4",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "Faced with the inevitable restructuring, he was finally resigned ______ accepting the transfer.",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "about"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"be resigned TO something / V-ing\" (cam chịu số phận/chấp nhận thực tại).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7e55ef524657b76c212179b94d6555914bb47b150f56debcef6b2b9cf0a074bd",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "a7cc8b4c-47ee-525a-99b1-b838a614ef2e",
+    "legacy_id": "c5",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The suspect claimed that detectives had coerced him ______ signing the false confession.",
+    "options": [
+      "into",
+      "to",
+      "for",
+      "onto"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc chuẩn người bản xứ: coerce someone INTO V-ing (ép buộc ai làm gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "6a7a2d10ba0114f074041cf6b8b4167c006907155659002f5474dc5bb5b0aed7",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "daad2e9f-324b-5a47-b3e9-e2ed2d5498b4",
+    "legacy_id": "c6",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "He was surprisingly ignorant ______ the legal risks involved in that contract.",
+    "options": [
+      "of",
+      "about",
+      "with",
+      "to"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc học thuật: \"S + be + ignorant OF + noun\" (kém hiểu biết / không biết về điều gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "675e0c66df3ab94b57b063fd7263e8c9f3d97019bc3acf35d287ead871e8e7ef",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c946cfa1-2728-57a6-97f4-fcc9a1059274",
+    "legacy_id": "c7",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "After a thorough police investigation, the criminal was convicted ______ grand larceny.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "by"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"be convicted OF + tên tội danh\" (bị kết án vì tội gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "bccce8217d41061d36f659fecec57a987ddb688e9b0835d81472a32524d570bb",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "471d2019-c299-5f00-9739-4f128c7c4962",
+    "legacy_id": "c8",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The breakthrough in renewable battery storage paved the way ______ green mobility.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "in"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Thành ngữ C1: \"pave the way FOR something\" (mở đường / tạo tiền đề cho cái gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7761cdbb244521529defb9d7a76440e8cf0ad1b50ae418b63af9e82b47321af5",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "2f9750a9-e5a9-5b3b-a8ff-d3dbf533de2c",
+    "legacy_id": "c9",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The product team decided to incorporate biometric verification ______ their mobile app.",
+    "options": [
+      "into",
+      "to",
+      "for",
+      "at"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "LỖI SAI HAY GẶP: Không dùng \"incorporate to\". Phải dùng \"incorporate something INTO something\".",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "d112786467a43679b615d7ba17631c6118e8f10de7312a3aa68cc5aa53960a17",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "17b64c6a-f263-5213-b091-1442f0a84edc",
+    "legacy_id": "c10",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The committee finally reached a consensus ______ the revised conference itinerary.",
+    "options": [
+      "on",
+      "with",
+      "for",
+      "at"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cụm từ C1: \"reach a consensus ON something\" (đạt được sự đồng thuận về việc gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "f6fb40afc5564e1173906b6a7bc92334c400700e9235784e7b898c562fe95578",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "2db18ae2-d74e-58fc-b29c-941cd3636f34",
+    "legacy_id": "c11",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "Continuous loud engine noise will definitely interfere ______ your ability to concentrate.",
+    "options": [
+      "with",
+      "to",
+      "on",
+      "against"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"interfere WITH something\" (gây cản trở / ảnh hưởng tiêu cực tới cái gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "c0f38bf50981d57df840df03c354ed4ae05bfbba65c76c59dfc085f124569fba",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d0617cae-e079-5a1e-8d80-b0b3d48f7142",
+    "legacy_id": "c12",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "While researching in the archives, she was deeply absorbed ______ old historical records.",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "into"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cụm từ: \"absorbed IN something\" (đầu óc say sưa, mải mê vào việc gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "e8f685bab172ee29e5a5df7cf5587d57a8d08506bf0465aa45b440fbc4eec8c6",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ebb42ff6-8b95-596b-8a71-220ab95c51ae",
+    "legacy_id": "c13",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "Hey, what are you up ______ this upcoming holiday weekend?",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "about"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cụm khẩu ngữ rất tự nhiên: \"be up to something\" (đang dự định / toan tính làm gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "0db2e08fba362cf90902c88b11514d9f164c1c86e6c8e99de8db08bb0d417de0",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "1f0795d6-c25a-541b-a64a-05a100ff24e2",
+    "legacy_id": "c14",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The company strictly adheres to the principle ______ equal pay for equal work.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "in"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cụm từ: \"the principle of equal pay\" (nguyên tắc trả lương bình đẳng).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "1f5e27c87a4f6e58582553490486901e12e554eac6c2423ce4e1303ebffe53d7",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ab34c949-c6e2-58ad-b1a0-5932584c8a65",
+    "legacy_id": "c15",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "She has made an outstanding contribution ______ global environmental conservation.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "in"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc cố định: \"make a contribution TO something\" (đóng góp vào cái gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "fa7e0f4a445a9215db6bc6c1d709c63bc0ac053ae539448bed4beba89090fa37",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "cead7dc9-2d51-551e-8c14-746347955d1c",
+    "legacy_id": "c16",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The sudden hike in fuel costs poses a serious threat ______ sustainable transport systems.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "against"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"pose a threat TO someone/something\" (gây ra mối đe dọa đối với ai/cái gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "0425a7ba3f9757e5424101b00f76948072e217d2a3eaef29ceea96ffb9fddf79",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "bb48cfaf-6df0-5626-914c-4a918e011396",
+    "legacy_id": "c17",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The researchers placed great emphasis ______ empirical laboratory evidence.",
+    "options": [
+      "on",
+      "to",
+      "in",
+      "at"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"place/put emphasis ON something\" (chú trọng/nhấn mạnh vào điều gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "283d61bcc1499326bf9b2bd506bcb429856d8837dea04554badfcf1078ff6d37",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f44f373f-99fd-5e81-8d24-789d854103a3",
+    "legacy_id": "c18",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "The manufacturing plant was formally accused ______ dumping untreated toxic sludge.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "by"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"accuse someone OF doing something\" (buộc tội ai vì hành vi gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7308745e4436e809f391d2a2fc179efcb9cdd6f9f56f3596398aa6e6808f8ccd",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "11a9f9c3-6a1f-541e-9e9c-dd60ead45ceb",
+    "legacy_id": "c19",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "All corporate entities are legally required to comply ______ federal safety regulations.",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "in"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"comply WITH rules/regulations\" (tuân thủ theo quy định).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "b39c51ee153ead6d245136a7fbbd9908b376e844ecafc7b3f9d64637201bfe8b",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d5341ba2-005a-50a0-89f2-5a432a1502b2",
+    "legacy_id": "c20",
+    "quiz_type": "collocation_mcq",
+    "question_prompt": "Automated machine learning has exerted a profound impact ______ modern employment trends.",
+    "options": [
+      "on",
+      "to",
+      "for",
+      "over"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Cấu trúc: \"exert an impact ON something\" (tạo ra tác động lên điều gì).",
+    "meaning_hint_vi": "",
+    "example_en": "",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "22ff86f51f6f47920035e35f94f11153278518b3558befc2fca56d23bc34f5ff",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "491c64df-630c-5947-9774-3d37cd7f48c2",
+    "legacy_id": "ctx1",
+    "quiz_type": "context_completion",
+    "question_prompt": "The company's latest acquisition strategy aims to expand its market share and ______ direct competitors.",
+    "options": [
+      "eliminate",
+      "discard",
+      "relinquish",
+      "interfere"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Loại bỏ hoàn toàn đối thủ cạnh tranh trên thị trường ➔ Dùng \"eliminate direct competitors\".",
+    "meaning_hint_vi": "",
+    "example_en": "The company's latest acquisition strategy aims to expand its market share and undefined___ direct competitors.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "6990655ced5545f412ee9c81026e268b31bca167ad080d2ad52241d7a5141e8c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e35b6855-9256-5267-89fb-6ed37367b97a",
+    "legacy_id": "ctx2",
+    "quiz_type": "context_completion",
+    "question_prompt": "If greenhouse gases continue to accumulate unchecked, the damage inflicted on arctic ecosystems will be ______.",
+    "options": [
+      "irreversible",
+      "portable",
+      "superficial",
+      "provisional"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Thiệt hại vĩnh viễn không thể khắc phục hay đảo ngược ➔ Dùng \"irreversible damage\".",
+    "meaning_hint_vi": "",
+    "example_en": "If greenhouse gases continue to accumulate unchecked, the damage inflicted on arctic ecosystems will be undefined___.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "bda8c49799ac6e1b7fee937baa3f293bca34c28f7cf1805a599c6d7ceea76c6d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "71b791f5-aa49-50ee-a1f1-1f4bede0c06b",
+    "legacy_id": "ctx3",
+    "quiz_type": "context_completion",
+    "question_prompt": "Injecting capital into research and development remains the single most effective catalyst for ______ economic growth.",
+    "options": [
+      "accelerating",
+      "brightening",
+      "swamping",
+      "degrading"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Đẩy nhanh, tăng tốc tăng trưởng kinh tế ➔ \"accelerating economic growth\".",
+    "meaning_hint_vi": "",
+    "example_en": "Injecting capital into research and development remains the single most effective catalyst for undefined___ economic growth.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "808be84157914be23fe0e806bf333c9dd2c66c68189f4ce372d063f37ccabb4f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f61086d7-44b1-55e9-bf53-b1e3474d793b",
+    "legacy_id": "ctx4",
+    "quiz_type": "context_completion",
+    "question_prompt": "Non-profit organizations have launched microfinance initiatives to empower families living in ______ rural communities.",
+    "options": [
+      "impoverished",
+      "archaic",
+      "speechless",
+      "monumental"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Thay thế cực tốt cho \"very poor\" trong IELTS Task 2 ➔ \"impoverished communities\".",
+    "meaning_hint_vi": "",
+    "example_en": "Non-profit organizations have launched microfinance initiatives to empower families living in undefined___ rural communities.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "e767d6917997877b9d161a1b9289a2a106bfdc8d4d6f3e3e6029043e23e87d2b",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e80a87e4-5331-5356-afa6-07243f74afd5",
+    "legacy_id": "ctx5",
+    "quiz_type": "context_completion",
+    "question_prompt": "When the host announced that our university team took the first prize, I was completely ______.",
+    "options": [
+      "speechless",
+      "illiterate",
+      "obtuse",
+      "deviant"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Lặng người, không thốt nên lời vì quá đỗi vui sướng hoặc kinh ngạc ➔ \"completely speechless\".",
+    "meaning_hint_vi": "",
+    "example_en": "When the host announced that our university team took the first prize, I was completely undefined___.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "f34ffc540917ee46b767cdbae55b2358f93f3f16d62ed684e52de50ade69c4b2",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "303c0b68-83a6-55e7-8733-8492faaec929",
+    "legacy_id": "ctx6",
+    "quiz_type": "context_completion",
+    "question_prompt": "Unlike digital e-books, physical paperbacks provide readers with a rich ______ experience through touch and texture.",
+    "options": [
+      "tactile",
+      "circadian",
+      "nocturnal",
+      "confidential"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Trải nghiệm xúc giác từ việc chạm vào trang giấy ➔ \"tactile experience\".",
+    "meaning_hint_vi": "",
+    "example_en": "Unlike digital e-books, physical paperbacks provide readers with a rich undefined___ experience through touch and texture.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "80d527418e55201874972531f540c48ebba2d9d7e345d087af09f69f204d3fbc",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "8780bffe-b46c-5e7a-beac-e6de4a64a84e",
+    "legacy_id": "ctx7",
+    "quiz_type": "context_completion",
+    "question_prompt": "The auditor found that the company lacked basic internal controls, thus failing to ensure corporate ______.",
+    "options": [
+      "accountability",
+      "narcissism",
+      "probation",
+      "serenity"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Trách nhiệm giải trình của doanh nghiệp ➔ \"corporate accountability\".",
+    "meaning_hint_vi": "",
+    "example_en": "The auditor found that the company lacked basic internal controls, thus failing to ensure corporate undefined___.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "92b3979cefb526926692e39df07410f9caf5d494ae98aa45d1ca74be2a928c5f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5bf56a52-6dfc-5d68-a813-bad6119cb79a",
+    "legacy_id": "ctx8",
+    "quiz_type": "context_completion",
+    "question_prompt": "Before rushing to the presentation room, let's stop at the cafeteria and grab a quick ______ to eat.",
+    "options": [
+      "bite",
+      "pill",
+      "haste",
+      "rag"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Thành ngữ khẩu ngữ: \"grab a bite\" (ăn vội chút gì lót dạ).",
+    "meaning_hint_vi": "",
+    "example_en": "Before rushing to the presentation room, let's stop at the cafeteria and grab a quick undefined___ to eat.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "f79c5abceac6bd2f40abdea0d42ba4908f752d9d3193a8c660cba59622b307fd",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "1f415410-6f53-53e1-897b-16be3d72f10c",
+    "legacy_id": "ctx9",
+    "quiz_type": "context_completion",
+    "question_prompt": "The newly drafted industrial regulations are ______ enough to ensure worker safety without crippling productivity.",
+    "options": [
+      "stringent",
+      "crispy",
+      "slender",
+      "flavorful"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Quy định nghiêm ngặt, chặt chẽ ➔ \"stringent regulations\".",
+    "meaning_hint_vi": "",
+    "example_en": "The newly drafted industrial regulations are undefined___ enough to ensure worker safety without crippling productivity.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "fd43778d506b73415b1db14b45cc5db07fca7b37e3acf8434f44ade58cada13c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b5a6a300-8941-5cdc-8a13-1a0062ff9e39",
+    "legacy_id": "ctx10",
+    "quiz_type": "context_completion",
+    "question_prompt": "Establishing community green spaces and expanding cycle tracks will ______ urban traffic stress significantly.",
+    "options": [
+      "alleviate",
+      "prosecute",
+      "torment",
+      "coerce"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Làm giảm nhẹ, xoa dịu áp lực/ô nhiễm ➔ Dùng \"alleviate urban traffic stress\".",
+    "meaning_hint_vi": "",
+    "example_en": "Establishing community green spaces and expanding cycle tracks will undefined___ urban traffic stress significantly.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "57d4e0f564c96bee373a92979bea39e15fcdf572180492faa4b70a62a585b6ae",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "bc5d0ec0-67a0-56ea-90e9-1d14cfe99732",
+    "legacy_id": "ctx11",
+    "quiz_type": "context_completion",
+    "question_prompt": "Substantial subsidies for renewable energy infrastructure will act as an indispensable ______ for clean energy transition.",
+    "options": [
+      "catalyst",
+      "dilemma",
+      "remedy",
+      "solitude"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Chất xúc tác mạnh mẽ thúc đẩy sự chuyển đổi ➔ Dùng \"catalyst\".",
+    "meaning_hint_vi": "",
+    "example_en": "Substantial subsidies for renewable energy infrastructure will act as an indispensable undefined___ for clean energy transition.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "1bd7597325b2aacfe1e53b1070904d9988e038c359879dbabf2dd3c85ba2260b",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "93d95cd4-3fa2-5ae9-ba4f-946b8eb81d16",
+    "legacy_id": "ctx12",
+    "quiz_type": "context_completion",
+    "question_prompt": "Extensive scientific surveys were conducted to ______ the working hypothesis regarding ocean acidification.",
+    "options": [
+      "substantiate",
+      "discard",
+      "deteriorate",
+      "interfere"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Chứng minh bằng bằng chứng thực nghiệm ➔ Dùng \"substantiate the hypothesis\".",
+    "meaning_hint_vi": "",
+    "example_en": "Extensive scientific surveys were conducted to undefined___ the working hypothesis regarding ocean acidification.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "3d678701f135ebfdcee3f928a7a605ccc332a8323ca2042bd512c9307eab9cf3",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "65654c9b-7778-5848-9737-5f132b5356d6",
+    "legacy_id": "ctx13",
+    "quiz_type": "context_completion",
+    "question_prompt": "Without steady recurring subscribers, this ambitious SaaS business model is simply not commercially ______.",
+    "options": [
+      "viable",
+      "ignorant",
+      "tactile",
+      "speechless"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Có khả năng sinh lời và tồn tại lâu dài ➔ Dùng \"commercially viable\".",
+    "meaning_hint_vi": "",
+    "example_en": "Without steady recurring subscribers, this ambitious SaaS business model is simply not commercially undefined___.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7487edfbeeec1d917e97baa255300364535805d61457ca2cfffb50e101b70a56",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f90dbbfc-c563-5b5c-b3ad-b3fadb649ecf",
+    "legacy_id": "ctx14",
+    "quiz_type": "context_completion",
+    "question_prompt": "Growing up in a peaceful coastal village gave me an enduring appreciation for quiet ______.",
+    "options": [
+      "solitude",
+      "loneliness",
+      "fatigue",
+      "probation"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Sự tĩnh lặng một mình an yên tích cực ➔ Dùng \"solitude\".",
+    "meaning_hint_vi": "",
+    "example_en": "Growing up in a peaceful coastal village gave me an enduring appreciation for quiet undefined___.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "9c4816f2882b948c3112f989324b16ce8d6961cce5bb9958b393a14606e98804",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "a32b73c2-3bde-55e9-82a5-c5afea7ebd8a",
+    "legacy_id": "ctx15",
+    "quiz_type": "context_completion",
+    "question_prompt": "Smartphone ubiquity and social media overuse have become increasingly ______ among secondary school pupils.",
+    "options": [
+      "prevalent",
+      "portable",
+      "meticulous",
+      "slender"
+    ],
+    "correct_answer": "",
+    "explanation_vi": "Thịnh hành, phổ biến rộng rãi trong một nhóm đối tượng ➔ Dùng \"prevalent\".",
+    "meaning_hint_vi": "",
+    "example_en": "Smartphone ubiquity and social media overuse have become increasingly undefined___ among secondary school pupils.",
+    "metadata": {},
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "22c13bc9df84818e9745fc3c7fa2e53d82918f82303eb0320f0fc76a5a0bb651",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b2a6cec1-4cb2-5eb9-8f08-ed1e29f5ea5f",
+    "legacy_id": "reduction-of-vs-reduction-in",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Reduction OF vs. Reduction IN (Ôn thi VSTEP PDF - Trang 33)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "6999163bdc0033510df60b85c0abf7f7d6add5ab9c7ffe2cd18a3ecf99db2386",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "154794b0-99bc-5a92-b7d4-c21242d7c5ba",
+    "legacy_id": "to-v-vs-to-ving-bridge-nouns",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "To + V (Mục đích) vs. To + V-ing (Sau danh từ cầu nối - PDF Trang 15)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "b9718ae1f7cf0f8bc38795c9277470780880fa83b6787788f20c4179ef8f72a0",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d0cd2949-b946-579d-9b00-bfd40ec13ceb",
+    "legacy_id": "also-too-vs-either",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Also / Too (Khẳng định) vs. Either (Phủ định - PDF Trang 14)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "e329d31d9238636ac423b40382aa966234dba0082b28b8c5fdad276122fc5f55",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "6345ec00-6fcd-5d49-98e0-0f6a7f028c18",
+    "legacy_id": "doubt-vs-suspicion",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Doubt vs. Suspicion (Hai sắc thái nghi ngờ)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "0d319c6c284428890f46e56a8188d473f95d6c1ddca86876573dc5e9b52a5074",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "60682d8b-a4c1-508a-89da-0fd5d852131b",
+    "legacy_id": "implement-vs-execute",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Implement vs. Execute (Triển khai & Thực thi)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "f75b1547a0e383550078a20e4b5ae1af513f30a7032fcb027180dc8bfc850ddd",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e5594d1c-d9f5-5421-b323-1c016b7c2ccb",
+    "legacy_id": "forgo-vs-relinquish",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Forgo vs. Relinquish (Từ bỏ & Buông tay)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "f46d1204fbd5d92eb6695afb27c0fd56c2415e419b07680d735eac73ca39166d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "4e9bee04-b028-525c-bdbd-288b0870b0d2",
+    "legacy_id": "explore-vs-discover",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Explore vs. Discover (Khám phá & Phát hiện)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "5f3e2200a9b651a27c0f2761698277c6bf7093b01ba0569a4fcb8405fcaf6b4d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c8af0fc0-7f1f-5d56-9e96-76bf64c16798",
+    "legacy_id": "feasible-vs-possible-vs-viable",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Feasible vs. Possible vs. Viable (Bộ ba tính khả thi)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7094ddb0286e3847c3b0ea3d5d280dcc89dd859e6dcb6b8020910f52dd73f3de",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "98539065-3029-5153-8d59-fd2456a21a11",
+    "legacy_id": "solitude-vs-loneliness",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Solitude vs. Loneliness (Tĩnh lặng vs. Cô đơn)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "11481752003fe2df216f348f872dc52dc9674ab2fbfebc665f41e0ae6e813cdd",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b1d446d9-0c6a-5f2d-a12e-0356bb75ffa3",
+    "legacy_id": "sentimental-vs-nostalgic",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Sentimental vs. Nostalgic (Kỷ vật vs. Hoài niệm)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "a2b05c98ca9af822cf63ca17a471f9f6a5e47c5af160dd71b0dea78c82ab9b71",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "743bd3a9-d9a2-5fe2-9f1a-9a196be43b3f",
+    "legacy_id": "eliminate-vs-discard",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Eliminate vs. Discard (Xóa sổ vs. Vứt bỏ)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "92e931fdcf023fb392fb2fc50b94c60253e1b28a6f4a154eae5705bdaff3ce8d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "53e398dd-b2ea-5b1f-b257-23b03856692c",
+    "legacy_id": "remedy-vs-medicine-vs-cure",
+    "quiz_type": "tricky_distinction",
+    "question_prompt": "",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Remedy vs. Medicine vs. Cure (Phương thuốc)",
+    "example_en": "",
+    "metadata": {
+      "word3": null
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "618abd772beb64388df2e08aa1800d81fa0d6b6c7bd119614946858dd77ee50b",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "58204859-5e5a-50b4-830a-514cb877c9cd",
+    "legacy_id": "gt_1",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "Cấu trúc \"There will be / There can be\" + Danh từ",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "Sau cấu trúc \"There will be / There can be\", bắt buộc phải đi kèm với CỤM DANH TỪ, KHÔNG được cộng trực tiếp với một Tính từ (Adj) đứng trơ trọi.",
+    "meaning_hint_vi": "Cấu trúc \"There will be / There can be\" + Danh từ",
+    "example_en": "",
+    "metadata": {
+      "rule": "Sau cấu trúc \"There will be / There can be\", bắt buộc phải đi kèm với CỤM DANH TỪ, KHÔNG được cộng trực tiếp với một Tính từ (Adj) đứng trơ trọi."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "ef2a1b287ed276be83e02a2a7922873afeecf0632e51a5bfd53083d8ab40d13e",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d42b50bf-f51e-5ece-9bbc-6c9332d4c631",
+    "legacy_id": "gt_2",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "Sở hữu cách bị động: \"its destruction\" thay vì \"destruction of it\"",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "Người bản xứ và bài thi IELTS Band cao rất chuộng tính từ sở hữu đi với Danh từ chỉ hành động (its destruction, its excessive use).",
+    "meaning_hint_vi": "Sở hữu cách bị động: \"its destruction\" thay vì \"destruction of it\"",
+    "example_en": "",
+    "metadata": {
+      "rule": "Người bản xứ và bài thi IELTS Band cao rất chuộng tính từ sở hữu đi với Danh từ chỉ hành động (its destruction, its excessive use)."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "9a8ec13011355f94d944c6b2103347688164e62d3b113eec0db3ded6e49d4a7c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "db4954a3-cc59-54f7-a623-93de0d279d6e",
+    "legacy_id": "gt_3",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "Quy tắc \"Inability + TO Verb\" (Tuyệt đối không dùng \"of doing\")",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "Danh từ \"inability\" (sự bất lực / không thể) bắt buộc đi với động từ nguyên mẫu có TO: inability to do something.",
+    "meaning_hint_vi": "Quy tắc \"Inability + TO Verb\" (Tuyệt đối không dùng \"of doing\")",
+    "example_en": "",
+    "metadata": {
+      "rule": "Danh từ \"inability\" (sự bất lực / không thể) bắt buộc đi với động từ nguyên mẫu có TO: inability to do something."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "f216c5894fe1b140d52c68369550ef931b8296d097bdd54ba5fd521da7af4e4a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "6decfe8c-d02b-5cdd-8990-b1339712260a",
+    "legacy_id": "gt_4",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "Cấu trúc nhấn mạnh \"Emphatic Do / Did\"",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "Trong câu khẳng định thì hiện tại đơn hoặc quá khứ đơn, ta có thể thêm do/does/did trước động từ nguyên thể để nhấn mạnh sự thật.",
+    "meaning_hint_vi": "Cấu trúc nhấn mạnh \"Emphatic Do / Did\"",
+    "example_en": "",
+    "metadata": {
+      "rule": "Trong câu khẳng định thì hiện tại đơn hoặc quá khứ đơn, ta có thể thêm do/does/did trước động từ nguyên thể để nhấn mạnh sự thật."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "1465e377d65de3c059613179e541aa38241086daff111f3fec1a460b37579493",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e673662a-3cf9-5aba-a69c-56abe36e04e7",
+    "legacy_id": "gt_5",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "Mẹo trạng từ \"By far\" với so sánh nhất và so sánh hơn",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "\"By far\" dùng để nhấn mạnh sự chênh lệch vượt trội rất lớn. Thường đứng trước hoặc sau so sánh nhất.",
+    "meaning_hint_vi": "Mẹo trạng từ \"By far\" với so sánh nhất và so sánh hơn",
+    "example_en": "",
+    "metadata": {
+      "rule": "\"By far\" dùng để nhấn mạnh sự chênh lệch vượt trội rất lớn. Thường đứng trước hoặc sau so sánh nhất."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "7aafad485cd25167269fff08c945c7e04bc8db2967e2f1614fcb0850a6b9bd82",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "80094b3a-79f6-5578-b731-a1607ec5ccaf",
+    "legacy_id": "gt_6",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 15] Phân biệt \"to + V\" (Mục đích) vs. \"to + V-ing\" (Sau danh từ cầu nối & tính từ)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• Chỉ mục đích: S + V + to + V_bare\n• Danh từ cầu nối: the key / solution / secret / approach / way / barrier + to + V-ing\n• Tính từ cố định: be used / accustomed / committed / dedicated / opposed + to + V-ing — Trong tiếng Anh, chữ \"to\" thông thường là dấu hiệu của động từ nguyên mẫu (to V). Tuy nhiên, khi đi sau các danh từ mang nghĩa \"chìa khóa/giải pháp/con đường dẫn tới đâu\" hoặc các cụm tính từ chỉ sự quen thuộc/tận tâm, \"to\" đóng vai trò là GIỚI TỪ (preposition), do đó bắt buộc phải cộng với Danh từ hoặc V-ing.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 15] Phân biệt \"to + V\" (Mục đích) vs. \"to + V-ing\" (Sau danh từ cầu nối & tính từ)",
+    "example_en": "",
+    "metadata": {
+      "rule": "• Chỉ mục đích: S + V + to + V_bare\n• Danh từ cầu nối: the key / solution / secret / approach / way / barrier + to + V-ing\n• Tính từ cố định: be used / accustomed / committed / dedicated / opposed + to + V-ing — Trong tiếng Anh, chữ \"to\" thông thường là dấu hiệu của động từ nguyên mẫu (to V). Tuy nhiên, khi đi sau các danh từ mang nghĩa \"chìa khóa/giải pháp/con đường dẫn tới đâu\" hoặc các cụm tính từ chỉ sự quen thuộc/tận tâm, \"to\" đóng vai trò là GIỚI TỪ (preposition), do đó bắt buộc phải cộng với Danh từ hoặc V-ing."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "e3ec7813818e66a7e65a01776fee90e5ab2d0f1846f16f92ed16cdc2541fbe68",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "6690742b-0a65-50d6-ac6a-44d11030f0a6",
+    "legacy_id": "gt_7",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 7 & Trang 14] Collocation Y Khoa: \"Take medicine\" vs. \"Drink medicine\"",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "take + medicine / pills / antibiotics / supplements / weight-loss drugs (KHÔNG dùng drink) — Người Việt thường dịch word-by-word \"uống thuốc\" là \"drink medicine\". Trong tiếng Anh chuẩn, mọi loại thuốc (viên, nước, thực phẩm chức năng) đều đi với động từ \"take\".",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 7 & Trang 14] Collocation Y Khoa: \"Take medicine\" vs. \"Drink medicine\"",
+    "example_en": "",
+    "metadata": {
+      "rule": "take + medicine / pills / antibiotics / supplements / weight-loss drugs (KHÔNG dùng drink) — Người Việt thường dịch word-by-word \"uống thuốc\" là \"drink medicine\". Trong tiếng Anh chuẩn, mọi loại thuốc (viên, nước, thực phẩm chức năng) đều đi với động từ \"take\"."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "65e805c973e21bfaa8eaa7cf87d93a4687d3303a18b3eafb9ca03ca931d4afe5",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "be360d56-65c1-5a94-a61d-43999d060203",
+    "legacy_id": "gt_8",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 14] Phân biệt \"Also / Too\" (Câu khẳng định) vs. \"Either\" (Câu phủ định)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• Khẳng định (+): S + also + V / S + V..., too.\n• Phủ định (-): S + aux + not + V..., either. — Khi muốn nói \"cũng không...\" trong câu phủ định (có not / never / neither), tuyệt đối không dùng \"too\" hay \"also\" ở cuối câu mà phải chuyển thành \"either\".",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 14] Phân biệt \"Also / Too\" (Câu khẳng định) vs. \"Either\" (Câu phủ định)",
+    "example_en": "",
+    "metadata": {
+      "rule": "• Khẳng định (+): S + also + V / S + V..., too.\n• Phủ định (-): S + aux + not + V..., either. — Khi muốn nói \"cũng không...\" trong câu phủ định (có not / never / neither), tuyệt đối không dùng \"too\" hay \"also\" ở cuối câu mà phải chuyển thành \"either\"."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "6d386074ee6f58209eb7eda42a71dfd0b054b94bc0e19c96b9dede7bf3042474",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "1cf7ff92-ac56-5f97-8954-0faaa886835d",
+    "legacy_id": "gt_9",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 14 & Trang 43] Cụm Cố Định \"Go on + a diet / a trip / a strike / a date\"",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "go on + a diet / a business trip / a company trip / a strike / a date / holiday / vacation — Cấu trúc \"go on + danh từ chỉ hoạt động kéo dài theo đợt\" giúp bài nói Speaking Part 1 & Part 2 tự nhiên như người bản xứ.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 14 & Trang 43] Cụm Cố Định \"Go on + a diet / a trip / a strike / a date\"",
+    "example_en": "",
+    "metadata": {
+      "rule": "go on + a diet / a business trip / a company trip / a strike / a date / holiday / vacation — Cấu trúc \"go on + danh từ chỉ hoạt động kéo dài theo đợt\" giúp bài nói Speaking Part 1 & Part 2 tự nhiên như người bản xứ."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "4f4b66a43a809f946263106be50fdf2be61c956432a246b261d5573ef3cd5f93",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "3cbbdc4d-e70b-52d3-a41d-137a930e1dd6",
+    "legacy_id": "gt_10",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 15] Tính từ (Adjective) vs. Trạng từ (Adverb) Bổ Nghĩa Cho Động Từ Thường",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• S + be / become / seem / feel + Adjective\n• S + (Adverb) + Action Verb + (Object) + (Adverb) — Tính từ bổ nghĩa cho Danh từ hoặc đứng sau Linking Verbs. Ngược lại, khi bổ nghĩa cho động từ chỉ hành động (affect, disrupt, grow, relocate), bắt buộc phải dùng Trạng từ (Adverb -ly), có thể đứng ngay trước động từ chính hoặc sau tân ngữ.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 15] Tính từ (Adjective) vs. Trạng từ (Adverb) Bổ Nghĩa Cho Động Từ Thường",
+    "example_en": "",
+    "metadata": {
+      "rule": "• S + be / become / seem / feel + Adjective\n• S + (Adverb) + Action Verb + (Object) + (Adverb) — Tính từ bổ nghĩa cho Danh từ hoặc đứng sau Linking Verbs. Ngược lại, khi bổ nghĩa cho động từ chỉ hành động (affect, disrupt, grow, relocate), bắt buộc phải dùng Trạng từ (Adverb -ly), có thể đứng ngay trước động từ chính hoặc sau tân ngữ."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "9e9b923a2ea0b68d95a7cf867ad248215a45fcc7b69a288c482afb49bca09d5c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "86f8a1ba-2422-5a8a-8d07-3ce33135f029",
+    "legacy_id": "gt_11",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 33] Phân biệt \"Reduction OF\" (Con số cụ thể) vs. \"Reduction IN\" (Khía cạnh/Chất lượng)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• a reduction OF + [Số liệu / Phần trăm cụ thể: 20%, $500]\n• a reduction IN + [Danh từ chỉ lĩnh vực / đối tượng bị giảm: stress, carbon emissions, crime rates] — Khi nêu đối tượng hoặc lĩnh vực được cắt giảm (giảm căng thẳng, giảm chi phí, giảm ô nhiễm), luôn dùng giới từ \"IN\" (a reduction in...). Chỉ dùng \"OF\" khi theo sau là một con số định lượng.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 33] Phân biệt \"Reduction OF\" (Con số cụ thể) vs. \"Reduction IN\" (Khía cạnh/Chất lượng)",
+    "example_en": "",
+    "metadata": {
+      "rule": "• a reduction OF + [Số liệu / Phần trăm cụ thể: 20%, $500]\n• a reduction IN + [Danh từ chỉ lĩnh vực / đối tượng bị giảm: stress, carbon emissions, crime rates] — Khi nêu đối tượng hoặc lĩnh vực được cắt giảm (giảm căng thẳng, giảm chi phí, giảm ô nhiễm), luôn dùng giới từ \"IN\" (a reduction in...). Chỉ dùng \"OF\" khi theo sau là một con số định lượng."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "d5051523f045a677912e071b8ca8f0953ace7a29ede06a3ebae6b0d71df2997a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ae6bce8a-69a1-553d-902a-ef835f33a916",
+    "legacy_id": "gt_12",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 34 & Trang 66] Quy Tắc Động Từ Khuyết Thiếu (Modal Verbs + Bare Infinitive)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "can / could / may / might / must / should / would + V_nguyên_mẫu (Bị động: Modal + be + V3/ed) — Sau tất cả các động từ khuyết thiếu (Modal verbs), động từ chính luôn ở dạng nguyên mẫu không \"to\" và tuyệt đối không chia ngôi thứ 3 số ít (-s/es) hay quá khứ (-ed).",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 34 & Trang 66] Quy Tắc Động Từ Khuyết Thiếu (Modal Verbs + Bare Infinitive)",
+    "example_en": "",
+    "metadata": {
+      "rule": "can / could / may / might / must / should / would + V_nguyên_mẫu (Bị động: Modal + be + V3/ed) — Sau tất cả các động từ khuyết thiếu (Modal verbs), động từ chính luôn ở dạng nguyên mẫu không \"to\" và tuyệt đối không chia ngôi thứ 3 số ít (-s/es) hay quá khứ (-ed)."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "1a89686fb1a49e4bab3405b771755b2a8964790ce4f0afdb31b6a5d1979c75b2",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5689dab6-a96c-5391-accc-44dd0fbdbec0",
+    "legacy_id": "gt_13",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 35] Động Từ Tri Giác (Verbs of Perception) + V_bare vs. V-ing",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• see / hear / watch / notice / feel + Object + V_bare (Chứng kiến toàn bộ hành động từ đầu đến cuối)\n• see / hear / watch / notice / feel + Object + V-ing (Bắt gặp hành động đang diễn ra tại một thời điểm) — Cấu trúc động từ tri giác rất hữu ích khi kể lại trải nghiệm thực tế trong Speaking Part 1, 2, 3 và viết thư VSTEP Task 1.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 35] Động Từ Tri Giác (Verbs of Perception) + V_bare vs. V-ing",
+    "example_en": "",
+    "metadata": {
+      "rule": "• see / hear / watch / notice / feel + Object + V_bare (Chứng kiến toàn bộ hành động từ đầu đến cuối)\n• see / hear / watch / notice / feel + Object + V-ing (Bắt gặp hành động đang diễn ra tại một thời điểm) — Cấu trúc động từ tri giác rất hữu ích khi kể lại trải nghiệm thực tế trong Speaking Part 1, 2, 3 và viết thư VSTEP Task 1."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "ce42ce6526690982c7b8efb6fd608efdece1a864a74e9cc4b8ee39a22e5e8b10",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e58441c9-278a-5a57-ad68-a37e1a897397",
+    "legacy_id": "gt_14",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 35–36] Động Từ Sai Khiến (Causative Verbs: Make • Let • Have • Get) & Động Từ Help",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• make / let / have + sb + V_bare\n• get + sb + to V\n• help + sb + V_bare / to V\n• Bị động: have / get + sth + V3/ed — Nhóm động từ sai khiến và hỗ trợ xuất hiện dày đặc trong bài luận IELTS/VSTEP khi phân tích tác động của chính sách hoặc công nghệ lên con người.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 35–36] Động Từ Sai Khiến (Causative Verbs: Make • Let • Have • Get) & Động Từ Help",
+    "example_en": "",
+    "metadata": {
+      "rule": "• make / let / have + sb + V_bare\n• get + sb + to V\n• help + sb + V_bare / to V\n• Bị động: have / get + sth + V3/ed — Nhóm động từ sai khiến và hỗ trợ xuất hiện dày đặc trong bài luận IELTS/VSTEP khi phân tích tác động của chính sách hoặc công nghệ lên con người."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "4add0c54125352a94edcf0a77a1ed64bf65ebc7ff37aeb7b9418ad22cadf4d1e",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "0162ccb9-05f5-5b26-833f-d7b482801b82",
+    "legacy_id": "gt_15",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 37] Hệ Thống 6 Nhóm Liên Từ Phụ Thuộc (Subordinating Conjunctions)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "1. Nguyên nhân (since, as, seeing that) | 2. Nhượng bộ (although, even though, whereas, while) | 3. Điều kiện (provided that, unless) | 4. Mục đích (so that, in order that) | 5. Thời gian (once, as soon as) | 6. Hệ quả (so... that) — Sử dụng đa dạng liên từ phụ thuộc để tạo câu phức (Complex Sentences) là điều kiện bắt buộc để đạt Grammatical Range Band 7.0+.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 37] Hệ Thống 6 Nhóm Liên Từ Phụ Thuộc (Subordinating Conjunctions)",
+    "example_en": "",
+    "metadata": {
+      "rule": "1. Nguyên nhân (since, as, seeing that) | 2. Nhượng bộ (although, even though, whereas, while) | 3. Điều kiện (provided that, unless) | 4. Mục đích (so that, in order that) | 5. Thời gian (once, as soon as) | 6. Hệ quả (so... that) — Sử dụng đa dạng liên từ phụ thuộc để tạo câu phức (Complex Sentences) là điều kiện bắt buộc để đạt Grammatical Range Band 7.0+."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "0cbe7347182dd2330c51a6def7fd3251461ab93c8a4a36dfcd0afd29896a7702",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b5b91222-9806-565d-95a1-1bc4528bad43",
+    "legacy_id": "gt_16",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 77–79] Cách Đồng Tình Với Câu Khẳng Định vs. Câu Phủ Định (Ditto! / Same here / Neither do I)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "• Đồng tình Khẳng định (+): Me too / So do I / Same here / Likewise / Ditto!\n• Đồng tình Phủ định (-): Me neither / Neither do I / Nor do I — Trong giao tiếp thực tế, Listening Short Conversations và Speaking, người bản xứ thường dùng \"Same here\", \"Likewise\", \"Ditto!\" (tôi cũng vậy - khẳng định) và \"Me neither / Neither do I\" (tôi cũng không - phủ định).",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 77–79] Cách Đồng Tình Với Câu Khẳng Định vs. Câu Phủ Định (Ditto! / Same here / Neither do I)",
+    "example_en": "",
+    "metadata": {
+      "rule": "• Đồng tình Khẳng định (+): Me too / So do I / Same here / Likewise / Ditto!\n• Đồng tình Phủ định (-): Me neither / Neither do I / Nor do I — Trong giao tiếp thực tế, Listening Short Conversations và Speaking, người bản xứ thường dùng \"Same here\", \"Likewise\", \"Ditto!\" (tôi cũng vậy - khẳng định) và \"Me neither / Neither do I\" (tôi cũng không - phủ định)."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "21225d4d392219ed5850017b367e9d1f1b27a2d42b7899a017bb444ea1f5611f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "49360b05-905f-51c0-8d53-01fe97951053",
+    "legacy_id": "gt_17",
+    "quiz_type": "grammar_error_correction",
+    "question_prompt": "[Ôn thi VSTEP PDF - Trang 66] Bảng 8 Lỗi Sai Thực Chiến Cần Tránh Trong VSTEP & IELTS (Error Correction Log)",
+    "options": [],
+    "correct_answer": "",
+    "explanation_vi": "1. \"i\" -> \"I\" | 2. \"2 option\" -> \"Option 2\" | 3. \"someone who is...\" (thừa who khi không có mệnh đề thứ 2) | 4. \"at an early stage\" | 5. \"long working hours\" | 6. \"could + V_bare\" | 7. \"imbalance\" | 8. Dùng \"Option 3\" làm chủ ngữ trực tiếp — Tổng hợp 8 lỗi sai thực tế được trích xuất trực tiếp từ quá trình luyện tập cá nhân trong PDF trang 66, giúp rà soát bài viết và bài nói trước khi nộp.",
+    "meaning_hint_vi": "[Ôn thi VSTEP PDF - Trang 66] Bảng 8 Lỗi Sai Thực Chiến Cần Tránh Trong VSTEP & IELTS (Error Correction Log)",
+    "example_en": "",
+    "metadata": {
+      "rule": "1. \"i\" -> \"I\" | 2. \"2 option\" -> \"Option 2\" | 3. \"someone who is...\" (thừa who khi không có mệnh đề thứ 2) | 4. \"at an early stage\" | 5. \"long working hours\" | 6. \"could + V_bare\" | 7. \"imbalance\" | 8. Dùng \"Option 3\" làm chủ ngữ trực tiếp — Tổng hợp 8 lỗi sai thực tế được trích xuất trực tiếp từ quá trình luyện tập cá nhân trong PDF trang 66, giúp rà soát bài viết và bài nói trước khi nộp."
+    },
+    "source_file": "src/data/vocabularyData.ts",
+    "source_hash": "0c96683488fe6a847c7169e849abef228454a4d0937f962b89ee9fad01bae767",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "bff3efff-9f39-5a6b-b712-9d9e060af976",
+    "legacy_id": "pdf-struct-1_pdf-struct-1-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Điền dạng đúng vào chỗ trống: \"The rapid advancement of biotechnology has transformed the way doctors treat diseases, _______ many to anticipate a longer human lifespan.\"",
+    "options": [
+      "leading",
+      "led",
+      "leads",
+      "to lead"
+    ],
+    "correct_answer": "leading",
+    "explanation_vi": "Sau dấu phẩy cuối mệnh đề chính, dùng hiện tại phân từ \"leading\" (rút gọn mệnh đề quan hệ chỉ hệ quả: which leads many to...).",
+    "meaning_hint_vi": "The rapid advancement of...",
+    "example_en": "The rapid advancement of AI has transformed the way people work, leading many to predict major workplace changes.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-1",
+      "pdf_item_number": 1
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "0172740302534caeb27d5f60456e9652c6c65cc602984f90ba02b85f6647b1af",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f23d6883-866c-54a1-a85f-ad9b55420694",
+    "legacy_id": "pdf-struct-2_pdf-struct-2-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn phương án đúng: \"Severe environmental degradation has led governments _______ stricter carbon taxes.\"",
+    "options": [
+      "to introduce",
+      "introducing",
+      "introduce",
+      "for introducing"
+    ],
+    "correct_answer": "to introduce",
+    "explanation_vi": "Theo công thức \"S + lead(s) + sb + to V\", sau tân ngữ \"governments\" dùng \"to introduce\".",
+    "meaning_hint_vi": "lead sb to do",
+    "example_en": "This trend has led many people to believe that online education is effective.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-2",
+      "pdf_item_number": 2
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "97ff033bd78d8dce2027f2202210bf2bd591cd064f58f29121e73a9c408a073a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "742e8d9a-fe3c-5167-b14e-f04e9b9f81db",
+    "legacy_id": "pdf-struct-3_pdf-struct-3-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn câu đúng ngữ pháp học thuật:",
+    "options": [
+      "Automation has made it increasingly feasible for factories to operate 24/7.",
+      "Automation has made increasingly feasible for factories operating 24/7.",
+      "Automation has made it feasible increasingly to factories operate 24/7.",
+      "Automation made it is increasingly feasible for factories to operate 24/7."
+    ],
+    "correct_answer": "Automation has made it increasingly feasible for factories to operate 24/7.",
+    "explanation_vi": "Cấu trúc chuẩn: S + has made + it + increasingly feasible + for sb + to V.",
+    "meaning_hint_vi": "make it increasingly feasible",
+    "example_en": "Technology has made it increasingly feasible for students to learn remotely.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-3",
+      "pdf_item_number": 3
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "2403e747f2c3254a9550b83f466213290a2653b18e4bd567e8c41b9f08691e53",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e775a6ef-346a-50b8-ab33-9ddb548265e6",
+    "legacy_id": "pdf-struct-4_pdf-struct-4-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Câu \"Anyone with a basic knowledge of finance can understand this report\" tương đương với câu nào?",
+    "options": [
+      "Anyone who has a basic knowledge of finance can understand this report.",
+      "Anyone who is a basic knowledge of finance can understand this report.",
+      "Anyone without a basic knowledge of finance can understand this report.",
+      "Anyone whom has a basic knowledge of finance can understand this report."
+    ],
+    "correct_answer": "Anyone who has a basic knowledge of finance can understand this report.",
+    "explanation_vi": "Như ghi chú trang 1–2 trong PDF: \"with\" thay thế trực tiếp cho mệnh đề quan hệ \"who has\".",
+    "meaning_hint_vi": "Anyone with...",
+    "example_en": "Anyone with determination can succeed.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-4",
+      "pdf_item_number": 4
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "a0af30501eeb3ecbfffdb5fcb329a31e341041212ce62931d63b38d2b4bb5199",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d923e2cc-c9d0-52b7-8f05-e17b1836241e",
+    "legacy_id": "pdf-struct-5_pdf-struct-5-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn câu đúng theo quy tắc trang 2 PDF:",
+    "options": [
+      "One major reason is that housing prices have risen sharply.",
+      "One major reason is that the sharp rise in housing prices.",
+      "One major reason is because housing prices have risen sharply.",
+      "One major reason is housing prices have risen sharply that."
+    ],
+    "correct_answer": "One major reason is that housing prices have risen sharply.",
+    "explanation_vi": "Sau \"is that\" bắt buộc phải là một mệnh đề đầy đủ S + V (\"housing prices have risen sharply\").",
+    "meaning_hint_vi": "One major reason is that",
+    "example_en": "One major reason is that public transport is affordable.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-5",
+      "pdf_item_number": 5
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "f0e48ff15ae4e3cbab86998b012fb136800f57233414c9d646cb59107b113c25",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "73f44fd9-f264-5d73-8e0f-c365633ec606",
+    "legacy_id": "pdf-struct-6_pdf-struct-6-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"without the need to\" (Trang 2 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "...without the need to + V — Dùng cho: Thân bài (Mà không cần phải)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "...without the need to + V — Dùng cho: Thân bài (Mà không cần phải)",
+    "explanation_vi": "Theo trang 2 trong tài liệu PDF gốc (Mục #6): Công thức là \"...without the need to + V\", nghĩa là \"Mà không cần phải\". Ghi chú: Diễn đạt việc không cần làm theo cách truyền thống/cũ nữa.",
+    "meaning_hint_vi": "without the need to",
+    "example_en": "People can work without the need to travel.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-6",
+      "pdf_item_number": 6
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "55cb466f9d3b1d170133ef8a0dd6cddd55db840ade8a1cdb8816581c36845585",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "93e0dc86-c23f-57b2-9d02-636d2def9c87",
+    "legacy_id": "pdf-struct-7_pdf-struct-7-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Another contributing factor is\" (Trang 2 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Another contributing factor is + N/V-ing — Dùng cho: Thân bài (Một yếu tố đóng góp khác là)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Another contributing factor is + N/V-ing — Dùng cho: Thân bài (Một yếu tố đóng góp khác là)",
+    "explanation_vi": "Theo trang 2 trong tài liệu PDF gốc (Mục #7): Công thức là \"Another contributing factor is + N/V-ing\", nghĩa là \"Một yếu tố đóng góp khác là\". Ghi chú: Dùng để thêm lý do thứ hai, thứ ba trong đoạn thân bài.",
+    "meaning_hint_vi": "Another contributing factor is",
+    "example_en": "Another contributing factor is lower operating costs.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-7",
+      "pdf_item_number": 7
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "1c13a4afb6e447178c8b1811229a69727aca6bce613e93218440d1304b83c8e6",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "39871601-f96d-58ba-82dc-8440f93c90d6",
+    "legacy_id": "pdf-struct-8_pdf-struct-8-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"The shift toward\" (Trang 2 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "The shift toward + N + brings/offers + N — Dùng cho: Thân bài (Sự chuyển dịch sang)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "The shift toward + N + brings/offers + N — Dùng cho: Thân bài (Sự chuyển dịch sang)",
+    "explanation_vi": "Theo trang 2 trong tài liệu PDF gốc (Mục #8): Công thức là \"The shift toward + N + brings/offers + N\", nghĩa là \"Sự chuyển dịch sang\". Ghi chú: Nêu lợi ích đi kèm với một xu hướng.",
+    "meaning_hint_vi": "The shift toward",
+    "example_en": "The shift toward renewable energy brings environmental benefits.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-8",
+      "pdf_item_number": 8
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "9720cdc454d31bdc8bc644a557ac2c20dae6d6b75ddc5af70fb3097c6f80a2e8",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "da2864e3-1a4f-5aca-a8d5-9bb11999cd85",
+    "legacy_id": "pdf-struct-9_pdf-struct-9-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"continue to\" (Trang 2 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + continue(s) to + V — Dùng cho: Diễn đạt chung (Tiếp tục làm gì)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + continue(s) to + V — Dùng cho: Diễn đạt chung (Tiếp tục làm gì)",
+    "explanation_vi": "Theo trang 2 trong tài liệu PDF gốc (Mục #9): Công thức là \"S + continue(s) to + V\", nghĩa là \"Tiếp tục làm gì\". Ghi chú: Diễn tả xu hướng vẫn đang tiếp diễn.",
+    "meaning_hint_vi": "continue to",
+    "example_en": "People continue to buy printed books.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-9",
+      "pdf_item_number": 9
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "08322cc86f9712cedc5756ecb9448f2b57d1a9342da05998cffab5d9ea98d6b9",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "a29e78da-67a9-51f3-ae0f-0c464ef40868",
+    "legacy_id": "pdf-struct-10_pdf-struct-10-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"be better for\" (Trang 2 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + be better for + N/V-ing — Dùng cho: So sánh (Tốt hơn cho việc gì)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + be better for + N/V-ing — Dùng cho: So sánh (Tốt hơn cho việc gì)",
+    "explanation_vi": "Theo trang 2 trong tài liệu PDF gốc (Mục #10): Công thức là \"S + be better for + N/V-ing\", nghĩa là \"Tốt hơn cho việc gì\". Ghi chú: Cấu trúc so sánh đơn giản, dễ dùng trong mọi đoạn văn.",
+    "meaning_hint_vi": "be better for",
+    "example_en": "Reading books is better for concentration.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-10",
+      "pdf_item_number": 10
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "a5d7a03683db96c087cf9f5418bfe05ed1eb427a3be19f9534096d119c4ec332",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9b1063d5-2dac-59f0-ac8d-7b4417e161d2",
+    "legacy_id": "pdf-struct-11_pdf-struct-11-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"make it easier\" (Trang 3 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + make(s) it easier for sb to V — Dùng cho: Thân bài (Làm cho việc gì dễ dàng hơn)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + make(s) it easier for sb to V — Dùng cho: Thân bài (Làm cho việc gì dễ dàng hơn)",
+    "explanation_vi": "Theo trang 3 trong tài liệu PDF gốc (Mục #11): Công thức là \"S + make(s) it easier for sb to V\", nghĩa là \"Làm cho việc gì dễ dàng hơn\". Ghi chú: Rất phổ biến khi nói về lợi ích của công nghệ.",
+    "meaning_hint_vi": "make it easier",
+    "example_en": "Smartphones make it easier for us to communicate.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-11",
+      "pdf_item_number": 11
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "d3a2f8d4cf124b631e46689752a4860ab80b476ea4b7ec3bdffbb9b18adbd6ff",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ea83e326-4a12-5baa-8ea5-65d6b0e2344f",
+    "legacy_id": "pdf-struct-12_pdf-struct-12-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"make it increasingly adj\" (Trang 3 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + has made it increasingly + adj + for sb to V — Dùng cho: Thân bài (Ngày càng trở nên (tính từ) đối với ai)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + has made it increasingly + adj + for sb to V — Dùng cho: Thân bài (Ngày càng trở nên (tính từ) đối với ai)",
+    "explanation_vi": "Theo trang 3 trong tài liệu PDF gốc (Mục #12): Công thức là \"S + has made it increasingly + adj + for sb to V\", nghĩa là \"Ngày càng trở nên (tính từ) đối với ai\". Ghi chú: Có thể dùng adj tích cực (easier) hoặc tiêu cực (difficult, harder).",
+    "meaning_hint_vi": "make it increasingly adj",
+    "example_en": "Social media has made it increasingly difficult for teenagers to focus.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-12",
+      "pdf_item_number": 12
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "0dbf36e75a02c1e9d96b74fe273cf06cf1723d3302075abc93f98174be554bc9",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b25fbabb-256f-5386-bb02-5b6186fb5920",
+    "legacy_id": "pdf-struct-13_pdf-struct-13-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"find it + adj + to V\" (Trang 3 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + find it + adj + to V — Dùng cho: Quan điểm cá nhân (Thấy việc gì đó như thế nào)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + find it + adj + to V — Dùng cho: Quan điểm cá nhân (Thấy việc gì đó như thế nào)",
+    "explanation_vi": "Theo trang 3 trong tài liệu PDF gốc (Mục #13): Công thức là \"S + find it + adj + to V\", nghĩa là \"Thấy việc gì đó như thế nào\". Ghi chú: Diễn đạt cảm nhận, quan điểm cá nhân.",
+    "meaning_hint_vi": "find it + adj + to V",
+    "example_en": "I find it easier to study at night.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-13",
+      "pdf_item_number": 13
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "6da7d6a58db49b004e60cfd16da04d0368a1fae6aead7e96236fa565dbd67b94",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "4c07bfd2-d3db-5ed6-a466-ee3fce3d034b",
+    "legacy_id": "pdf-struct-14_pdf-struct-14-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"free from\" (Trang 3 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "be free from + N/V-ing — Dùng cho: Diễn đạt chung (Thoát khỏi, không còn)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "be free from + N/V-ing — Dùng cho: Diễn đạt chung (Thoát khỏi, không còn)",
+    "explanation_vi": "Theo trang 3 trong tài liệu PDF gốc (Mục #14): Công thức là \"be free from + N/V-ing\", nghĩa là \"Thoát khỏi, không còn\". Ghi chú: Với cảm xúc/trạng thái tâm lý (lo lắng, áp lực...) dùng 'free from/of' là chuẩn nhất.",
+    "meaning_hint_vi": "free from",
+    "example_en": "She hopes to be free from financial stress.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-14",
+      "pdf_item_number": 14
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "1e3002bbb9b0dd7492cd2565f868339e068d0776d2baee0762bd292b0102722d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "3cba2750-e678-5d3b-a0c8-e20d279d9f98",
+    "legacy_id": "pdf-struct-15_pdf-struct-15-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Because of + N\" (Trang 3 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Because of + N, S + V — Dùng cho: Thân bài (Bởi vì (cụm danh từ))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Because of + N, S + V — Dùng cho: Thân bài (Bởi vì (cụm danh từ))",
+    "explanation_vi": "Theo trang 3 trong tài liệu PDF gốc (Mục #15): Công thức là \"Because of + N, S + V\", nghĩa là \"Bởi vì (cụm danh từ)\". Ghi chú: Sau 'because of' luôn là cụm danh từ (N), không phải mệnh đề (S+V).",
+    "meaning_hint_vi": "Because of + N",
+    "example_en": "Because of inflation, prices have increased.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-15",
+      "pdf_item_number": 15
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "78af7cd2dc9aaf32ce8fe9608875aa833a46ee4f20fe20c069b729a66c4826b6",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "dd6cda71-43b1-5750-983d-35837135d603",
+    "legacy_id": "pdf-struct-16_pdf-struct-16-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"significant + adj + benefits\" (Trang 3 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "significant + adj + noun — Dùng cho: Học thuật (Lợi ích đáng kể (về mặt nào đó))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "significant + adj + noun — Dùng cho: Học thuật (Lợi ích đáng kể (về mặt nào đó))",
+    "explanation_vi": "Theo trang 3 trong tài liệu PDF gốc (Mục #16): Công thức là \"significant + adj + noun\", nghĩa là \"Lợi ích đáng kể (về mặt nào đó)\". Ghi chú: Cấu trúc 2 tính từ cùng bổ nghĩa cho 1 danh từ.",
+    "meaning_hint_vi": "significant + adj + benefits",
+    "example_en": "Renewable energy provides significant environmental benefits.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-16",
+      "pdf_item_number": 16
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "71511a6de151577b45c21883145ab2089c47c902d46acb7cd3a1e11a49e086d5",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f82286ce-8ad8-5378-aa5d-e27a63caa34b",
+    "legacy_id": "pdf-struct-17_pdf-struct-17-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"advantages in terms of\" (Trang 4 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "advantages in terms of + N — Dùng cho: So sánh (Lợi thế về mặt)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "advantages in terms of + N — Dùng cho: So sánh (Lợi thế về mặt)",
+    "explanation_vi": "Theo trang 4 trong tài liệu PDF gốc (Mục #17): Công thức là \"advantages in terms of + N\", nghĩa là \"Lợi thế về mặt\". Ghi chú: Dùng khi so sánh, nhấn mạnh ưu điểm vượt trội của một khía cạnh cụ thể.",
+    "meaning_hint_vi": "advantages in terms of",
+    "example_en": "Digital books have advantages in terms of convenience.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-17",
+      "pdf_item_number": 17
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "fa7f7e357ad90ae655f813d47829d9540eb11360645afdd9489888aab4b1ef66",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "21726ea3-e674-5cca-b5ed-2732f1241165",
+    "legacy_id": "pdf-struct-18_pdf-struct-18-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"more advantages than\" (Trang 4 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "A has more advantages than B — Dùng cho: So sánh (Có nhiều lợi thế hơn)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "A has more advantages than B — Dùng cho: So sánh (Có nhiều lợi thế hơn)",
+    "explanation_vi": "Theo trang 4 trong tài liệu PDF gốc (Mục #18): Công thức là \"A has more advantages than B\", nghĩa là \"Có nhiều lợi thế hơn\". Ghi chú: So sánh lợi ích giữa hai đối tượng.",
+    "meaning_hint_vi": "more advantages than",
+    "example_en": "Electric cars have more advantages than petrol cars.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-18",
+      "pdf_item_number": 18
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "f184508f962d0302168facfe830c3278b0eef825f09076b6418b697acaaa7d92",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "06aaf55e-5bac-5f98-9c20-88e7000e5891",
+    "legacy_id": "pdf-struct-19_pdf-struct-19-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"relevant to\" (Trang 4 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "be relevant to + N — Dùng cho: Diễn đạt chung (Liên quan đến / thiết thực với)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "be relevant to + N — Dùng cho: Diễn đạt chung (Liên quan đến / thiết thực với)",
+    "explanation_vi": "Theo trang 4 trong tài liệu PDF gốc (Mục #19): Công thức là \"be relevant to + N\", nghĩa là \"Liên quan đến / thiết thực với\". Ghi chú: Luôn đi kèm giới từ 'to'.",
+    "meaning_hint_vi": "relevant to",
+    "example_en": "This topic is relevant to university students.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-19",
+      "pdf_item_number": 19
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "a63782946be26a4216a829ec384db89e2860f750ad0cb0395e414afbfecf7dc1",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9b60b041-addb-5f58-9b0d-314c8fc67055",
+    "legacy_id": "pdf-struct-20_pdf-struct-20-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"I'd be a fool not to\" (Trang 4 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "I'd be a fool not to + V (hoặc I would be thick not to accept) — Dùng cho: Speaking / Nhấn mạnh (Thật ngốc nếu không...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "I'd be a fool not to + V (hoặc I would be thick not to accept) — Dùng cho: Speaking / Nhấn mạnh (Thật ngốc nếu không...)",
+    "explanation_vi": "Theo trang 4 trong tài liệu PDF gốc (Mục #20): Công thức là \"I'd be a fool not to + V (hoặc I would be thick not to accept)\", nghĩa là \"Thật ngốc nếu không...\". Ghi chú: Cách nói tự nhiên, nhấn mạnh sẽ dại dột nếu không làm điều gì.",
+    "meaning_hint_vi": "I'd be a fool not to",
+    "example_en": "I'd be a fool not to accept the offer.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-20",
+      "pdf_item_number": 20
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "c7e113a4ce33c555279b14363abd1ebf329e64e1da4052acedfb071d9a011685",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "21bb3c9f-a4e1-531c-8b63-f549f6a86f31",
+    "legacy_id": "pdf-struct-21_pdf-struct-21-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"make + object + complement\" (Trang 4 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "make + O + Adj — Dùng cho: Ngữ pháp (Làm cho (ai/cái gì) trở nên)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "make + O + Adj — Dùng cho: Ngữ pháp (Làm cho (ai/cái gì) trở nên)",
+    "explanation_vi": "Theo trang 4 trong tài liệu PDF gốc (Mục #21): Công thức là \"make + O + Adj\", nghĩa là \"Làm cho (ai/cái gì) trở nên\". Ghi chú: Có thể chuyển đổi sang dạng V-ing để câu tự nhiên hơn khi O dài.",
+    "meaning_hint_vi": "make + object + complement",
+    "example_en": "This policy makes life easier.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-21",
+      "pdf_item_number": 21
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "60b445009d4ef7eb842e4610d41b6b71aa053f214a95f3333730472523912d06",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "3c14c331-da77-5b93-ab47-ae8e11e3de60",
+    "legacy_id": "pdf-struct-22_pdf-struct-22-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"be pleased to\" (Trang 4 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "be + adj (cảm xúc) + to V — Dùng cho: Diễn đạt chung (Vui/hài lòng khi làm gì)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "be + adj (cảm xúc) + to V — Dùng cho: Diễn đạt chung (Vui/hài lòng khi làm gì)",
+    "explanation_vi": "Theo trang 4 trong tài liệu PDF gốc (Mục #22): Công thức là \"be + adj (cảm xúc) + to V\", nghĩa là \"Vui/hài lòng khi làm gì\". Ghi chú: Áp dụng với mọi tính từ chỉ cảm xúc: happy, glad, pleased....",
+    "meaning_hint_vi": "be pleased to",
+    "example_en": "I am pleased to help.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-22",
+      "pdf_item_number": 22
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "4daaa6da1839a3fcdac167e9c3a8be1d15a55f4f996712de671a6f483be2f380",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e8968526-3011-5bf5-870d-8b830a072af2",
+    "legacy_id": "pdf-struct-23_pdf-struct-23-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"be resigned to\" (Trang 5 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "be resigned to + N/V-ing — Dùng cho: Trang trọng (Cam chịu, chấp nhận)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "be resigned to + N/V-ing — Dùng cho: Trang trọng (Cam chịu, chấp nhận)",
+    "explanation_vi": "Theo trang 5 trong tài liệu PDF gốc (Mục #23): Công thức là \"be resigned to + N/V-ing\", nghĩa là \"Cam chịu, chấp nhận\". Ghi chú: Diễn đạt việc chấp nhận một điều không mong muốn (lưu ý giới từ to + V-ing).",
+    "meaning_hint_vi": "be resigned to",
+    "example_en": "Many workers are resigned to working overtime.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-23",
+      "pdf_item_number": 23
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "e1d09ddb0a500a4f7c0bd7f966518015f9c632d7aa37de12232777d278226a54",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "7045ffac-6e0c-5749-8964-d791a5d4442d",
+    "legacy_id": "pdf-struct-24_pdf-struct-24-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"be used to + N/V-ing\" (Trang 5 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "be used to + N/V-ing — Dùng cho: Ngữ pháp (Quen với việc gì)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "be used to + N/V-ing — Dùng cho: Ngữ pháp (Quen với việc gì)",
+    "explanation_vi": "Theo trang 5 trong tài liệu PDF gốc (Mục #24): Công thức là \"be used to + N/V-ing\", nghĩa là \"Quen với việc gì\". Ghi chú: Không nhầm với 'used to + V' (đã từng làm gì trong quá khứ).",
+    "meaning_hint_vi": "be used to + N/V-ing",
+    "example_en": "She is used to getting up early.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-24",
+      "pdf_item_number": 24
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "5bbf2ba307933757104fdecaaf49ba1b2eb51604b14d378d773f41a1f1169e97",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "529b7469-a1d1-559b-8ad5-b3e7ca46e795",
+    "legacy_id": "pdf-struct-25_pdf-struct-25-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"less + uncountable noun\" (Trang 5 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "less + N (không đếm được) — Dùng cho: Ngữ pháp (Ít hơn (dành cho danh từ không đếm được))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "less + N (không đếm được) — Dùng cho: Ngữ pháp (Ít hơn (dành cho danh từ không đếm được))",
+    "explanation_vi": "Theo trang 5 trong tài liệu PDF gốc (Mục #25): Công thức là \"less + N (không đếm được)\", nghĩa là \"Ít hơn (dành cho danh từ không đếm được)\". Ghi chú: 'Less' chỉ đi với danh từ không đếm được; danh từ đếm được dùng 'fewer'.",
+    "meaning_hint_vi": "less + uncountable noun",
+    "example_en": "People spend less money on newspapers.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-25",
+      "pdf_item_number": 25
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "e435e73c1c93c0191df5064b20a9da4f92dca4785d6483898f55fc2526f25d54",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "aa817c1f-433c-5284-b3c6-8d74f8e0321d",
+    "legacy_id": "pdf-struct-26_pdf-struct-26-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn câu đúng để nhận xét khách quan về mặt hạn chế của một chính sách:",
+    "options": [
+      "This economic policy is not without its drawbacks.",
+      "This economic policy does not without its drawbacks.",
+      "This economic policy is not without it's drawbacks.",
+      "This economic policy not without its drawbacks."
+    ],
+    "correct_answer": "This economic policy is not without its drawbacks.",
+    "explanation_vi": "Dùng động từ to be \"is not without\" + tính từ sở hữu \"its\" (không có dấu phẩy trên).",
+    "meaning_hint_vi": "not without (Litotes / Nói giảm nhẹ học thuật)",
+    "example_en": "This solution is not without its drawbacks.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-26",
+      "pdf_item_number": 26
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "368ebdaa421358dc248ee4e278262ff32de0faaed9794e02ce580737c2208938",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "846ab29a-0aa9-5395-b696-4d189b6fa668",
+    "legacy_id": "pdf-struct-27_pdf-struct-27-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"; therefore,\" (Trang 5 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Clause; therefore, clause — Dùng cho: Liên kết (Vì vậy (nối 2 mệnh đề độc lập))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Clause; therefore, clause — Dùng cho: Liên kết (Vì vậy (nối 2 mệnh đề độc lập))",
+    "explanation_vi": "Theo trang 5 trong tài liệu PDF gốc (Mục #27): Công thức là \"Clause; therefore, clause\", nghĩa là \"Vì vậy (nối 2 mệnh đề độc lập)\". Ghi chú: Đứng giữa câu, nối 2 mệnh đề độc lập, có dấu ';' trước và ',' sau.",
+    "meaning_hint_vi": "; therefore,",
+    "example_en": "The demand increased; therefore, prices rose.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-27",
+      "pdf_item_number": 27
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "b1f347587846ad12dd089b27fb740113fe261fddceeebe09c13b141498564c6e",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "884ce104-3763-5b11-a009-7f81199a3e3a",
+    "legacy_id": "pdf-struct-28_pdf-struct-28-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \", thereby V-ing\" (Trang 5 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "..., thereby + V-ing — Dùng cho: Trang trọng (Qua đó, từ đó dẫn đến)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "..., thereby + V-ing — Dùng cho: Trang trọng (Qua đó, từ đó dẫn đến)",
+    "explanation_vi": "Theo trang 5 trong tài liệu PDF gốc (Mục #28): Công thức là \"..., thereby + V-ing\", nghĩa là \"Qua đó, từ đó dẫn đến\". Ghi chú: Diễn đạt kết quả/hệ quả tiếp theo của hành động trước đó (Trang 5–6).",
+    "meaning_hint_vi": ", thereby V-ing",
+    "example_en": "The company expanded, thereby creating jobs.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-28",
+      "pdf_item_number": 28
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "e448125b20468c555ee6a95465087c5b5570a231e50d7e765d7ff84cb35202de",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c5e6799f-19d8-5e3a-9d34-a5062ac82824",
+    "legacy_id": "pdf-struct-29_pdf-struct-29-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"as...as those in\" (Trang 6 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "as + adj + as those in + N — Dùng cho: So sánh (So sánh bằng với (những cái ở...))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "as + adj + as those in + N — Dùng cho: So sánh (So sánh bằng với (những cái ở...))",
+    "explanation_vi": "Theo trang 6 trong tài liệu PDF gốc (Mục #29): Công thức là \"as + adj + as those in + N\", nghĩa là \"So sánh bằng với (những cái ở...)\". Ghi chú: So sánh bằng bắt buộc dùng cặp 'as...as'; dùng đại từ 'those' thay cho danh từ số nhiều đứng trước.",
+    "meaning_hint_vi": "as...as those in",
+    "example_en": "House prices are not as high as those in big cities.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-29",
+      "pdf_item_number": 29
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "77858099fb08f71ed320544ccd2583a4d86d85368770098e8f794898678045c0",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "bf965c20-8fbe-565e-bf9e-02027264e2a7",
+    "legacy_id": "pdf-struct-30_pdf-struct-30-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"such as those in\" (Trang 6 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "such as those in + N — Dùng cho: So sánh / liệt kê (Chẳng hạn như những cái ở...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "such as those in + N — Dùng cho: So sánh / liệt kê (Chẳng hạn như những cái ở...)",
+    "explanation_vi": "Theo trang 6 trong tài liệu PDF gốc (Mục #30): Công thức là \"such as those in + N\", nghĩa là \"Chẳng hạn như những cái ở...\". Ghi chú: Dùng để liệt kê ví dụ hoặc miêu tả cụ thể mà không lặp lại danh từ số nhiều.",
+    "meaning_hint_vi": "such as those in",
+    "example_en": "Facilities in rural areas, such as those in remote provinces, are often underdeveloped.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-30",
+      "pdf_item_number": 30
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "781317229e5a6144a3789d82560278a48d9a9cda486b52f6743afd0fbb161b15",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e58158bc-ab73-583b-ba4b-338e569aca3e",
+    "legacy_id": "pdf-struct-31_pdf-struct-31-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"force sb to spend money on\" (Trang 6 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "force sb to spend money on + N — Dùng cho: Thân bài (Buộc ai đó phải chi tiền vào)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "force sb to spend money on + N — Dùng cho: Thân bài (Buộc ai đó phải chi tiền vào)",
+    "explanation_vi": "Theo trang 6 trong tài liệu PDF gốc (Mục #31): Công thức là \"force sb to spend money on + N\", nghĩa là \"Buộc ai đó phải chi tiền vào\". Ghi chú: Kết hợp 2 cấu trúc: force sb to do + spend money on.",
+    "meaning_hint_vi": "force sb to spend money on",
+    "example_en": "High tuition fees force students to spend more money on education. / The government shouldn't force students to spend money on non-compulsory subjects.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-31",
+      "pdf_item_number": 31
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "25b9ce6a8acddbbb5d04c6d328d7f119543572b4e00f00073aa45ca904b2de63",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d6e23a3b-f3ec-50ff-ad70-89ecad97bd5c",
+    "legacy_id": "pdf-struct-32_pdf-struct-32-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"spend on\" (Trang 6 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + spend + money/time + on + N/V-ing — Dùng cho: Ngữ pháp (Chi tiêu/bỏ tiền vào)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + spend + money/time + on + N/V-ing — Dùng cho: Ngữ pháp (Chi tiêu/bỏ tiền vào)",
+    "explanation_vi": "Theo trang 6 trong tài liệu PDF gốc (Mục #32): Công thức là \"S + spend + money/time + on + N/V-ing\", nghĩa là \"Chi tiêu/bỏ tiền vào\". Ghi chú: Luôn đi với giới từ 'on' trước đối tượng chi tiêu.",
+    "meaning_hint_vi": "spend on",
+    "example_en": "People spend a large amount of money on healthcare.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-32",
+      "pdf_item_number": 32
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "154bcc8e92f5919b52f0fb4da015fc0571035cdff3801d0928a86513a029a6bf",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9bff6faa-6e75-5025-9a64-752b2e625e7b",
+    "legacy_id": "pdf-struct-33_pdf-struct-33-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"is divided into\" (Trang 6 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + be divided into + N — Dùng cho: Học thuật / Phân loại (Được chia thành)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + be divided into + N — Dùng cho: Học thuật / Phân loại (Được chia thành)",
+    "explanation_vi": "Theo trang 6 trong tài liệu PDF gốc (Mục #33): Công thức là \"S + be divided into + N\", nghĩa là \"Được chia thành\". Ghi chú: Cấu trúc phân chia thành phần trong IELTS Writing Task 1 & Task 2.",
+    "meaning_hint_vi": "is divided into",
+    "example_en": "The national budget is divided into three primary sectors.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-33",
+      "pdf_item_number": 33
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "15335783b2663e61f50937b19a24c5fd1d31a5b3ce6f63b1d912b6939adab1d7",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5ef25177-3ea8-553a-af0a-170b252f3c15",
+    "legacy_id": "pdf-struct-34_pdf-struct-34-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"hold sb accountable / responsible for\" (Trang 6 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "hold sb accountable / responsible for + N/V-ing (hoặc take responsibility for) — Dùng cho: Trang trọng / Thân bài (Buộc ai đó phải chịu trách nhiệm về hành động/hậu quả gây ra)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "hold sb accountable / responsible for + N/V-ing (hoặc take responsibility for) — Dùng cho: Trang trọng / Thân bài (Buộc ai đó phải chịu trách nhiệm về hành động/hậu quả gây ra)",
+    "explanation_vi": "Theo trang 6 trong tài liệu PDF gốc (Mục #34): Công thức là \"hold sb accountable / responsible for + N/V-ing (hoặc take responsibility for)\", nghĩa là \"Buộc ai đó phải chịu trách nhiệm về hành động/hậu quả gây ra\". Ghi chú: Trang 6–7: Hoặc dùng Hold sb responsible for / take responsibility for.",
+    "meaning_hint_vi": "hold sb accountable / responsible for",
+    "example_en": "Authorities must hold polluting factories accountable for environmental damage.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-34",
+      "pdf_item_number": 34
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "efbe7ee73427944ab8cfe0d5f94abccba6a0cf8a3352cd4154e1f5b46771b711",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9af921ba-becb-5880-a39f-cd688f1dc249",
+    "legacy_id": "pdf-struct-35_pdf-struct-35-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"It is my belief that\" (Trang 7 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "It is my belief that + S + V — Dùng cho: Mở bài / Kết bài (Tôi tin rằng (Nêu quan điểm trang trọng))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "It is my belief that + S + V — Dùng cho: Mở bài / Kết bài (Tôi tin rằng (Nêu quan điểm trang trọng))",
+    "explanation_vi": "Theo trang 7 trong tài liệu PDF gốc (Mục #35): Công thức là \"It is my belief that + S + V\", nghĩa là \"Tôi tin rằng (Nêu quan điểm trang trọng)\". Ghi chú: Cấu trúc danh từ hóa trang trọng thay thế cho \"I believe that\".",
+    "meaning_hint_vi": "It is my belief that",
+    "example_en": "It is my belief that governments should subsidize renewable energy.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-35",
+      "pdf_item_number": 35
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "883df98092d24d4f5934371bc07d84d8dfaee3e9c1eea8ddc04977c320e89e6b",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "953f7566-da1a-5f0f-841e-ed4103670d5c",
+    "legacy_id": "pdf-struct-36_pdf-struct-36-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"S + believe/think that + [Thesis cause + effect]\" (Trang 7 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + believe/think that + [Mệnh đề gộp Cause + Effect trong 1 câu] — Dùng cho: Thesis Statement (Tin/nghĩ rằng (Câu luận điểm gộp nguyên nhân và kết quả))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + believe/think that + [Mệnh đề gộp Cause + Effect trong 1 câu] — Dùng cho: Thesis Statement (Tin/nghĩ rằng (Câu luận điểm gộp nguyên nhân và kết quả))",
+    "explanation_vi": "Theo trang 7 trong tài liệu PDF gốc (Mục #36): Công thức là \"S + believe/think that + [Mệnh đề gộp Cause + Effect trong 1 câu]\", nghĩa là \"Tin/nghĩ rằng (Câu luận điểm gộp nguyên nhân và kết quả)\". Ghi chú: Gộp định hướng nguyên nhân + hệ quả gọn trong 1 câu Thesis Statement.",
+    "meaning_hint_vi": "S + believe/think that + [Thesis cause + effect]",
+    "example_en": "Many educators believe that excessive standardized testing stifles student creativity.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-36",
+      "pdf_item_number": 36
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "7fe85a95d4aec4a2915281b71e1f89acf58f39f110a96d2bf45b103868a22131",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b8bd356f-a592-5ab3-89f2-672d9dd32fc0",
+    "legacy_id": "pdf-struct-37_pdf-struct-37-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Điền cụm từ học thuật chuẩn theo trang 7 PDF: \"Rapid industrialization often occurs _______ local ecosystems.\"",
+    "options": [
+      "to the detriment of",
+      "to the detriment for",
+      "in the detriment with",
+      "by the detriment to"
+    ],
+    "correct_answer": "to the detriment of",
+    "explanation_vi": "Công thức cố định trong PDF trang 7: [Hành động] + to the detriment of + [Danh từ bị hại].",
+    "meaning_hint_vi": "to the detriment of / exert an impact on",
+    "example_en": "Focusing too much on national transport infrastructure is to the detriment of local residents.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-37",
+      "pdf_item_number": 37
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "86fff88840b9a7c7fac461d2123baf72cda6c168d5dab4f6e9669f29bb61506d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c9a80427-c122-513e-9aa9-b064883bd34b",
+    "legacy_id": "pdf-struct-38_pdf-struct-38-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"its + DANH TỪ (Sở hữu của vật/nơi chốn/tổ chức)\" (Trang 8 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "its + Noun — Dùng cho: Ngữ pháp cốt lõi (Cái gì đó CỦA một công ty / nơi chốn / đồ vật)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "its + Noun — Dùng cho: Ngữ pháp cốt lõi (Cái gì đó CỦA một công ty / nơi chốn / đồ vật)",
+    "explanation_vi": "Theo trang 8 trong tài liệu PDF gốc (Mục #38): Công thức là \"its + Noun\", nghĩa là \"Cái gì đó CỦA một công ty / nơi chốn / đồ vật\". Ghi chú: Cứ khi nào muốn nói \"cái gì đó CỦA một công ty / nơi chốn / đồ vật\", hãy dùng: its + DANH TỪ.",
+    "meaning_hint_vi": "its + DANH TỪ (Sở hữu của vật/nơi chốn/tổ chức)",
+    "example_en": "The city is famous for its historic architecture.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-38",
+      "pdf_item_number": 38
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "6227c5f71abe14dfa2f48925c40cdc3430d6678ada1c57318d527c9bf737fc66",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b2686493-3c07-5a7e-9e45-05162c054889",
+    "legacy_id": "pdf-struct-39_pdf-struct-39-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Although + (S + be) + tính từ, S + V\" (Trang 8 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Đầy đủ: Although + S + be + Adj, S + V | Rút gọn: Although + Adj, S + V — Dùng cho: Câu phức nhượng bộ (Mặc dù... nhưng vẫn...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Đầy đủ: Although + S + be + Adj, S + V | Rút gọn: Although + Adj, S + V — Dùng cho: Câu phức nhượng bộ (Mặc dù... nhưng vẫn...)",
+    "explanation_vi": "Theo trang 8 trong tài liệu PDF gốc (Mục #39): Công thức là \"Đầy đủ: Although + S + be + Adj, S + V | Rút gọn: Although + Adj, S + V\", nghĩa là \"Mặc dù... nhưng vẫn...\". Ghi chú: Trang 8–9: Rút gọn chủ ngữ và to-be sau Although khi hai vế cùng chủ ngữ.",
+    "meaning_hint_vi": "Although + (S + be) + tính từ, S + V",
+    "example_en": "Đầy đủ: Although it was difficult, the test was interesting. / Rút gọn: Although difficult, the test was interesting.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-39",
+      "pdf_item_number": 39
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "e00cc7fa1a7033581eab78fd4aa157f1a2e0df1d0f1f9ef74948597af66f3b80",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f1bf05a0-eceb-5f4c-af37-5af7448b07b1",
+    "legacy_id": "pdf-struct-40_pdf-struct-40-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn dạng động từ đúng: \"Taking on a second job _______ having less quality time for family and relaxation.\"",
+    "options": [
+      "means",
+      "is meaning to",
+      "means to",
+      "mean for"
+    ],
+    "correct_answer": "means",
+    "explanation_vi": "Chủ ngữ danh động từ \"Taking on a second job\" là ngôi thứ 3 số ít -> \"means + V-ing (having)\".",
+    "meaning_hint_vi": "mean + V-ing (Có nghĩa là / Dẫn đến hệ lụy gì)",
+    "example_en": "Living in a metropolitan area means dealing with a fast-paced urban environment, which can be mentally draining.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-40",
+      "pdf_item_number": 40
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "e1bee5a568708351014151a7da06f4e5ebf14e15fb56c3bc99dbe39748dff184",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d590d0da-a019-5553-952f-c9380310b4c3",
+    "legacy_id": "pdf-struct-41_pdf-struct-41-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"waste / spend + tiền bạc/thời gian + on\" (Trang 11 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "waste / spend + money/time + on + N/V-ing — Dùng cho: Diễn đạt chung & Thân bài (Lãng phí / Chi tiêu tiền bạc hoặc thời gian vào việc gì)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "waste / spend + money/time + on + N/V-ing — Dùng cho: Diễn đạt chung & Thân bài (Lãng phí / Chi tiêu tiền bạc hoặc thời gian vào việc gì)",
+    "explanation_vi": "Theo trang 11 trong tài liệu PDF gốc (Mục #41): Công thức là \"waste / spend + money/time + on + N/V-ing\", nghĩa là \"Lãng phí / Chi tiêu tiền bạc hoặc thời gian vào việc gì\". Ghi chú: Cả waste và spend đều đi với giới từ ON trước đối tượng tiêu tốn.",
+    "meaning_hint_vi": "waste / spend + tiền bạc/thời gian + on",
+    "example_en": "Don't waste money on clothes. / They spend a lot of time on research.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-41",
+      "pdf_item_number": 41
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "2649e74a96f9ebc5fad82036e2e3127c41a3d58899b05e660a711be173b9a492",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "eadcdd84-ad89-5279-a728-fb2c36211da0",
+    "legacy_id": "pdf-struct-42_pdf-struct-42-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn câu đúng theo quy tắc bắt buộc ở trang 11–12 PDF:",
+    "options": [
+      "Painting on weekends really takes my mind off work deadlines.",
+      "Painting on weekends really takes me mind off work deadlines.",
+      "Painting on weekends really takes mind of me off work deadlines.",
+      "Painting on weekends really takes my mind on work deadlines."
+    ],
+    "correct_answer": "Painting on weekends really takes my mind off work deadlines.",
+    "explanation_vi": "Phải dùng tính từ sở hữu \"my\" trước \"mind\" và giới từ \"off\" phía sau.",
+    "meaning_hint_vi": "take someone's mind off something & carry something through",
+    "example_en": "Listening to music helps take the patient's mind off the physical pain. / Despite the budget cuts, the team managed to carry the project through.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-42",
+      "pdf_item_number": 42
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "7797cd9bb3b8d81716f7f108740d71805e405ed2a317cd3b026faba338ad7279",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5fe9a614-b41e-5615-9fda-2811e7923fd4",
+    "legacy_id": "pdf-struct-43_pdf-struct-43-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn câu đảo ngữ đúng chuẩn Band 8.0 theo trang 12 PDF:",
+    "options": [
+      "Not only does renewable energy protect the environment, but it also creates green jobs.",
+      "Not only renewable energy protects the environment, but it also creates green jobs.",
+      "Not only does renewable energy protects the environment, but also it creates green jobs.",
+      "Not only is renewable energy protect the environment, but it also creates green jobs."
+    ],
+    "correct_answer": "Not only does renewable energy protect the environment, but it also creates green jobs.",
+    "explanation_vi": "Với động từ thường \"protect\" và chủ ngữ số ít \"renewable energy\", mượn trợ động từ \"does\" đảo lên trước chủ ngữ và giữ \"protect\" nguyên mẫu.",
+    "meaning_hint_vi": "Đảo ngữ Not only... but also & Only if",
+    "example_en": "Not only does learning English help you expand your knowledge, but it also improves your career prospects. / Not only is poverty a social issue, but it is also an economic barrier. / Only if you study hard will you pass the exam.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-43",
+      "pdf_item_number": 43
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "6c54922b4ed1cd8c371400961eabe7490ef72030feee08606842a24a7a77f734",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "21bbb5e5-81ac-5de1-a231-a6d65d0b0f5c",
+    "legacy_id": "pdf-struct-44_pdf-struct-44-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"take something with someone\" (Trang 13 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "take + something + with + someone — Dùng cho: Giao tiếp & Speaking (Mang theo cái gì bên mình)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "take + something + with + someone — Dùng cho: Giao tiếp & Speaking (Mang theo cái gì bên mình)",
+    "explanation_vi": "Theo trang 13 trong tài liệu PDF gốc (Mục #44): Công thức là \"take + something + with + someone\", nghĩa là \"Mang theo cái gì bên mình\". Ghi chú: Cụm ngoại động từ chỉ việc mang theo vật dụng cá nhân.",
+    "meaning_hint_vi": "take something with someone",
+    "example_en": "Remember to take your identification card with you.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-44",
+      "pdf_item_number": 44
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "8c52da012df78dc19d1e3233ccfd12c307ebb84675a39f333af437712f01e754",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "466ed26a-d7a7-59be-9543-6a988069e310",
+    "legacy_id": "pdf-struct-45_pdf-struct-45-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn câu chẻ (Cleft Sentence) đúng ngữ pháp theo trang 13–14 PDF:",
+    "options": [
+      "It is consistent daily practice that leads to true language fluency.",
+      "It is consistent daily practice what leads to true language fluency.",
+      "What leads to true language fluency are consistent daily practice.",
+      "What students need to do is practiced every day."
+    ],
+    "correct_answer": "It is consistent daily practice that leads to true language fluency.",
+    "explanation_vi": "Khung câu chẻ It-Cleft chuẩn: \"It is + [Thành phần nhấn mạnh] + that + V/Clause\".",
+    "meaning_hint_vi": "Câu chẻ (Wh-Cleft & It-Cleft Sentences)",
+    "example_en": "What governments need to do is implement stricter laws. / What I love about this city is the street food. / It is technology that has transformed modern education most dramatically.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-45",
+      "pdf_item_number": 45
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "355f10e1b697a811c90468ba4f3a5d991dcaf0ae37642fa1724413164cb0c3eb",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ff2c709f-f2ec-558e-ab8b-06315223d7cc",
+    "legacy_id": "pdf-struct-46_pdf-struct-46-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Giới từ + Cụm danh từ (Cụm trạng ngữ)\" (Trang 14 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Preposition + Noun Phrase — Dùng cho: Mở rộng câu (Cụm giới từ tạo thành cụm trạng ngữ bổ nghĩa)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Preposition + Noun Phrase — Dùng cho: Mở rộng câu (Cụm giới từ tạo thành cụm trạng ngữ bổ nghĩa)",
+    "explanation_vi": "Theo trang 14 trong tài liệu PDF gốc (Mục #46): Công thức là \"Preposition + Noun Phrase\", nghĩa là \"Cụm giới từ tạo thành cụm trạng ngữ bổ nghĩa\". Ghi chú: Cấu trúc Giới từ + Cụm danh từ thường tạo thành một cụm trạng ngữ chỉ nguồn gốc/nơi chốn.",
+    "meaning_hint_vi": "Giới từ + Cụm danh từ (Cụm trạng ngữ)",
+    "example_en": "from my history class at high school",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-46",
+      "pdf_item_number": 46
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "df9e4982e16b84f46ee34fec4fcedce66a54f62cc8d4683f0481d943c5a43fd1",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5fd08f1d-fa82-52e9-a930-26f0a2021185",
+    "legacy_id": "pdf-struct-47_pdf-struct-47-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Câu ghép-phức (Compound-Complex Sentence) với Mệnh đề danh ngữ\" (Trang 14 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "[Mệnh đề độc lập 1] + FANBOYS (and/but/so/or) + [Mệnh đề độc lập 2] + [Mệnh đề danh ngữ what/that...] — Dùng cho: Đa dạng hóa cấu trúc câu Band 7.5+ (Câu ghép-phức sử dụng mệnh đề danh ngữ làm S, O hoặc bổ ngữ)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "[Mệnh đề độc lập 1] + FANBOYS (and/but/so/or) + [Mệnh đề độc lập 2] + [Mệnh đề danh ngữ what/that...] — Dùng cho: Đa dạng hóa cấu trúc câu Band 7.5+ (Câu ghép-phức sử dụng mệnh đề danh ngữ làm S, O hoặc bổ ngữ)",
+    "explanation_vi": "Theo trang 14 trong tài liệu PDF gốc (Mục #47): Công thức là \"[Mệnh đề độc lập 1] + FANBOYS (and/but/so/or) + [Mệnh đề độc lập 2] + [Mệnh đề danh ngữ what/that...]\", nghĩa là \"Câu ghép-phức sử dụng mệnh đề danh ngữ làm S, O hoặc bổ ngữ\". Ghi chú: Trang 14–15: Bắt buộc có ít nhất 2 mệnh đề độc lập (nối bằng FANBOYS) và ít nhất 1 mệnh đề danh ngữ phụ thuộc.",
+    "meaning_hint_vi": "Câu ghép-phức (Compound-Complex Sentence) với Mệnh đề danh ngữ",
+    "example_en": "I deeply regret what I did, so I decided to apologize to my boss.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-47",
+      "pdf_item_number": 47
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "bdd686e2aba622ad7e1e25e3877dd1723e16e1288f1dbac89cc0d3ee4e767e7c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "10541ada-9d82-53f7-beb2-5761b011b3b9",
+    "legacy_id": "pdf-struct-48_pdf-struct-48-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Câu phức (Complex Sentence) & Nâng cấp với Despite + V-ing\" (Trang 15 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Although/If + S + V, S + V | Despite + V-ing + N, S + V — Dùng cho: IELTS Writing (Ưu tiên hơn câu ghép dùng \"so\") (Câu phức & Nâng cấp rút gọn với Despite + V-ing)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Although/If + S + V, S + V | Despite + V-ing + N, S + V — Dùng cho: IELTS Writing (Ưu tiên hơn câu ghép dùng \"so\") (Câu phức & Nâng cấp rút gọn với Despite + V-ing)",
+    "explanation_vi": "Theo trang 15 trong tài liệu PDF gốc (Mục #48): Công thức là \"Although/If + S + V, S + V | Despite + V-ing + N, S + V\", nghĩa là \"Câu phức & Nâng cấp rút gọn với Despite + V-ing\". Ghi chú: Trong IELTS Writing, câu dùng Although/Despite được đánh giá cao hơn câu dùng \"so\".",
+    "meaning_hint_vi": "Câu phức (Complex Sentence) & Nâng cấp với Despite + V-ing",
+    "example_en": "They acknowledged that the pricing was excessive; consequently, they ultimately refused to execute the agreement. -> NÂNG CẤP: Despite acknowledging the excessive price, they ultimately refused to execute the contract.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-48",
+      "pdf_item_number": 48
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "b83a6181ad89001de15ebf8a250b2ac8c33ec4186cbd3e41b0599d1602f0ab67",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "42c50017-b55d-5929-b670-af1b06258d10",
+    "legacy_id": "pdf-struct-49_pdf-struct-49-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"[Tính từ 1] + [Tính từ 2] + [Danh từ]\" (Trang 15 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Adjective 1 + Adjective 2 + Noun — Dùng cho: Cụm danh từ học thuật (Cụm danh từ 2 tính từ bổ nghĩa liên tiếp)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Adjective 1 + Adjective 2 + Noun — Dùng cho: Cụm danh từ học thuật (Cụm danh từ 2 tính từ bổ nghĩa liên tiếp)",
+    "explanation_vi": "Theo trang 15 trong tài liệu PDF gốc (Mục #49): Công thức là \"Adjective 1 + Adjective 2 + Noun\", nghĩa là \"Cụm danh từ 2 tính từ bổ nghĩa liên tiếp\". Ghi chú: Ghép tính từ chỉ mức độ (abundant) + tính từ phân loại (natural) + danh từ (resources).",
+    "meaning_hint_vi": "[Tính từ 1] + [Tính từ 2] + [Danh từ]",
+    "example_en": "abundant natural resources",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-49",
+      "pdf_item_number": 49
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "1bf13c46fa232f1fdbb7fdc6088640146910c177cdd51d2fed827fa803b3e18d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c770bfdb-ee08-56a3-8ecf-d18a8865d59b",
+    "legacy_id": "pdf-struct-50_pdf-struct-50-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"for + being + Adjective\" (Trang 15 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "for + being + Adjective — Dùng cho: Nêu lý do của trạng thái/tính chất (Vì bị / vì có tính chất như thế nào đó)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "for + being + Adjective — Dùng cho: Nêu lý do của trạng thái/tính chất (Vì bị / vì có tính chất như thế nào đó)",
+    "explanation_vi": "Theo trang 15 trong tài liệu PDF gốc (Mục #50): Công thức là \"for + being + Adjective\", nghĩa là \"Vì bị / vì có tính chất như thế nào đó\". Ghi chú: Sau giới từ \"for\", tính từ cần mượn danh động từ \"being\" đứng trước.",
+    "meaning_hint_vi": "for + being + Adjective",
+    "example_en": "for being incompetent",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-50",
+      "pdf_item_number": 50
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "6d0100dfe9d253c1f8f3a59036b370aec311275742e6baaa344ee89c5465eac3",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "64a9340e-6587-555b-a27b-74429f9aa287",
+    "legacy_id": "pdf-struct-51_pdf-struct-51-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn đáp án đúng theo giải thích trang 15–16 PDF: \"The hospital director ordered the operating room _______ before surgery.\"",
+    "options": [
+      "to be sterilized",
+      "to sterilize",
+      "sterilizing",
+      "be sterilized"
+    ],
+    "correct_answer": "to be sterilized",
+    "explanation_vi": "Phòng mổ (the operating room) không thể tự khử trùng mà phải \"được khử trùng\" -> dùng bị động nguyên mẫu \"to be sterilized\".",
+    "meaning_hint_vi": "Bị động nguyên mẫu: S + V + (O) + to be + V3/ed",
+    "example_en": "The government has ordered the old bridge to be demolished for safety reasons. / An incompetent leader doesn't deserve to be promoted.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-51",
+      "pdf_item_number": 51
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "78737a3d0e67e15874949a9eb601b05aafb6cd306fca42c8c9413ad803c11c0d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d01baa55-1fe5-50be-9366-9fd706a2cc4c",
+    "legacy_id": "pdf-struct-52_pdf-struct-52-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Only if + [Điều kiện], + [Đảo ngữ mệnh đề chính]\" (Trang 16 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Only if + S + V, + Auxiliary/Modal + S + V — Dùng cho: Đảo ngữ nhấn mạnh điều kiện tiên quyết (Chỉ khi có A thì mới có B (Điều kiện bắt buộc và duy nhất))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Only if + S + V, + Auxiliary/Modal + S + V — Dùng cho: Đảo ngữ nhấn mạnh điều kiện tiên quyết (Chỉ khi có A thì mới có B (Điều kiện bắt buộc và duy nhất))",
+    "explanation_vi": "Theo trang 16 trong tài liệu PDF gốc (Mục #52): Công thức là \"Only if + S + V, + Auxiliary/Modal + S + V\", nghĩa là \"Chỉ khi có A thì mới có B (Điều kiện bắt buộc và duy nhất)\". Ghi chú: Cấu trúc chính xác nhất để nhấn mạnh điều kiện bắt buộc và duy nhất cho một sự việc xảy ra.",
+    "meaning_hint_vi": "Only if + [Điều kiện], + [Đảo ngữ mệnh đề chính]",
+    "example_en": "Only if you have money, can you buy this car. / Only if we have smartphones, can Blockchain exist.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-52",
+      "pdf_item_number": 52
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "d36afae6b75d2b839dd31423b8be1ce98f52b05d6977ea5c8cbf826382249e53",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "2f16a802-d6a6-5022-a014-ae80cfaef185",
+    "legacy_id": "pdf-struct-53_pdf-struct-53-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"make + someone + worth + [số tiền/danh từ]\" (Trang 16 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + make(s) + someone + worth + [số tiền / danh từ] — Dùng cho: Kinh tế / Tài chính / Tiểu sử (Khiến ai đó có giá trị tài sản ở mức nào đó)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + make(s) + someone + worth + [số tiền / danh từ] — Dùng cho: Kinh tế / Tài chính / Tiểu sử (Khiến ai đó có giá trị tài sản ở mức nào đó)",
+    "explanation_vi": "Theo trang 16 trong tài liệu PDF gốc (Mục #53): Công thức là \"S + make(s) + someone + worth + [số tiền / danh từ]\", nghĩa là \"Khiến ai đó có giá trị tài sản ở mức nào đó\". Ghi chú: Dùng tính từ \"worth + số tiền\" làm bổ ngữ tân ngữ.",
+    "meaning_hint_vi": "make + someone + worth + [số tiền/danh từ]",
+    "example_en": "The stock surge made her worth 10 billion overnight. / Winning the lottery made her worth millions.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-53",
+      "pdf_item_number": 53
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "f4fb8863c8700af18222480a554e7878bdc4920e156ddba89b0e80a98c9ca441",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "74fbc1fd-1dc0-56c5-850d-4993a90d7648",
+    "legacy_id": "pdf-struct-54_pdf-struct-54-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"leading many to + V (Đại từ many)\" (Trang 16 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + led many to + V | Clause, leading many to + V — Dùng cho: Kết nối nguyên nhân với hệ quả ảnh hưởng số đông (Khiến nhiều người làm gì (tránh lặp từ people))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + led many to + V | Clause, leading many to + V — Dùng cho: Kết nối nguyên nhân với hệ quả ảnh hưởng số đông (Khiến nhiều người làm gì (tránh lặp từ people))",
+    "explanation_vi": "Theo trang 16 trong tài liệu PDF gốc (Mục #54): Công thức là \"S + led many to + V | Clause, leading many to + V\", nghĩa là \"Khiến nhiều người làm gì (tránh lặp từ people)\". Ghi chú: Trang 16–17: Khi không muốn lặp lại từ \"People\", dùng đại từ \"many\" nối trực tiếp với \"to V\".",
+    "meaning_hint_vi": "leading many to + V (Đại từ many)",
+    "example_en": "The scandal led many to resign. / Gas prices increased, leading many to take the bus. / The app had a security bug, leading many to delete it.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-54",
+      "pdf_item_number": 54
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "75888e18bc48018ac0e421a075988d9bb398143c4fd6ef1d0dbb2c066329fe1f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "20637956-125e-527a-bca5-acc932fc61c0",
+    "legacy_id": "pdf-struct-55_pdf-struct-55-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Second Conditional (Câu điều kiện loại 2)\" (Trang 17 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "If + Past Simple, S + would + V — Dùng cho: Đưa ra quan điểm giả định (Giả định không có thật ở hiện tại)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "If + Past Simple, S + would + V — Dùng cho: Đưa ra quan điểm giả định (Giả định không có thật ở hiện tại)",
+    "explanation_vi": "Theo trang 17 trong tài liệu PDF gốc (Mục #55): Công thức là \"If + Past Simple, S + would + V\", nghĩa là \"Giả định không có thật ở hiện tại\". Ghi chú: Hay dùng Second Conditional để đưa ra giả định, quan điểm trong bài viết/nói.",
+    "meaning_hint_vi": "Second Conditional (Câu điều kiện loại 2)",
+    "example_en": "If I were rich, I would travel the world.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-55",
+      "pdf_item_number": 55
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "b8f4f4477d09729a0d47beb9639e4ff9f6b1be7db2c654cf7381c4d4183955ab",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e171745a-f2c6-5125-afb9-95b59bcf21d5",
+    "legacy_id": "pdf-struct-56_pdf-struct-56-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Third Conditional (Câu điều kiện loại 3)\" (Trang 17 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "If + Past Perfect (had + V3), S + would have + V3 — Dùng cho: Phân tích hậu quả quá khứ / Tiếc nuối (Giả định trái với quá khứ (tiếc nuối/phân tích chuyện đã qua))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "If + Past Perfect (had + V3), S + would have + V3 — Dùng cho: Phân tích hậu quả quá khứ / Tiếc nuối (Giả định trái với quá khứ (tiếc nuối/phân tích chuyện đã qua))",
+    "explanation_vi": "Theo trang 17 trong tài liệu PDF gốc (Mục #56): Công thức là \"If + Past Perfect (had + V3), S + would have + V3\", nghĩa là \"Giả định trái với quá khứ (tiếc nuối/phân tích chuyện đã qua)\". Ghi chú: Dùng khi chuyện đã xảy ra và kết thúc trong quá khứ (hôm qua, tuần trước, năm ngoái).",
+    "meaning_hint_vi": "Third Conditional (Câu điều kiện loại 3)",
+    "example_en": "If I had brought enough money yesterday, I would have bought it.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-56",
+      "pdf_item_number": 56
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "32d604ffb859fd28c96ef0f77ab9965d785c065600fdfce3c553cc26436c2761",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e8a72417-dc87-5027-ae1f-6633ba0e4a67",
+    "legacy_id": "pdf-struct-57_pdf-struct-57-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"First Conditional (Câu điều kiện loại 1)\" (Trang 17 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "If + Present Simple, S + will + V — Dùng cho: Dự báo hệ quả tương lai (Tình huống có thể xảy ra thực tế trong tương lai)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "If + Present Simple, S + will + V — Dùng cho: Dự báo hệ quả tương lai (Tình huống có thể xảy ra thực tế trong tương lai)",
+    "explanation_vi": "Theo trang 17 trong tài liệu PDF gốc (Mục #57): Công thức là \"If + Present Simple, S + will + V\", nghĩa là \"Tình huống có thể xảy ra thực tế trong tương lai\". Ghi chú: Trang 17–18: Diễn tả điều kiện có thật ở hiện tại hoặc tương lai.",
+    "meaning_hint_vi": "First Conditional (Câu điều kiện loại 1)",
+    "example_en": "If it rains tomorrow, I will stay home.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-57",
+      "pdf_item_number": 57
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "c0c38d6d70f5188932df29ea554f075b6eb13524984602f403cae5593b4fe053",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e702eda1-f207-5d25-9f2a-2e06cff8437e",
+    "legacy_id": "pdf-struct-58_pdf-struct-58-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Just remember that + S + V\" (Trang 18 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Just remember that + S + V (+ O) — Dùng cho: Giao tiếp thân mật / Động viên bạn bè, người thân (Hãy nhớ rằng... (Động viên, khuyên nhủ))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Just remember that + S + V (+ O) — Dùng cho: Giao tiếp thân mật / Động viên bạn bè, người thân (Hãy nhớ rằng... (Động viên, khuyên nhủ))",
+    "explanation_vi": "Theo trang 18 trong tài liệu PDF gốc (Mục #58): Công thức là \"Just remember that + S + V (+ O)\", nghĩa là \"Hãy nhớ rằng... (Động viên, khuyên nhủ)\". Ghi chú: Dùng để động viên, khuyên nhủ nhanh cho bạn bè, người thân.",
+    "meaning_hint_vi": "Just remember that + S + V",
+    "example_en": "Just remember that I love you / just remember that tomorrow is a new day / that it takes time.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-58",
+      "pdf_item_number": 58
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "34d03934b4c26eba265cf6959b57615760fe2faba6c32c7baa1955f7730487d9",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "79ec81fa-279c-5cec-b491-5d978e7d5e45",
+    "legacy_id": "pdf-struct-59_pdf-struct-59-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Remember that ... is/are actually ...\" (Trang 18 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Remember that + S + be + actually + N/Adj — Dùng cho: Động viên / Thay đổi góc nhìn tích cực (Hãy nhớ rằng ... thực chất lại là ...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Remember that + S + be + actually + N/Adj — Dùng cho: Động viên / Thay đổi góc nhìn tích cực (Hãy nhớ rằng ... thực chất lại là ...)",
+    "explanation_vi": "Theo trang 18 trong tài liệu PDF gốc (Mục #59): Công thức là \"Remember that + S + be + actually + N/Adj\", nghĩa là \"Hãy nhớ rằng ... thực chất lại là ...\". Ghi chú: Dùng để khích lệ hoặc phá bỏ định kiến thông thường.",
+    "meaning_hint_vi": "Remember that ... is/are actually ...",
+    "example_en": "Remember that introverts are actually good leaders. / Remember that mistakes are actually a lesson.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-59",
+      "pdf_item_number": 59
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "297c1da30e310f5c77763606178ab4f1764fca8b27d65930b1aaba92d2b36a4f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "4470067c-9563-5ee6-8566-e9484232235e",
+    "legacy_id": "pdf-struct-60_pdf-struct-60-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"One thing that I want you to remember here is...\" (Trang 18 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "One thing that I want you to remember here is + N / to V — Dùng cho: Nhấn mạnh chi tiết quan trọng (Một điều tôi muốn bạn nhớ kỹ ở đây là...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "One thing that I want you to remember here is + N / to V — Dùng cho: Nhấn mạnh chi tiết quan trọng (Một điều tôi muốn bạn nhớ kỹ ở đây là...)",
+    "explanation_vi": "Theo trang 18 trong tài liệu PDF gốc (Mục #60): Công thức là \"One thing that I want you to remember here is + N / to V\", nghĩa là \"Một điều tôi muốn bạn nhớ kỹ ở đây là...\". Ghi chú: Có thể cộng trực tiếp với Cụm danh từ (the price) hoặc Động từ nguyên mẫu có to (to listen, to be safe).",
+    "meaning_hint_vi": "One thing that I want you to remember here is...",
+    "example_en": "One thing that I want you to remember here is the price / is to listen / is to smile / is the password / is to be safe.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-60",
+      "pdf_item_number": 60
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "1679fd7f6a14b469ca20d9ee8bb03a908e891d7d10cb196c2753a4185f065fdf",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "8b29374a-c5dc-5cbb-ac18-ebeca126e47f",
+    "legacy_id": "pdf-struct-61_pdf-struct-61-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Chọn phương án đúng để nối mệnh đề \"consumers prefer convenience\" sau cụm \"because of\":",
+    "options": [
+      "it can be because of the fact that consumers prefer convenience.",
+      "it can be because of consumers prefer convenience.",
+      "it can be because of that consumers prefer convenience.",
+      "it can be because the fact of consumers prefer convenience."
+    ],
+    "correct_answer": "it can be because of the fact that consumers prefer convenience.",
+    "explanation_vi": "Theo trang 19 PDF, khi muốn đặt một mệnh đề S+V sau giới từ \"because of\", ta thêm \"the fact that\" ở giữa.",
+    "meaning_hint_vi": "There are a number of reasons for the existence of... + It can be because of...",
+    "example_en": "There are a number of reasons for the existence of gender roles in modern society. / There are a number of reasons for the existence of economic inflation; it can be because of government overspending. / ...because of the fact that factories release too much CO2.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-61",
+      "pdf_item_number": 61
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "133d365d54590c107a64e412a7e109343927ae6d705350296075ce107211c45c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "a41738f7-c555-53cc-bd53-6e535105d47b",
+    "legacy_id": "pdf-struct-62_pdf-struct-62-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"it can be because of (+ N / the fact that S + V)\" (Trang 19 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "..., it can be because of + N / the fact that + S + V — Dùng cho: Giải thích nguyên nhân đi kèm câu 61 (Nó có thể là bởi vì...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "..., it can be because of + N / the fact that + S + V — Dùng cho: Giải thích nguyên nhân đi kèm câu 61 (Nó có thể là bởi vì...)",
+    "explanation_vi": "Theo trang 19 trong tài liệu PDF gốc (Mục #62): Công thức là \"..., it can be because of + N / the fact that + S + V\", nghĩa là \"Nó có thể là bởi vì...\". Ghi chú: Ghép với cụm danh từ hoặc \"the fact that + mệnh đề\".",
+    "meaning_hint_vi": "it can be because of (+ N / the fact that S + V)",
+    "example_en": "There are a number of reasons for the existence of economic inflation, it can be because of government overspending. / ...it can be because of the fact that factories release too much CO2.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-62",
+      "pdf_item_number": 62
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "57aa9115721e4ee7a3088bec8b404aec147e7c6effa8d093fd22b9b59dae2d88",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "feb500dd-1c61-5e82-9b6a-708216c7f1fe",
+    "legacy_id": "pdf-struct-63_pdf-struct-63-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"The purpose here is to...\" (Trang 19 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "The purpose here is to + V — Dùng cho: Thuyết trình, công việc & học thuật (Mục đích ở đây là để...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "The purpose here is to + V — Dùng cho: Thuyết trình, công việc & học thuật (Mục đích ở đây là để...)",
+    "explanation_vi": "Theo trang 19 trong tài liệu PDF gốc (Mục #63): Công thức là \"The purpose here is to + V\", nghĩa là \"Mục đích ở đây là để...\". Ghi chú: Nêu rõ mục tiêu hành động bằng động từ nguyên mẫu.",
+    "meaning_hint_vi": "The purpose here is to...",
+    "example_en": "The purpose here is to improve team collaboration and maximize daily productivity. / The purpose here is to analyze customer feedback before launching the new product.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-63",
+      "pdf_item_number": 63
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "ff992bbb8c1f7d501ae95ae591d25cc04a403cc863360d682fd2f377e1c9b6dd",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9d10928b-82e5-5fea-b994-61e473696c1f",
+    "legacy_id": "pdf-struct-64_pdf-struct-64-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Tại sao câu \"The key difference between X and Y is X is faster\" bị sai ngữ pháp theo trang 20 PDF?",
+    "options": [
+      "Vì thiếu từ \"that\" ngăn cách giữa động từ to-be chính (\"is\") và mệnh đề danh ngữ phía sau (\"X is faster\").",
+      "Vì từ \"difference\" không đi với giới từ \"between\".",
+      "Vì \"faster\" không được đứng cuối câu.",
+      "Vì phải dùng \"are\" thay cho \"is\"."
+    ],
+    "correct_answer": "Vì thiếu từ \"that\" ngăn cách giữa động từ to-be chính (\"is\") và mệnh đề danh ngữ phía sau (\"X is faster\").",
+    "explanation_vi": "Giải thích nguyên văn từ PDF trang 20: \"Bạn đang có hai động từ chia thì đứng quá gần nhau là is (1) và is (2) --> nên mới cần That\".",
+    "meaning_hint_vi": "At first glance, X may appear similar to Y, but actually... & The key difference between X and Y is that...",
+    "example_en": "At first glance, loneliness may appear similar to solitude, but actually they are not the same. The key difference between loneliness and solitude is that loneliness is painful isolation, whereas solitude is peaceful being alone.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-64",
+      "pdf_item_number": 64
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "264c231a5ab5be8cba40c0ac85aa4d6f7285be03e367e3525baa5be248e61bb8",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e8997be1-2c9e-59fe-bb7b-4dfd09507a62",
+    "legacy_id": "pdf-struct-65_pdf-struct-65-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"The key difference between X and Y is that...\" (Trang 19 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "The key difference between X and Y is that + S1 + V1, whereas + S2 + V2 — Dùng cho: So sánh & Đối chiếu khái niệm học thuật (Điểm khác biệt then chốt giữa X và Y là...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "The key difference between X and Y is that + S1 + V1, whereas + S2 + V2 — Dùng cho: So sánh & Đối chiếu khái niệm học thuật (Điểm khác biệt then chốt giữa X và Y là...)",
+    "explanation_vi": "Theo trang 19 trong tài liệu PDF gốc (Mục #65): Công thức là \"The key difference between X and Y is that + S1 + V1, whereas + S2 + V2\", nghĩa là \"Điểm khác biệt then chốt giữa X và Y là...\". Ghi chú: Trang 19–20: Có hai động từ chia thì đứng gần nhau là is (1) và is (2) nên bắt buộc phải có \"that\".",
+    "meaning_hint_vi": "The key difference between X and Y is that...",
+    "example_en": "The key difference between loneliness and solitude is that loneliness is painful isolation, whereas solitude is peaceful being alone.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-65",
+      "pdf_item_number": 65
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "c3f12dafe4c3cea11018f9f831e66b0c8eeab7aa38118947de994b7a242475ed",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e1bf794a-df1e-5c0d-b3bc-e811c79e2c37",
+    "legacy_id": "pdf-struct-66_pdf-struct-66-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Being + Adj/Adv (Cụm danh động từ chỉ trạng thái)\" (Trang 20 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "being + Adj / Adv — Dùng cho: Làm chủ ngữ hoặc vị ngữ định nghĩa trạng thái (Trạng thái ở / tồn tại như thế nào)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "being + Adj / Adv — Dùng cho: Làm chủ ngữ hoặc vị ngữ định nghĩa trạng thái (Trạng thái ở / tồn tại như thế nào)",
+    "explanation_vi": "Theo trang 20 trong tài liệu PDF gốc (Mục #66): Công thức là \"being + Adj / Adv\", nghĩa là \"Trạng thái ở / tồn tại như thế nào\". Ghi chú: Cụm danh động từ / vị ngữ chỉ trạng thái.",
+    "meaning_hint_vi": "Being + Adj/Adv (Cụm danh động từ chỉ trạng thái)",
+    "example_en": "is being alone",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-66",
+      "pdf_item_number": 66
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "827bdfe0634ece02cd3cc9ddf274a4c3a86f6456fc8ec320f7eb6f07844be1a7",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "355066ee-723c-5584-8d57-c5c9f27e41a9",
+    "legacy_id": "pdf-struct-67_pdf-struct-67-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Remember that X here is not Y, it's actually Z\" (Trang 20 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Remember that X here is not Y, it is actually Z | become + Adj (không cộng N) — Dùng cho: Đính chính sự hiểu lầm phổ biến / Làm rõ bản chất (Hãy nhớ rằng X ở đây không phải là Y, mà thực chất là Z)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Remember that X here is not Y, it is actually Z | become + Adj (không cộng N) — Dùng cho: Đính chính sự hiểu lầm phổ biến / Làm rõ bản chất (Hãy nhớ rằng X ở đây không phải là Y, mà thực chất là Z)",
+    "explanation_vi": "Theo trang 20 trong tài liệu PDF gốc (Mục #67): Công thức là \"Remember that X here is not Y, it is actually Z | become + Adj (không cộng N)\", nghĩa là \"Hãy nhớ rằng X ở đây không phải là Y, mà thực chất là Z\". Ghi chú: Dùng để định nghĩa/mô tả bản chất của X. Lưu ý thêm: become + adj, còn muốn cộng danh từ dùng \"achieve fame and fortune\".",
+    "meaning_hint_vi": "Remember that X here is not Y, it's actually Z",
+    "example_en": "Remember that our goal here is not to replace the system, it is actually to modify it. / achieve fame and fortune",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-67",
+      "pdf_item_number": 67
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "9a7edc40cc0f869eaf1210f74d789788554938074d4e168d2348dd3d483f4cbf",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "a8015e1d-d048-5072-8498-f20240e7ca69",
+    "legacy_id": "pdf-struct-68_pdf-struct-68-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Quy tắc Động từ nguyên bản 100% cho hành động chưa diễn ra\" (Trang 21 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "need to do / decide to + V (nguyên mẫu 100%, không thêm -s hay -ed) — Dùng cho: Mẹo nhớ ngữ pháp cốt lõi (Hành động chưa làm, đang tính xem phải làm thế nào thì động từ giữ nguyên bản)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "need to do / decide to + V (nguyên mẫu 100%, không thêm -s hay -ed) — Dùng cho: Mẹo nhớ ngữ pháp cốt lõi (Hành động chưa làm, đang tính xem phải làm thế nào thì động từ giữ nguyên bản)",
+    "explanation_vi": "Theo trang 21 trong tài liệu PDF gốc (Mục #68): Công thức là \"need to do / decide to + V (nguyên mẫu 100%, không thêm -s hay -ed)\", nghĩa là \"Hành động chưa làm, đang tính xem phải làm thế nào thì động từ giữ nguyên bản\". Ghi chú: Mẹo nhớ trang 21: Đã là hành động \"chưa làm, bây giờ mới tính xem phải làm thế nào\" thì động từ luôn ở dạng nguyên bản 100%.",
+    "meaning_hint_vi": "Quy tắc Động từ nguyên bản 100% cho hành động chưa diễn ra",
+    "example_en": "What governments need to do is implement stricter laws.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-68",
+      "pdf_item_number": 68
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "ef54f8566f99e32d7a7c01a2555a59bb9e4e7a8d126cb3663586e6e67ac1eecc",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "781dcbd5-5341-587c-a5b6-fbe9489e75d1",
+    "legacy_id": "pdf-struct-69_pdf-struct-69-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \", rather than... (Phẩy + rather than)\" (Trang 21 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Clause, rather than + N / V-ing / V — Dùng cho: So sánh đối lập học thuật (Thay vì... (bổ sung thông tin đối lập))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Clause, rather than + N / V-ing / V — Dùng cho: So sánh đối lập học thuật (Thay vì... (bổ sung thông tin đối lập))",
+    "explanation_vi": "Theo trang 21 trong tài liệu PDF gốc (Mục #69): Công thức là \"Clause, rather than + N / V-ing / V\", nghĩa là \"Thay vì... (bổ sung thông tin đối lập)\". Ghi chú: Trang 21–22: Dùng rất phổ biến trong tiếng Anh để bổ sung thông tin mang tính đối lập.",
+    "meaning_hint_vi": ", rather than... (Phẩy + rather than)",
+    "example_en": "We should focus on prevention, rather than cure.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-69",
+      "pdf_item_number": 69
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "8cf937eda2f0d824e7a9b4dc7b33f50732c490fc0005bd40cc0c3d943139e7d9",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c2d91801-2186-5e00-a66c-61ddcc267b65",
+    "legacy_id": "pdf-struct-70_pdf-struct-70-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"have had enough of something (Idiom)\" (Trang 22 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + have/had had enough of + N/V-ing — Dùng cho: Idiom giao tiếp & Speaking (Đã chịu đựng quá đủ / Phát ngấy với cái gì đó)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + have/had had enough of + N/V-ing — Dùng cho: Idiom giao tiếp & Speaking (Đã chịu đựng quá đủ / Phát ngấy với cái gì đó)",
+    "explanation_vi": "Theo trang 22 trong tài liệu PDF gốc (Mục #70): Công thức là \"S + have/had had enough of + N/V-ing\", nghĩa là \"Đã chịu đựng quá đủ / Phát ngấy với cái gì đó\". Ghi chú: Idiom diễn tả sự hết kiên nhẫn với một sự việc lặp lại.",
+    "meaning_hint_vi": "have had enough of something (Idiom)",
+    "example_en": "I have had enough of your excuses.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-70",
+      "pdf_item_number": 70
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "b3965d333ff837eb5ed1f07640c9147b635f8737712e66c59bc12dada72be995",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d9e1ca9d-da79-56fd-abab-3f42a47cddaf",
+    "legacy_id": "pdf-struct-71_pdf-struct-71-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"of + being + loạt tính từ / cụm giới từ\" (Trang 22 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "the idea of being + Adj1, Adj2, or Adj3 | memories of being + Place — Dùng cho: Miêu tả tâm lý & Kể chuyện Speaking Part 2 (Ý niệm / ký ức sống động về việc ở trong trạng thái hoặc nơi chốn nào đó)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "the idea of being + Adj1, Adj2, or Adj3 | memories of being + Place — Dùng cho: Miêu tả tâm lý & Kể chuyện Speaking Part 2 (Ý niệm / ký ức sống động về việc ở trong trạng thái hoặc nơi chốn nào đó)",
+    "explanation_vi": "Theo trang 22 trong tài liệu PDF gốc (Mục #71): Công thức là \"the idea of being + Adj1, Adj2, or Adj3 | memories of being + Place\", nghĩa là \"Ý niệm / ký ức sống động về việc ở trong trạng thái hoặc nơi chốn nào đó\". Ghi chú: \"Being\" xuất hiện do quy tắc bắt buộc phải thêm -ing cho động từ đứng sau giới từ \"of\".",
+    "meaning_hint_vi": "of + being + loạt tính từ / cụm giới từ",
+    "example_en": "the idea of being uncultured, arrogant, or biased / I have memories of being in my room and reading biographies of explorers.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-71",
+      "pdf_item_number": 71
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "1773bf9497ab08f3df99f91ec3797f5a5217f825a92a169b8edce367fca22f38",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9121b448-1f80-5ff3-9309-2404e14d91aa",
+    "legacy_id": "pdf-struct-72_pdf-struct-72-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"It sounds like + [Noun / Clause]\" (Trang 22 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "It sounds like + Noun / S + V — Dùng cho: PHẢI THUỘC LUÔN (Giao tiếp & Speaking) (Nghe có vẻ như là...)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "It sounds like + Noun / S + V — Dùng cho: PHẢI THUỘC LUÔN (Giao tiếp & Speaking) (Nghe có vẻ như là...)",
+    "explanation_vi": "Theo trang 22 trong tài liệu PDF gốc (Mục #72): Công thức là \"It sounds like + Noun / S + V\", nghĩa là \"Nghe có vẻ như là...\". Ghi chú: Trang 22–23: Cấu trúc phản xạ tự nhiên trong hội thoại.",
+    "meaning_hint_vi": "It sounds like + [Noun / Clause]",
+    "example_en": "It sounds like a great plan. / It sounds like you had a wonderful time.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-72",
+      "pdf_item_number": 72
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "d3349cba7e425aee7b3ca3f4316bed6983a24ab32eaf6ff004b317ebf7a15c3e",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "522a1b95-01fc-5d77-aa32-c57ffea5c8be",
+    "legacy_id": "pdf-struct-73_pdf-struct-73-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Theo quy tắc trang 23 PDF, câu khẳng định nào sau đây sử dụng từ \"ever\" ĐÚNG ngữ pháp?",
+    "options": [
+      "The best meal that I've ever tasted was traditional beef pho in Hanoi.",
+      "I have ever tasted traditional beef pho in Hanoi.",
+      "She has ever visited Europe twice.",
+      "A good meal I've ever tasted was beef pho."
+    ],
+    "correct_answer": "The best meal that I've ever tasted was traditional beef pho in Hanoi.",
+    "explanation_vi": "Từ \"ever\" chỉ được đứng trong câu khẳng định khi đi kèm cấu trúc So sánh nhất (\"The best meal\") hoặc \"The first / The only\".",
+    "meaning_hint_vi": "The [Superlative] + (that) + I've ever taken/had + was...",
+    "example_en": "The longest vacation I've ever taken was a two-week trip to Europe.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-73",
+      "pdf_item_number": 73
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "024a312ba9ad245cdf36148f3c856a9ef728a5112e06f28cfc0bede8a45ee5c2",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "6d020265-d47a-5624-a3b4-bff25e703ad6",
+    "legacy_id": "pdf-struct-74_pdf-struct-74-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"love being alone & Loneliness vs. Solitude (whereas)\" (Trang 23 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + love + being + Adj | X is..., whereas Y is... — Dùng cho: Đối chiếu sắc thái từ vựng (Lexical Nuance) (Yêu thích trạng thái ở một mình | Cô đơn vs. Tĩnh lặng)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + love + being + Adj | X is..., whereas Y is... — Dùng cho: Đối chiếu sắc thái từ vựng (Lexical Nuance) (Yêu thích trạng thái ở một mình | Cô đơn vs. Tĩnh lặng)",
+    "explanation_vi": "Theo trang 23 trong tài liệu PDF gốc (Mục #74): Công thức là \"S + love + being + Adj | X is..., whereas Y is...\", nghĩa là \"Yêu thích trạng thái ở một mình | Cô đơn vs. Tĩnh lặng\". Ghi chú: Trang 23–24: Phân biệt sâu sắc giữa loneliness (tiêu cực) và solitude (tích cực).",
+    "meaning_hint_vi": "love being alone & Loneliness vs. Solitude (whereas)",
+    "example_en": "I love being alone. / Loneliness is painful isolation, whereas solitude is peaceful being alone.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-74",
+      "pdf_item_number": 74
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "0ce5c77fae7ad7d74e2b85fa976813d401dcf3fb8d43d5855a148f73300f2468",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "2bdb90c9-eaf8-52a1-a705-1147b389f534",
+    "legacy_id": "pdf-struct-75_pdf-struct-75-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"save someone something\" (Trang 24 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "save + someone + something (time / money / effort) — Dùng cho: Diễn đạt lợi ích thiết thực (Tiết kiệm cho ai cái gì)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "save + someone + something (time / money / effort) — Dùng cho: Diễn đạt lợi ích thiết thực (Tiết kiệm cho ai cái gì)",
+    "explanation_vi": "Theo trang 24 trong tài liệu PDF gốc (Mục #75): Công thức là \"save + someone + something (time / money / effort)\", nghĩa là \"Tiết kiệm cho ai cái gì\". Ghi chú: Động từ hai tân ngữ: save + tân ngữ chỉ người + tân ngữ chỉ vật.",
+    "meaning_hint_vi": "save someone something",
+    "example_en": "Digital payment systems save consumers a great deal of time.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-75",
+      "pdf_item_number": 75
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "b62f2a91cc6c5ccaf2bfd295c9d8a760132065d3ac88c98fec308eb2d9e0a855",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "2d0d2869-7c26-5eb2-b3eb-70c84f54e47e",
+    "legacy_id": "pdf-struct-76_pdf-struct-76-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"as fully as possible\" (Trang 24 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "S + V + as + Adv (fully) + as possible — Dùng cho: Diễn tả sự tối đa (tận dụng tối đa) (Trọn vẹn nhất / đầy đủ nhất có thể)",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "S + V + as + Adv (fully) + as possible — Dùng cho: Diễn tả sự tối đa (tận dụng tối đa) (Trọn vẹn nhất / đầy đủ nhất có thể)",
+    "explanation_vi": "Theo trang 24 trong tài liệu PDF gốc (Mục #76): Công thức là \"S + V + as + Adv (fully) + as possible\", nghĩa là \"Trọn vẹn nhất / đầy đủ nhất có thể\". Ghi chú: Cấu trúc so sánh ngang bằng với \"as... as possible\" diễn tả mức độ tối đa.",
+    "meaning_hint_vi": "as fully as possible",
+    "example_en": "Please live as fully as possible. / You should answer the questions as fully as possible.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-76",
+      "pdf_item_number": 76
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "69a0f16ac16a79a1d96e6b266ec9dec7d75ce36d70a219cd572e52e9df215be1",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c9a1cd66-8588-5d3b-bdde-d6835c83bcb1",
+    "legacy_id": "pdf-struct-77_pdf-struct-77-quiz-1",
+    "quiz_type": "structure_multiple-choice",
+    "question_prompt": "Cấu trúc \"Đảo ngữ nhấn mạnh đầu câu (Not only / Rarely / Only if) & such a/an + adj + N\" (Trang 24 PDF) có công thức và cách dùng chuẩn là gì?",
+    "options": [
+      "Only if / Not only / Rarely + Aux + S + V | such + a/an + adj + noun — Dùng cho: IELTS Writing & Speaking Band 8.0+ (Emphasis) (Nhấn mạnh tính chất đặc biệt (sự hiếm hoi, tầm quan trọng hoặc điều kiện kiên quyết))",
+      "Luôn dùng với động từ nguyên mẫu không \"to\" trong mọi trường hợp",
+      "Chỉ dùng trong câu phủ định và câu nghi vấn",
+      "Không được phép sử dụng trong văn viết IELTS Writing Task 2"
+    ],
+    "correct_answer": "Only if / Not only / Rarely + Aux + S + V | such + a/an + adj + noun — Dùng cho: IELTS Writing & Speaking Band 8.0+ (Emphasis) (Nhấn mạnh tính chất đặc biệt (sự hiếm hoi, tầm quan trọng hoặc điều kiện kiên quyết))",
+    "explanation_vi": "Theo trang 24 trong tài liệu PDF gốc (Mục #77): Công thức là \"Only if / Not only / Rarely + Aux + S + V | such + a/an + adj + noun\", nghĩa là \"Nhấn mạnh tính chất đặc biệt (sự hiếm hoi, tầm quan trọng hoặc điều kiện kiên quyết)\". Ghi chú: Khi đưa Not only, Rarely, Only if lên đầu câu, người đọc ngay lập tức tập trung vào tính chất đặc biệt của hành động.",
+    "meaning_hint_vi": "Đảo ngữ nhấn mạnh đầu câu (Not only / Rarely / Only if) & such a/an + adj + N",
+    "example_en": "Only if you study hard will you pass the exam. / Not only is poverty a social issue, but it is also an economic barrier. / Rarely do we see such a beautiful sunset.",
+    "metadata": {
+      "structure_legacy_id": "pdf-struct-77",
+      "pdf_item_number": 77
+    },
+    "source_file": "src/data/expandedPdfLibraryData.ts",
+    "source_hash": "21611a76c861dc75a95303bd19a710ca3146e316d2788b2cd720d587b078060a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d0550171-f2b6-5d32-8be9-f4d9a7eff2a4",
+    "legacy_id": "vstep-pdf-gram-01",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Phân biệt \"to + V\" (Mục đích) vs. \"to + V-ing\" (Sau danh từ cầu nối & tính từ)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Phân biệt \"to + V\" (Mục đích) vs. \"to + V-ing\" (Sau danh từ cầu nối & tính từ)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 15"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "004f6eb26ac24b822aee7318124aca5d4411a86e6ddd35fe6ccfaf44e6dbb845",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "a2c7aada-c5cd-53ee-8b67-0cb3c91654d5",
+    "legacy_id": "vstep-pdf-gram-02",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Collocation Y Khoa: \"Take medicine\" vs. \"Drink medicine\"",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Collocation Y Khoa: \"Take medicine\" vs. \"Drink medicine\"",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 7 & Trang 14"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "13b1d4a228fe34d1676cef5674e3bedcf49399f755a3f968d843014bf027c91a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e721057b-58f9-5fcd-839c-b836790d1068",
+    "legacy_id": "vstep-pdf-gram-03",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Phân biệt \"Also / Too\" (Câu khẳng định) vs. \"Either\" (Câu phủ định)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Phân biệt \"Also / Too\" (Câu khẳng định) vs. \"Either\" (Câu phủ định)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 14"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "77d0d18203f94d2c79f8805c9fcb4eda1ae2a5716f7579b9552d6abb4691f0eb",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "98d1c3b1-6a91-5ce7-ac29-9658b51fb426",
+    "legacy_id": "vstep-pdf-gram-04",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Cụm Cố Định \"Go on + a diet / a trip / a strike / a date\"",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Cụm Cố Định \"Go on + a diet / a trip / a strike / a date\"",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 14 & Trang 43"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "c8cdf4f5040bbc23846741deb31b43e134347faa8523500500f242b0807181e8",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "fbd69f0c-9849-5bc9-8866-70ebead29240",
+    "legacy_id": "vstep-pdf-gram-05",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Tính từ (Adjective) vs. Trạng từ (Adverb) Bổ Nghĩa Cho Động Từ Thường",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Tính từ (Adjective) vs. Trạng từ (Adverb) Bổ Nghĩa Cho Động Từ Thường",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 15"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "f19304e6eb58e65a26fede3306c76e41ddb6bf72f98fd73145f9f964f4a09034",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "229c9b23-79dc-5fb0-b793-1e91c7bbcf26",
+    "legacy_id": "vstep-pdf-gram-06",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Phân biệt \"Reduction OF\" (Con số cụ thể) vs. \"Reduction IN\" (Khía cạnh/Chất lượng)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Phân biệt \"Reduction OF\" (Con số cụ thể) vs. \"Reduction IN\" (Khía cạnh/Chất lượng)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 33"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "f5c0f0eee3961b70fbc2af66e589c4670430e6be57a468fc5e45dc49c26e80e0",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "26124d4b-15e8-53ad-985e-e8413251e5e7",
+    "legacy_id": "vstep-pdf-gram-07",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Quy Tắc Động Từ Khuyết Thiếu (Modal Verbs + Bare Infinitive)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Quy Tắc Động Từ Khuyết Thiếu (Modal Verbs + Bare Infinitive)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 34 & Trang 66"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "8f5be27b4b9e20fd40a3d0ffec1b1b35377491faa5afee67ba164c9d277c16ef",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5f04bf42-4ad0-554b-abe5-52d80bc4e269",
+    "legacy_id": "vstep-pdf-gram-08",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Động Từ Tri Giác (Verbs of Perception) + V_bare vs. V-ing",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Động Từ Tri Giác (Verbs of Perception) + V_bare vs. V-ing",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 35"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "ef83b4bb198b9979d2f41929566be4cef396888ed652957389449c87e1d20a71",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "8e33f34e-8b84-5eb6-9101-892131d62332",
+    "legacy_id": "vstep-pdf-gram-09",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Động Từ Sai Khiến (Causative Verbs: Make • Let • Have • Get) & Động Từ Help",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Động Từ Sai Khiến (Causative Verbs: Make • Let • Have • Get) & Động Từ Help",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 35–36"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "f09ec001aecff41326923063aa3ae7a22b4b04e8857caf47b44245f0a5d1f85f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ecef92de-e324-531a-9368-864ace8af750",
+    "legacy_id": "vstep-pdf-gram-10",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Hệ Thống 6 Nhóm Liên Từ Phụ Thuộc (Subordinating Conjunctions)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Hệ Thống 6 Nhóm Liên Từ Phụ Thuộc (Subordinating Conjunctions)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 37"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "e23cfb6b89423f06c75c2e98f7179b2768c95143c945af6dae9f358f71a6e4e3",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "8f194fe5-494c-545c-a2e3-7ccd37c74ea5",
+    "legacy_id": "vstep-pdf-gram-11",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Cách Đồng Tình Với Câu Khẳng Định vs. Câu Phủ Định (Ditto! / Same here / Neither do I)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Cách Đồng Tình Với Câu Khẳng Định vs. Câu Phủ Định (Ditto! / Same here / Neither do I)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 77–79"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "c02707488e276bb995669624f66dab28d7a6f6ff523831cfb79cf8f7e62b6c69",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "271bc32e-82a9-5811-8618-495829475598",
+    "legacy_id": "vstep-pdf-gram-12",
+    "quiz_type": "vstep_grammar_rule",
+    "question_prompt": "Bảng 8 Lỗi Sai Thực Chiến Cần Tránh Trong VSTEP & IELTS (Error Correction Log)",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "explanation_vi": "",
+    "meaning_hint_vi": "Bảng 8 Lỗi Sai Thực Chiến Cần Tránh Trong VSTEP & IELTS (Error Correction Log)",
+    "example_en": "",
+    "metadata": {
+      "pdf_page": "Trang 66"
+    },
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "edca3af9686f9249fae92eb964c79d9718c26f9cf0f18cf334b21c0f12a8594d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  }
+]

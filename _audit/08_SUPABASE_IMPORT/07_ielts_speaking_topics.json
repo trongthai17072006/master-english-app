@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "559ce079-2c28-534b-a554-5bed01628995",
+    "legacy_id": "vstep28_seed_1",
+    "topic_number": 1,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "a4a7b1fa018cce33e4a4170bf688e58066f9a54b03da63d56efa6426044ef7b8",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "db06b101-2ffa-5224-8c97-f8be7c685eae",
+    "legacy_id": "vstep28_seed_2",
+    "topic_number": 2,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "242b68da23c5d2ab667f48b99ca67d08c3b6b30d4953cb699c30a457ddfd6e13",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ca15dcfa-cb2b-5d00-84be-d134fdcea528",
+    "legacy_id": "vstep28_seed_3",
+    "topic_number": 3,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "cce509af946a9c5477d3d3c13572168105b731305c6198e29eb5316bb9a2a593",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "491702ae-4f48-5cd3-af20-6792a0f1c606",
+    "legacy_id": "vstep28_seed_4",
+    "topic_number": 4,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "66cb2664d88c123f09625c4017b96225754e6d7a4602a37b9a18e3304fdb6076",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "115891e4-d5e9-59c6-8af2-3e4c1f307202",
+    "legacy_id": "vstep28_seed_5",
+    "topic_number": 5,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "6575c21f60ae0e9b3bdcc488e6ece99a89ab57c97b31076f3ce8b7476ce0db10",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5d0eea01-3855-5610-94b5-7f7dece00947",
+    "legacy_id": "vstep28_seed_6",
+    "topic_number": 6,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "67800002bd1c862a7c0a025487580ec0df8cc62bff990894099f1dbd706df771",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "dc1456bf-9ae9-56b0-8a97-b741bbcba4f3",
+    "legacy_id": "vstep28_seed_7",
+    "topic_number": 7,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "bd9e92b20c56eb97b4bdb044a94798388721c32db1bfe7d1f463a29a3c5376f1",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "004aa9e6-dfae-517f-b438-3e97cba0226a",
+    "legacy_id": "vstep28_seed_8",
+    "topic_number": 8,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "c2e09b1c5394c9872f5d00e6c9ba3ef176adcc533538ab0ff7f5ef14a6b89e7a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c5fe744f-b034-5993-888b-405a2c40a6ae",
+    "legacy_id": "vstep28_seed_9",
+    "topic_number": 9,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "756f6b4a2c82f8635dd736f43d5eaa60ed740f552a4f4e980ba09a39a741bc08",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "fe432e78-ef34-5150-85f1-f96716b29fa7",
+    "legacy_id": "vstep28_seed_10",
+    "topic_number": 10,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "ee2ae00647945967cef8c90ae2715a3d88975d0054717ad618873d6eba010514",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "b8c06270-533a-5293-bc09-4e2d4301f91c",
+    "legacy_id": "vstep28_seed_11",
+    "topic_number": 11,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "a229ca3419db4db7e850f3db27f663a1f114eae6255803973897477be7eb37cb",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "6e66f02c-efed-5747-934c-ea73bc023130",
+    "legacy_id": "vstep28_seed_12",
+    "topic_number": 12,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "6039e753bca3990cae0b9e08cbd030cfce8bad81e100c37cddf22ad97c160270",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "4c573284-012f-5b16-96eb-bbfa0a862bd8",
+    "legacy_id": "vstep28_seed_13",
+    "topic_number": 13,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "e476c8ebabee12c0d40493e7daced78eff0b77344cbc9d72d473908b21024a8f",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "140c1353-47e5-587c-8702-09a23979335b",
+    "legacy_id": "vstep28_seed_14",
+    "topic_number": 14,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "76ad36fcb4e0b33bafe830a4d01c2aa988899b2a72a2be047cfa324e4b10e62c",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "60db03c4-58c9-5807-b3c9-f3cc597c0f28",
+    "legacy_id": "vstep28_seed_15",
+    "topic_number": 15,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "ea6d6fe758bdf1406d91d54385d4856288b26932125b90dfdf1aef9f60ac652a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "bbae330c-c2ba-52d5-bea1-355d8f7410ae",
+    "legacy_id": "vstep28_seed_16",
+    "topic_number": 16,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "eb63f3a17d044e4ec0c64ba9c7802d2668ad2bb0f95d6410578f202d05107593",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "69b8751d-2c9f-5583-80ae-38ae172bd443",
+    "legacy_id": "vstep28_seed_17",
+    "topic_number": 17,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "aa38fd857c30e2891b9b77d53371efaacec967b7f759ece5a26711db85280e21",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "3f6ec58e-9b95-5f1a-bf6e-19770ba142a4",
+    "legacy_id": "vstep28_seed_18",
+    "topic_number": 18,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "f4ee08a9ea71d8e78049938338c68f888eb3dd9b496840180f2b3149961c5285",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "6d925553-c6f5-547b-ab52-30740a901a60",
+    "legacy_id": "vstep28_seed_19",
+    "topic_number": 19,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "5f53ac33c44d43082cd1fd48b7369dc9da69dce6fe7d744536af527bd092b003",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "343b1ded-3eca-565c-b4db-a39da3c9b7ab",
+    "legacy_id": "vstep28_seed_20",
+    "topic_number": 20,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "eb82ebb5fac877e96b09f69f667a0e89da8d1c0c71c8f90c63956cb605b63305",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "8fd1165b-44ba-5057-b424-f3889de7fa11",
+    "legacy_id": "vstep28_seed_21",
+    "topic_number": 21,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "75c1b99a68bbccb0816b27218e5ee4363a58361550abea023d895155a64e349d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e7163b43-d902-5d14-b088-ecf286ae3b80",
+    "legacy_id": "vstep28_seed_22",
+    "topic_number": 22,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "1fea94e8721a8e85472720e417aa91f2340ba6f8fe316fad27329de58a18d0e8",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "121a93e8-b83d-5baf-9538-3357cae499bd",
+    "legacy_id": "vstep28_seed_23",
+    "topic_number": 23,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "7bcdaf66e148d73ec1ffb915265be6a5cb6de97dbc9aefe98892d7ddc3815029",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "08820c78-bcab-5015-a2ea-d05aed2381e5",
+    "legacy_id": "vstep28_seed_24",
+    "topic_number": 24,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "44478974f279606cd888b74b74325c5d49211f306af68b4c86abe1d781b87c42",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f7bb0e7f-d884-5485-a30e-e4e7b9decdf1",
+    "legacy_id": "vstep28_seed_25",
+    "topic_number": 25,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "fab00dc1235094e998bfe7c9dae24ed0e0af9e1f8d83d4ab2aa66f4cba64be17",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "ab8b45ce-0bde-5f40-a4af-92a9995338a8",
+    "legacy_id": "vstep28_seed_26",
+    "topic_number": 26,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "69c20186d15ae7ae87cd3b699803bae6fe12545792c4eb88fceeb41569ad26c3",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e017dbd7-5ec8-5fc1-9ee0-ce4c3e385a24",
+    "legacy_id": "vstep28_seed_27",
+    "topic_number": 27,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "76e2b894ac9215ae33c9b46b01215ca74f228e55f853216e08493220957f1cb8",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "2067b112-c704-5ed0-bd2e-30cf6219b944",
+    "legacy_id": "vstep28_seed_28",
+    "topic_number": 28,
+    "part_type": "full_test_part_1_2_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "",
+    "band_target": "Band 7.0–8.0 / VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "prompt": "",
+      "bullets": [],
+      "sample_answer": ""
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/curriculum/vstep28SpeakingBank.ts",
+    "source_hash": "08c0616f878977ed5ef8729bdf9bb8b7c6f1cbdf2ed5875160853d5a7c0aebac",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "f9ecad96-d226-512a-a328-bfe9b22acebe",
+    "legacy_id": "vstep-pdf-sp1-01",
+    "topic_number": 128,
+    "part_type": "speaking_part_1",
+    "topic_en": "",
+    "topic_vi": "Chuyên ngành học, Kết bạn & Ứng xử giao tiếp",
+    "theme_tag": "VSTEP Part 1 Social Interaction",
+    "band_target": "VSTEP B1–C1",
+    "part1_questions": [
+      {
+        "qId": "sp1-q1",
+        "questionEn": "What is your major at university, and why did you choose it?",
+        "questionVi": "Chuyên ngành đại học của bạn là gì và tại sao bạn chọn ngành đó?",
+        "originalPdfDraft": "My major is Finance and Banking, with a specialization in Fintech. I chose it because financial technology is booming and offers great career prospects.",
+        "upgradedSampleB2C1": "I am currently majoring in Finance and Banking, with a specific specialization in Financial Technology, or FinTech. I gravitated toward this field because digital banking and cashless payment systems are transforming Vietnam’s economy, which promises dynamic career prospects upon graduation.",
+        "upgradedSampleVi": "Hiện tôi đang theo học chuyên ngành Tài chính - Ngân hàng, chuyên sâu về Công nghệ Tài chính (FinTech). Tôi hướng tới lĩnh vực này vì ngân hàng số và hệ thống thanh toán không tiền mặt đang làm thay đổi nền kinh tế Việt Nam, hứa hẹn triển vọng nghề nghiệp năng động sau khi tốt nghiệp.",
+        "keyVocab": [
+          "Finance and Banking",
+          "Fintech specialization",
+          "gravitate toward",
+          "career prospects"
+        ],
+        "status": "complete"
+      },
+      {
+        "qId": "sp1-q2",
+        "questionEn": "How do you feel when someone interrupts you while you are talking?",
+        "questionVi": "Bạn cảm thấy thế nào khi ai đó ngắt lời bạn đang nói?",
+        "originalPdfDraft": "To be honest, I feel quite annoyed when being interrupted, unless it is an urgent situation.",
+        "upgradedSampleB2C1": "To be completely honest, it can be quite frustrating to be cut off mid-sentence because it disrupts my train of thought. However, if the other person interrupts politely due to an urgent matter, I am more than willing to let them speak first.",
+        "upgradedSampleVi": "Thật lòng mà nói, tôi cảm thấy khá khó chịu khi bị ngắt lời giữa chừng vì nó làm đứt mạch suy nghĩ của tôi. Tuy nhiên, nếu đối phương ngắt lời một cách lịch sự vì có việc khẩn cấp, tôi hoàn toàn sẵn lòng nhường họ nói trước.",
+        "keyVocab": [
+          "cut off mid-sentence",
+          "disrupt my train of thought",
+          "urgent matter"
+        ],
+        "status": "complete"
+      },
+      {
+        "qId": "sp1-q3",
+        "questionEn": "What indoor games are popular in your hometown?",
+        "questionVi": "Những trò chơi trong nhà nào phổ biến ở quê hương bạn?",
+        "originalPdfDraft": "People in my hometown love playing Chinese chess, card games, and indoor badminton.",
+        "upgradedSampleB2C1": "In my hometown, traditional board games like Chinese chess and card games are immensely popular among older adults during family gatherings. Meanwhile, younger people often gravitate toward indoor badminton or table tennis at community sports centers to stay active regardless of the weather.",
+        "upgradedSampleVi": "Ở quê tôi, các trò chơi cờ bàn truyền thống như cờ tướng và đánh bài rất phổ biến với người lớn tuổi trong các dịp tụ họp gia đình. Trong khi đó, giới trẻ thường thích chơi cầu lông trong nhà hoặc bóng bàn tại trung tâm thể thao cộng đồng để rèn luyện sức khỏe bất chấp thời tiết.",
+        "keyVocab": [
+          "Chinese chess",
+          "family gatherings",
+          "indoor badminton",
+          "stay active"
+        ],
+        "status": "complete"
+      }
+    ],
+    "part2_cue_card": {},
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "65d2e4bca740bd666071534861ab3a85f0778eb1ee7254265c4e06e9754bc5d6",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "61136963-fef1-5a14-a05f-f1aad167a45c",
+    "legacy_id": "vstep-pdf-sp1-02",
+    "topic_number": 129,
+    "part_type": "speaking_part_1",
+    "topic_en": "",
+    "topic_vi": "Thói quen giấc ngủ, Nghỉ giải lao & Môi trường làm việc",
+    "theme_tag": "VSTEP Part 1 Social Interaction",
+    "band_target": "VSTEP B1–C1",
+    "part1_questions": [
+      {
+        "qId": "sp1-q4",
+        "questionEn": "What do you usually do to have a good night’s sleep?",
+        "questionVi": "Bạn thường làm gì để có một giấc ngủ ngon vào ban đêm?",
+        "originalPdfDraft": "Although I used to be a night owl, now I do a wind-down activity like reading or listening to lo-fi music so I can drift off easily.",
+        "upgradedSampleB2C1": "Although I used to be a bit of a night owl during exam seasons, I now prioritize a strict bedtime routine. About thirty minutes before sleeping, I put away electronic screens and engage in a calming wind-down activity, such as reading a printed book, which helps me drift off to sleep effortlessly.",
+        "upgradedSampleVi": "Mặc dù trước đây tôi từng là một \"cú đêm\" vào mùa thi, hiện tại tôi ưu tiên thói quen đi ngủ nghiêm ngặt. Khoảng 30 phút trước khi ngủ, tôi cất các thiết bị màn hình điện tử và thực hiện một hoạt động thư giãn nhẹ nhàng như đọc sách giấy, giúp tôi chìm vào giấc ngủ dễ dàng.",
+        "keyVocab": [
+          "night owl",
+          "wind-down activity",
+          "drift off to sleep"
+        ],
+        "status": "complete"
+      },
+      {
+        "qId": "sp1-q5",
+        "questionEn": "Why is it important to take short breaks during work or study?",
+        "questionVi": "Tại sao việc nghỉ giải lao ngắn trong lúc học hoặc làm việc lại quan trọng?",
+        "upgradedSampleB2C1": "Taking short breaks is essential because prolonged concentration inevitably leads to mental fatigue. Stepping away from the desk for ten minutes to stretch or grab a cup of coffee allows me to decompress, recharge my batteries, and return to my tasks with sharper focus.",
+        "upgradedSampleVi": "Nghỉ giải lao ngắn là vô cùng cần thiết vì sự tập trung kéo dài chắc chắn dẫn đến mệt mỏi trí óc. Rời khỏi bàn làm việc 10 phút để vươn vai hoặc uống một tách cà phê giúp tôi giải tỏa căng thẳng, nạp lại năng lượng và quay lại công việc với sự tập trung sắc bén hơn.",
+        "keyVocab": [
+          "prolonged concentration",
+          "mental fatigue",
+          "decompress",
+          "recharge my batteries"
+        ],
+        "status": "complete"
+      }
+    ],
+    "part2_cue_card": {},
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "f74e8563d541a4e7360e85d8b0a1808135fa92e99c1baa4e4d56f536bc895aeb",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "3d231622-fba1-557d-bf65-13a771bcf92c",
+    "legacy_id": "vstep-pdf-sp1-03",
+    "topic_number": 130,
+    "part_type": "speaking_part_1",
+    "topic_en": "",
+    "topic_vi": "Giao tiếp qua Email, Tập thể hình & Lịch trình hằng ngày",
+    "theme_tag": "VSTEP Part 1 Social Interaction",
+    "band_target": "VSTEP B1–C1",
+    "part1_questions": [
+      {
+        "qId": "sp1-q6",
+        "questionEn": "How often do you check your email, and what do you use it for?",
+        "questionVi": "Bạn kiểm tra email bao lâu một lần và dùng nó vào mục đích gì?",
+        "upgradedSampleB2C1": "I check my email inbox at least twice a day—once in the morning and once in the late afternoon. As a university student, I primarily use email to receive academic announcements from lecturers, submit assignments, and keep track of formal internship applications.",
+        "upgradedSampleVi": "Tôi kiểm tra hộp thư điện tử ít nhất hai lần một ngày—một lần vào buổi sáng và một lần vào cuối buổi chiều. Là sinh viên đại học, tôi chủ yếu dùng email để nhận thông báo học vụ từ giảng viên, nộp bài tập và theo dõi các hồ sơ ứng tuyển thực tập trang trọng.",
+        "keyVocab": [
+          "email inbox",
+          "academic announcements",
+          "formal internship applications"
+        ],
+        "status": "complete"
+      },
+      {
+        "qId": "sp1-q7",
+        "questionEn": "What kind of regular exercise do you do, and what is your favorite part of the day?",
+        "questionVi": "Bạn thường tập môn thể dục nào và đâu là khoảng thời gian yêu thích nhất trong ngày của bạn?",
+        "originalPdfDraft": "I do strength training at the gym around 7 a.m. and go swimming to improve my physique /fɪˈziːk/. Morning is my favorite part of the day.",
+        "upgradedSampleB2C1": "My favorite part of the day is definitely early morning around 7 a.m., when I hit the gym for strength training. Lifting weights and occasionally going swimming not only help me maintain a toned physique, but also release endorphins that keep me productive for the rest of the day.",
+        "upgradedSampleVi": "Khoảng thời gian yêu thích nhất trong ngày của tôi chắc chắn là sáng sớm khoảng 7 giờ, khi tôi đến phòng gym để tập tạ. Việc rèn luyện sức mạnh kết hợp đi bơi không chỉ giúp tôi duy trì vóc dáng săn chắc mà còn giải phóng endorphin giúp tôi làm việc hiệu quả suốt cả ngày.",
+        "keyVocab": [
+          "strength training",
+          "toned physique",
+          "release endorphins"
+        ],
+        "status": "complete"
+      }
+    ],
+    "part2_cue_card": {},
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "eaba7f5784e763ba439ba56b9f2146c408ec272b6742b3c2e2918b32422f2c8a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e3fa041b-db4d-5882-876c-3f413f861885",
+    "legacy_id": "vstep-pdf-sp1-04",
+    "topic_number": 131,
+    "part_type": "speaking_part_1",
+    "topic_en": "",
+    "topic_vi": "Bữa sáng, Gia đình, Hoạt động ngoài trời & Ứng dụng chuyển tiền",
+    "theme_tag": "VSTEP Part 1 Social Interaction",
+    "band_target": "VSTEP B1–C1",
+    "part1_questions": [
+      {
+        "qId": "sp1-q8",
+        "questionEn": "Which meal is the most important to you in a day?",
+        "questionVi": "Bữa ăn nào là quan trọng nhất đối với bạn trong ngày?",
+        "originalPdfDraft": "Breakfast is the most important meal. I usually eat pho or bun and drink iced coffee from Highlands Coffee.",
+        "upgradedSampleB2C1": "Without a doubt, breakfast is the most crucial meal of my day. After an overnight fast, I usually treat myself to a steaming bowl of traditional Vietnamese beef noodle soup—like pho or bun—paired with an iced coffee from Highlands Coffee to kickstart my metabolism and mental alertness.",
+        "upgradedSampleVi": "Không nghi ngờ gì nữa, bữa sáng là bữa ăn quan trọng nhất trong ngày của tôi. Sau một đêm dài, tôi thường thưởng thức một bát phở hoặc bún nóng hổi truyền thống kèm một ly cà phê đá Highlands để khởi động quá trình trao đổi chất và sự minh mẫn.",
+        "keyVocab": [
+          "overnight fast",
+          "steaming bowl of pho",
+          "kickstart my metabolism"
+        ],
+        "status": "complete"
+      },
+      {
+        "qId": "sp1-q9",
+        "questionEn": "Can you tell me about your family and who makes major decisions at home?",
+        "questionVi": "Hãy kể về gia đình bạn và ai là người đưa ra các quyết định lớn trong nhà?",
+        "originalPdfDraft": "I live in a nuclear family of four. On weekends my mom whips up dinner. My parents discuss together, and they entrust me with my own academic choices.",
+        "upgradedSampleB2C1": "I come from a close-knit nuclear family of four. Although everyone is busy on weekdays, my mother always whips up a cozy family dinner on weekends so we can catch up. When it comes to major financial matters, my parents reach a consensus together, and they also entrust me with making my own academic and career decisions.",
+        "upgradedSampleVi": "Tôi lớn lên trong một gia đình hạt nhân gắn bó gồm bốn người. Dù ngày thường ai cũng bận rộn, mẹ tôi luôn nấu nhanh một bữa tối ấm cúng vào cuối tuần để cả nhà trò chuyện. Với các vấn đề tài chính lớn, bố mẹ tôi cùng bàn bạc thống nhất, đồng thời tin tưởng giao cho tôi tự quyết định việc học tập và định hướng nghề nghiệp của mình.",
+        "keyVocab": [
+          "close-knit nuclear family",
+          "whip up dinner",
+          "reach a consensus",
+          "entrust someone with"
+        ],
+        "status": "complete"
+      },
+      {
+        "qId": "sp1-q10",
+        "questionEn": "Do you often use money-transfer apps on your smartphone?",
+        "questionVi": "Bạn có thường xuyên sử dụng các ứng dụng chuyển tiền trên điện thoại không?",
+        "originalPdfDraft": "Yes, I use banking apps and QR codes every day because they are fast, though we must be careful with security risks.",
+        "upgradedSampleB2C1": "Yes, I use mobile banking and e-wallet apps on a daily basis. Scanning a QR code allows me to split restaurant bills or pay for groceries instantaneously without carrying cash. Nevertheless, users must enable biometric authentication to safeguard their accounts against cybersecurity fraud.",
+        "upgradedSampleVi": "Có, tôi sử dụng ứng dụng ngân hàng di động và ví điện tử hằng ngày. Việc quét mã QR giúp tôi chia hóa đơn nhà hàng hoặc thanh toán mua sắm tức thì mà không cần mang theo tiền mặt. Tuy nhiên, người dùng cần bật xác thực sinh trắc học để bảo vệ tài khoản trước rủi ro lừa đảo mạng.",
+        "keyVocab": [
+          "mobile banking",
+          "instantaneously",
+          "biometric authentication",
+          "cybersecurity fraud"
+        ],
+        "status": "complete"
+      }
+    ],
+    "part2_cue_card": {},
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "830fab5ec7c3a091c50309e876b07502513a17f11ecd393f88fb0d5f0f0b64c7",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "d6eea2c4-e0aa-5de2-94f4-01d6d00df95c",
+    "legacy_id": "vstep-pdf-sp2-01",
+    "topic_number": 132,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 1: Tư vấn phương pháp giảm cân cho chị gái (Sister Losing Weight)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "Going to the gym",
+        "Taking weight-loss drugs",
+        "Going on a strict diet"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "8e1c2473b7bf9343ce3fce7d9a253454e1be786e15fff6ebeb2356487e6028a7",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "7e5ba112-2a70-50ad-afc4-09af76bfb72a",
+    "legacy_id": "vstep-pdf-sp2-02",
+    "topic_number": 133,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 2: Chọn trường tiểu học cho em gái (Choosing an Elementary School)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "A private school",
+        "An international school",
+        "A public school"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "4bcfca36821622a2d02cc8608c5df24f5abd873dac37fac4de64a4aa62c116da",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "0140025e-a1d9-53b6-aebd-1ebb4d272f5c",
+    "legacy_id": "vstep-pdf-sp2-03",
+    "topic_number": 134,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 3: Tổ chức chuyến du lịch thường niên cho công ty (Annual Company Trip)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "A riverside resort area",
+        "A theme park",
+        "A camping trip in the countryside"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "4b2749a596c55539c1dfcb608c57586455b7206ee5328773f7b1ef1c0f2d3f31",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e774a7b1-5e5d-5dd0-bd4e-59575d00d5ee",
+    "legacy_id": "vstep-pdf-sp2-04",
+    "topic_number": 135,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 4: Mua quần áo mới cho sinh viên (Buying New Clothes for Students)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "Shopping at a mall",
+        "Buying at a local market",
+        "Shopping online"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "5f43cf81a0f81803d471bf98d90ffe7aee3cd86cbaec632abe4caa1b02dbefab",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "e1b2762b-7994-51db-a142-978b4d262295",
+    "legacy_id": "vstep-pdf-sp2-05",
+    "topic_number": 136,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 5: Chọn món ăn mang đến bữa tiệc góp món (Potluck Party Dish)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "Fried rice",
+        "Fried spring rolls",
+        "Beef noodles"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "b59143c0338987ce1d5d4e29ac02b04056f7f5b907394c84377ba31f1c3554b5",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "35571435-4d79-5c5c-828b-aa20cb0c3683",
+    "legacy_id": "vstep-pdf-sp2-06",
+    "topic_number": 137,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 6: Chọn địa điểm tổ chức tiệc gia đình (Family Celebration Venue)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "At a resort",
+        "At a family member’s house",
+        "At a restaurant"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "b2ba15186f804622fc9cfe4b632dfa8e87814cd92a57287505eb1f8ee3adc72d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "c391158f-7ad5-5f16-b303-e9cd302e4926",
+    "legacy_id": "vstep-pdf-sp2-07",
+    "topic_number": 138,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 7: Chọn nhà hàng ăn mừng sau kỳ thi cuối kỳ (Post-Exam Celebration Dinner)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "A Thai restaurant",
+        "A Japanese restaurant",
+        "A Chinese restaurant"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "188cd1891b57e9c9a75212b1920761fc1c7e87e2fd973fd8f4d694116e27d54a",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "379855b6-96bb-57df-ae73-8b591350ace0",
+    "legacy_id": "vstep-pdf-sp2-08",
+    "topic_number": 139,
+    "part_type": "speaking_part_2",
+    "topic_en": "Đề 8: Tư vấn cho bạn chọn 1 trong 3 lời mời làm việc (Choosing Among 3 Job Offers)",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 2 Solution Discussion",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {
+      "options": [
+        "Option 1: High salary with long working hours",
+        "Option 2: Moderate salary with training & career growth",
+        "Option 3: Flexible schedule with low salary"
+      ]
+    },
+    "part3_questions": [],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "7c29e33fa3993afe7c4bb339b8bedeb169537499168665e67e0ba9099abb3532",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9e0327fc-f5f2-5613-bb2e-536f32731b19",
+    "legacy_id": "vstep-pdf-sp3-01",
+    "topic_number": 140,
+    "part_type": "speaking_part_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 3 Topic Development",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {},
+    "part3_questions": [
+      {
+        "questionEn": "Should art education be made compulsory in all schools?",
+        "questionVi": "Giáo dục nghệ thuật có nên trở thành môn bắt buộc ở mọi trường học không?",
+        "sampleAnswerEn": "Yes, at least at primary and secondary levels. Compulsory art classes allow children to discover hidden talents and develop aesthetic appreciation alongside STEM subjects, provided that students are graded on effort rather than innate talent.",
+        "sampleAnswerVi": "Có, ít nhất là ở bậc tiểu học và trung học. Các lớp nghệ thuật bắt buộc giúp trẻ khám phá năng khiếu tiềm ẩn và phát triển tư duy thẩm mỹ song hành với các môn khoa học, miễn là học sinh được đánh giá dựa trên sự nỗ lực thay vì năng khiếu bẩm sinh."
+      },
+      {
+        "questionEn": "How do the arts help shape a country’s international image?",
+        "questionVi": "Nghệ thuật giúp định hình hình ảnh quốc tế của một quốc gia như thế nào?",
+        "sampleAnswerEn": "The arts serve as a powerful instrument of cultural diplomacy and soft power. For instance, South Korea’s investment in cinema and music, or Vietnam’s promotion of water puppetry and Ao Dai festivals, captivates global audiences and fosters international goodwill.",
+        "sampleAnswerVi": "Nghệ thuật đóng vai trò là công cụ ngoại giao văn hóa và sức mạnh mềm đầy uy lực. Chẳng hạn, việc Hàn Quốc đầu tư vào điện ảnh và âm nhạc, hay Việt Nam quảng bá múa rối nước và lễ hội Áo dài, đã chinh phục khán giả toàn cầu và thúc đẩy thiện cảm quốc tế."
+      }
+    ],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "8759d834dd8dda40bcd53dc25d05c8dfc64faf25c206b2e090b0950bd5bf9881",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "58777754-6fa7-5b58-8b26-c4c7aa8d4cc8",
+    "legacy_id": "vstep-pdf-sp3-02",
+    "topic_number": 141,
+    "part_type": "speaking_part_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 3 Topic Development",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {},
+    "part3_questions": [
+      {
+        "questionEn": "How can organizers measure whether a workshop has achieved its goals?",
+        "questionVi": "Ban tổ chức có thể đo lường xem buổi workshop đã đạt mục tiêu hay chưa bằng cách nào?",
+        "sampleAnswerEn": "Organizers can evaluate effectiveness by collecting post-workshop feedback surveys, conducting short practical quizzes, and tracking whether employees actually apply the newly acquired skills in their daily workflow.",
+        "sampleAnswerVi": "Ban tổ chức có thể đánh giá hiệu quả bằng cách thu thập khảo sát phản hồi sau hội thảo, tổ chức bài kiểm tra thực hành ngắn và theo dõi xem nhân viên có thực sự áp dụng kỹ năng mới vào công việc hằng ngày hay không."
+      },
+      {
+        "questionEn": "How can a company organize a training workshop on a limited budget?",
+        "questionVi": "Làm thế nào để công ty tổ chức hội thảo đào tạo khi ngân sách hạn hẹp?",
+        "sampleAnswerEn": "When operating on a tight budget, companies can host hybrid or virtual webinars via Zoom, utilize in-house senior managers as trainers, and provide digital handouts instead of printed materials.",
+        "sampleAnswerVi": "Khi ngân sách hạn hẹp, doanh nghiệp có thể tổ chức hội thảo trực tuyến qua Zoom, tận dụng các quản lý cấp cao nội bộ làm diễn giả và phát tài liệu PDF thay vì in ấn tốn kém."
+      }
+    ],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "2314164ff0c97596b2f993186c71fea8ea8514f0cbe45f235166e85e41cdd0d0",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "5913fd41-e198-5e8b-9c72-3b3dd96b3aa2",
+    "legacy_id": "vstep-pdf-sp3-03",
+    "topic_number": 142,
+    "part_type": "speaking_part_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 3 Topic Development",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {},
+    "part3_questions": [
+      {
+        "questionEn": "Which is more important in a job interview: physical appearance or personality and competence?",
+        "questionVi": "Yếu tố nào quan trọng hơn khi phỏng vấn: ngoại hình hay tính cách và năng lực?",
+        "sampleAnswerEn": "While neat appearance opens the door during the first thirty seconds, personality, work ethic, and professional competence are far more decisive. Recruiters ultimately hire someone who can solve problems and collaborate harmoniously with the team.",
+        "sampleAnswerVi": "Mặc dù ngoại hình chỉn chu giúp mở cánh cửa trong 30 giây đầu tiên, tính cách, đạo đức nghề nghiệp và năng lực chuyên môn mang tính quyết định lớn hơn nhiều. Nhà tuyển dụng suy cho cùng sẽ chọn người giải quyết được công việc và phối hợp ăn ý với tập thể."
+      }
+    ],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "1150376d1ba720fb8a203fd28636de6ff6c174879b4597cb44a59cfe0ee9c876",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "7537a106-9d70-59b4-b0a5-95290026761d",
+    "legacy_id": "vstep-pdf-sp3-04",
+    "topic_number": 143,
+    "part_type": "speaking_part_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 3 Topic Development",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {},
+    "part3_questions": [
+      {
+        "questionEn": "Do you prefer a luxury package tour or a self-planned budget trip?",
+        "questionVi": "Bạn thích đi tour trọn gói cao cấp hay chuyến đi tự túc tiết kiệm hơn?",
+        "sampleAnswerEn": "As a young traveler, I strongly prefer a self-planned trip staying at local homestays. Not only does it save a considerable amount of money compared to a luxury tour, but it also gives my friends and me the freedom to customize our itinerary.",
+        "sampleAnswerVi": "Là một người trẻ mê xê dịch, tôi thích chuyến đi tự lên kế hoạch và ở homestay địa phương hơn. Nó không chỉ tiết kiệm khoản tiền đáng kể so với tour hạng sang mà còn cho tôi và bạn bè sự tự do điều chỉnh lịch trình."
+      }
+    ],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "a2ef185282004d2ca057e1dc1dba4c04b937a455ca6669e71ff5ff20b45b44df",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "9f4cc4d7-bddd-50e5-b3c1-edd3a9201dff",
+    "legacy_id": "vstep-pdf-sp3-05",
+    "topic_number": 144,
+    "part_type": "speaking_part_3",
+    "topic_en": "",
+    "topic_vi": "",
+    "theme_tag": "VSTEP Part 3 Topic Development",
+    "band_target": "VSTEP B2–C1",
+    "part1_questions": [],
+    "part2_cue_card": {},
+    "part3_questions": [
+      {
+        "questionEn": "Why do young people nowadays eat out more frequently than in the past, and what criteria do they use to choose a restaurant?",
+        "questionVi": "Tại sao giới trẻ ngày nay đi ăn ngoài thường xuyên hơn trước, và họ chọn quán ăn theo tiêu chí nào?",
+        "sampleAnswerEn": "Young adults dine out frequently due to hectic work schedules and the desire to socialize with peers in aesthetic spaces. When choosing a place to eat, most young people prioritize three criteria: food hygiene and flavor, reasonable pricing, and a cozy ambiance.",
+        "sampleAnswerVi": "Người trẻ đi ăn ngoài thường xuyên do lịch làm việc bận rộn và nhu cầu giao lưu bạn bè trong không gian đẹp. Khi chọn quán ăn, đa số giới trẻ ưu tiên ba tiêu chí: vệ sinh và hương vị món ăn, giá cả hợp lý và không gian ấm cúng."
+      }
+    ],
+    "vocabulary_Executing": [],
+    "source_file": "src/data/vstepPdfKnowledgeBankData.ts",
+    "source_hash": "bd1b610b0d9af3a1f40131d0a0feae200fecbb7c9bd7fa1f571cb7a22534577d",
+    "import_batch_id": "9b9c7c85-c47f-5dac-824e-b5bf703c4037",
+    "created_at": "2026-11-05T00:00:00.000Z",
+    "updated_at": "2026-11-05T00:00:00.000Z"
+  }
+]

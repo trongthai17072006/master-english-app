@@ -1,0 +1,176 @@
+{
+  "protected_files_intact": true,
+  "protected_file_checks": [
+    {
+      "file": "src/data/vocabDatabase.json",
+      "sha256": "d6b6a67291a4baa16588ffe0a83d37168af0fd2c9bbcc116adc585a518c7fe70",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/existingVocab.json",
+      "sha256": "63eb5ab753c6907893d86c2a17fbdda78515a92e07abcb9dd74a09097699ef27",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/vocabularyData.ts",
+      "sha256": "de2abd09dfc9a23819e49e5116e0e74dbef89e6d1f6c6e63ebf01ab784b76e14",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/expandedPdfLibraryData.ts",
+      "sha256": "e35a70c97dbc0cbfe8cf8dadfdc6129233528c3b67d4d514877b5a8006039772",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/vstepPdfKnowledgeBankData.ts",
+      "sha256": "d13deeede284a0a7a2414248459a173a80daad540bc179b69391efd6bf9974f9",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/challenge60Data.ts",
+      "sha256": "5b0a4ba8f7d63ccd6b3ab62f347d13d4d3c55eb144528ae8336103d5b61bb3de",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/rubyTypingAudioB64.ts",
+      "sha256": "eec97b823d80fa5dbf12c6496133436fcb8efe4b86c7d7141c7ad83db0a256a4",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/types.ts",
+      "sha256": "6f73c5d650c5fa2d42c830b436d575b299f700cf1ec4d8554c88a692d90a3e19",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/days01To15.ts",
+      "sha256": "39ed0e9a9cc5efe5b2e1f3a9a04df6d1bc56952720b4b123c0a9c4d7ed9c91ae",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/days16To60.ts",
+      "sha256": "30a22b3c7a5e52ba315b24f2be283c8893fa33338c5ab496def78ccc5633edfc",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/academicPassageAndEssayEngine.ts",
+      "sha256": "4dd8ce9bb67ada590caacd2a181833c5a5e4f6f8d9f629fa06c4b14b6db6cd6d",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/speakingSets1To5.ts",
+      "sha256": "2cebf573a27a2fa4450f5a137e13eb6fd37dd4d8137019c7aca6553f3db4f78e",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/topicContentBuilder.ts",
+      "sha256": "bac508f1cca477b17d858e20625988fb6cf4a463c1cd88cae39614b7ff444db7",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/vstep28SpeakingBank.ts",
+      "sha256": "91875ece3d94f11156e7a64abcbf362ba4217a7f9ae35fc7472bb3b7131710de",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/vstep28SpeakingBankPart2.ts",
+      "sha256": "36c31588298058da8df2f66852ba5790f45f2a128a4f0096d0bd78608dc93c6e",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/vstep28SpeakingBankPart3.ts",
+      "sha256": "7a064813a15d776bfb4e41b88a906779e12e09a8c049772e91340d9afd9a7636",
+      "matches_baseline": true
+    },
+    {
+      "file": "src/data/curriculum/vstep28SpeakingBankPart4.ts",
+      "sha256": "f50a3507a46b11e640fc537ea1f83b5105a1a6081edc31fa5b9fab059e59cd8e",
+      "matches_baseline": true
+    }
+  ],
+  "table_checks": [
+    {
+      "table": "import_batches",
+      "csv_count": 1,
+      "json_count": 1,
+      "unique_uuids": 1,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "vocabulary_categories",
+      "csv_count": 42,
+      "json_count": 42,
+      "unique_uuids": 42,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "vocabulary",
+      "csv_count": 3666,
+      "json_count": 3666,
+      "unique_uuids": 3666,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "grammar_structures",
+      "csv_count": 89,
+      "json_count": 89,
+      "unique_uuids": 89,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "curriculum_days",
+      "csv_count": 66,
+      "json_count": 66,
+      "unique_uuids": 66,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "curriculum_day_vocab",
+      "csv_count": 990,
+      "json_count": 990,
+      "unique_uuids": 990,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "ielts_speaking_topics",
+      "csv_count": 45,
+      "json_count": 45,
+      "unique_uuids": 45,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "quiz_questions",
+      "csv_count": 153,
+      "json_count": 153,
+      "unique_uuids": 153,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    },
+    {
+      "table": "pdf_library",
+      "csv_count": 35,
+      "json_count": 35,
+      "unique_uuids": 35,
+      "invalid_uuids": 0,
+      "status": "PASS"
+    }
+  ],
+  "fk_checks": {
+    "vocabulary_category_id_orphans": 0,
+    "curriculum_day_vocab_day_id_orphans": 0,
+    "curriculum_day_vocab_vocab_id_orphans": 0,
+    "curriculum_day_vocab_matched_to_vocabulary_bank": 757,
+    "import_batch_id_orphans_across_all_tables": 0
+  },
+  "uuid_checks": {},
+  "nfc_violations": 0,
+  "checksum_file_verified": true,
+  "errors": [],
+  "overall_status": "PASS"
+}

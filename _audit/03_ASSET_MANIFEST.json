@@ -1,0 +1,1661 @@
+{
+  "summary": {
+    "generated_at": "2026-11-05T16:06:10.815Z",
+    "pre_cleanup_public_files": 129,
+    "post_cleanup_public_files": 60,
+    "total_scanned_files": 61,
+    "active_count": 31,
+    "unused_unique_count": 29,
+    "remaining_duplicate_count": 0,
+    "cleaned_duplicate_count": 69,
+    "cleaned_duplicate_bytes": 55243066,
+    "temporary_count": 1,
+    "broken_reference_count": 2,
+    "total_size_bytes": 68920677,
+    "public_dir_size_bytes": 68577364
+  },
+  "broken_references": [
+    {
+      "path": "/assets/aistudio/Untitled_document_bb0198f5.pdf",
+      "expected_disk_path": "public/assets/aistudio/Untitled_document_bb0198f5.pdf",
+      "used_in": [
+        "src/data/expandedPdfLibraryData.ts:85"
+      ],
+      "status": "broken_ref",
+      "notes": "Referenced path does not exist in public/assets/"
+    },
+    {
+      "path": "/assets/aistudio/_n_thi_vstep_11d6f8c6.pdf",
+      "expected_disk_path": "public/assets/aistudio/_n_thi_vstep_11d6f8c6.pdf",
+      "used_in": [
+        "src/data/vstepPdfKnowledgeBankData.ts:203"
+      ],
+      "status": "broken_ref",
+      "notes": "Referenced path does not exist in public/assets/"
+    }
+  ],
+  "external_urls": [
+    {
+      "url": "https://fonts.googleapis.com",
+      "loc": "index.html:15"
+    },
+    {
+      "url": "https://fonts.gstatic.com",
+      "loc": "index.html:16"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Caveat:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400..800;1,9..40,400..800&family=JetBrains+Mono:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap",
+      "loc": "index.html:17"
+    },
+    {
+      "url": "https://translate.googleapis.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(",
+      "loc": "server.ts:74"
+    },
+    {
+      "url": "https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(",
+      "loc": "server.ts:167"
+    },
+    {
+      "url": "http://0.0.0.0:${PORT}",
+      "loc": "server.ts:305"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Caveat:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400..800;1,9..40,400..800&family=JetBrains+Mono:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap",
+      "loc": "src/index.css:1"
+    },
+    {
+      "url": "https://www.googleapis.com/auth/gmail.readonly",
+      "loc": "src/services/gmailService.ts:8"
+    },
+    {
+      "url": "https://www.googleapis.com/auth/gmail.send",
+      "loc": "src/services/gmailService.ts:9"
+    },
+    {
+      "url": "https://gmail.googleapis.com/gmail/v1/users/me/messages?maxResults=${maxResults}",
+      "loc": "src/services/gmailService.ts:140"
+    },
+    {
+      "url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/${m.id}?format=metadata&metadataHeaders=Subject&metadataHeaders=From&metadataHeaders=Date",
+      "loc": "src/services/gmailService.ts:156"
+    },
+    {
+      "url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/send",
+      "loc": "src/services/gmailService.ts:222"
+    },
+    {
+      "url": "https://quickchart.io/chart?w=540&h=190&bkg=%23F1E7D3&c=${encodeURIComponent(",
+      "loc": "src/services/gmailService.ts:364"
+    },
+    {
+      "url": "https://${shortRef}.${hostParts.slice(1",
+      "loc": "src/services/supabaseClient.ts:101"
+    }
+  ],
+  "assets": [
+    {
+      "path": "public/Cat_typing_on_laptop_cbc58ca4_2K.jpg_7d13e2fe_2K.jpg",
+      "web_path": "/Cat_typing_on_laptop_cbc58ca4_2K.jpg_7d13e2fe_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2004x1126",
+      "size_bytes": 231386,
+      "sha256": "5b14f307ae45d45f42066d7ef6df03175aa8b8cb5f2a5f9268aed18946494c99",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:624"
+      ],
+      "status": "active",
+      "notes": "Active, shares identical SHA-256 hash with public/assets/vintage-editorial/hero/master-english-cat-laptop.jpg"
+    },
+    {
+      "path": "public/assets/aistudio/Paste_November_05__2026_-_10_36PM_54dfd8b5",
+      "web_path": "/assets/aistudio/Paste_November_05__2026_-_10_36PM_54dfd8b5",
+      "type": "unknown",
+      "dimensions": null,
+      "size_bytes": 39746,
+      "sha256": "54dfd8b58b69666f1a73ac3093351df7bb91554baca6a17c93890d0b53480f95",
+      "used_in": [],
+      "status": "temporary",
+      "notes": "AI Studio uploaded prompt attachment (preserved for session reference)"
+    },
+    {
+      "path": "public/assets/aistudio/Ph_ng_luy_n_Writing__1__460b3aa0.html",
+      "web_path": "/assets/aistudio/Ph_ng_luy_n_Writing__1__460b3aa0.html",
+      "type": "html",
+      "dimensions": null,
+      "size_bytes": 370853,
+      "sha256": "460b3aa0a7a706eaed6f8195bbab35865d35d21a05f7c1041520cc15cb84e06f",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision)"
+    },
+    {
+      "path": "public/assets/aistudio/_nh_ChatGPT_20_44_16_4_thg_11__2026_6b952fa4.png",
+      "web_path": "/assets/aistudio/_nh_ChatGPT_20_44_16_4_thg_11__2026_6b952fa4.png",
+      "type": "png",
+      "dimensions": "1672x941",
+      "size_bytes": 2474259,
+      "sha256": "6b952fa42f7473904a9e13643628f90d241c372e0e32dbe116911df36c4ab44f",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (2416.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/aistudio/file_c_n_s_a_b_n_trong___1__11a7ed15.pdf",
+      "web_path": "/assets/aistudio/file_c_n_s_a_b_n_trong___1__11a7ed15.pdf",
+      "type": "pdf",
+      "dimensions": null,
+      "size_bytes": 9899625,
+      "sha256": "11a7ed1548d899ed2e0f49bf0f0e899d85f07561d2220d36332a80f7e7021bdd",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision)"
+    },
+    {
+      "path": "public/assets/aistudio/file_c_n_s_a_b_n_trong___2__851791eb.pdf",
+      "web_path": "/assets/aistudio/file_c_n_s_a_b_n_trong___2__851791eb.pdf",
+      "type": "pdf",
+      "dimensions": null,
+      "size_bytes": 5301541,
+      "sha256": "851791ebf461919d73be4e41a060cd182d19d5aa0af30d9d0bc960d46608995d",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision)"
+    },
+    {
+      "path": "public/assets/aistudio/image_308db8bf.png",
+      "web_path": "/assets/aistudio/image_308db8bf.png",
+      "type": "png",
+      "dimensions": "1332x562",
+      "size_bytes": 1332070,
+      "sha256": "308db8bf23e35490a74a84681c97b7172caa49e1606c61035bc4374c0d578795",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1300.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/aistudio/image_fc551c3c.png",
+      "web_path": "/assets/aistudio/image_fc551c3c.png",
+      "type": "png",
+      "dimensions": "1018x668",
+      "size_bytes": 1487030,
+      "sha256": "fc551c3c851b56327e9dc1b1e2e744027420a964a082d60bd3ebf4d30d46c3b7",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1452.2 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg",
+      "web_path": "/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1503189,
+      "sha256": "2b927be315d12ec2236cdff9166ebcaad12195bfaecdf48f15fdeb0acc7651b3",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1468.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Architectural_sketch_of_Christ_R…_86bb2b0e_2K.jpg",
+      "web_path": "/assets/engravings/Architectural_sketch_of_Christ_R…_86bb2b0e_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 775497,
+      "sha256": "2b21c6e8864a51fdffcae6737e3a0c2a6f7300138cc4be773419b1a27284054f",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (757.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Architectural_sketch_of_Khue_Van…_c0c0559b_2K-1.jpg",
+      "web_path": "/assets/engravings/Architectural_sketch_of_Khue_Van…_c0c0559b_2K-1.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1371032,
+      "sha256": "a1d62a0b03f75cd45c2bfe7b7e876362a1f44b65fd40b53f329fcdb842c71016",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1338.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Empire_State_Building_architectu…_18985320_2K.jpg",
+      "web_path": "/assets/engravings/Empire_State_Building_architectu…_18985320_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 934823,
+      "sha256": "d5e5ed5ddc16ab0f4d5cc480b84b086668209064f8eafcf443e2ff65b82c12b4",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (912.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Japanese_Covered_Bridge_architec…_06e44f23_2K.jpg",
+      "web_path": "/assets/engravings/Japanese_Covered_Bridge_architec…_06e44f23_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1174662,
+      "sha256": "6cdbbab0912b4f627f4812f9dbfa48b9ec5f6c5beff4ea444a3b5b2a85f8155b",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1147.1 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Saigon_Notre-Dame_Cathedral_etch…_a3ab8b71_2K.jpg",
+      "web_path": "/assets/engravings/Saigon_Notre-Dame_Cathedral_etch…_a3ab8b71_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1095013,
+      "sha256": "c7b5da4421b46f1f19115262749e3a9411af4ca2b9ab1331ea768f2405028967",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:646",
+        "src/components/VocabDirectory.tsx:367 (via ENGRAVING_ASSETS.onePillarPagoda)",
+        "src/components/challenge/IeltsChallengePage.tsx:942 (via ENGRAVING_ASSETS.onePillarPagoda)",
+        "src/constants/engravings.tsx:15"
+      ],
+      "status": "active",
+      "notes": "Large image (1069.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Statue_of_Liberty_architectural_…_96957bbd_2K.jpg",
+      "web_path": "/assets/engravings/Statue_of_Liberty_architectural_…_96957bbd_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 966992,
+      "sha256": "d1a8905d6d4dce8707c8cec571480605a1ec388a1290029d32a408cb9973b7a5",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (944.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/bốt điện thoại công cộng.jpg",
+      "web_path": "/assets/engravings/bốt điện thoại công cộng.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1315434,
+      "sha256": "14d2d9b2d6643121ce184239e62c465f485b786a3d0dcd9106a37b206addf76f",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1284.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/colosseum.jpg",
+      "web_path": "/assets/engravings/colosseum.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1402378,
+      "sha256": "d5baa9cff8a0c6a559939f4fd835a61f860c1f926981ab8bfea53a2dc9268af9",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:643",
+        "src/components/challenge/IeltsChallengePage.tsx:425 (via ENGRAVING_ASSETS.colosseumRome)",
+        "src/constants/engravings.tsx:13"
+      ],
+      "status": "active",
+      "notes": "Large image (1369.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/eiffel-tower.jpg",
+      "web_path": "/assets/engravings/eiffel-tower.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 590827,
+      "sha256": "e905326bae5cebcf80c7655a4cfb7de67532eb7b635ed55a926589e3bf6b35cb",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (577.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/london-red-telephone-booth.jpg",
+      "web_path": "/assets/engravings/london-red-telephone-booth.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1312063,
+      "sha256": "ae731820c4009a52cba72c8a56a9ffa64c79195dbc2f9dd995f6e0bc3db636c7",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1281.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811753703_9c8a0c28.jpg",
+      "web_path": "/assets/engravings/media_1793811753703_9c8a0c28.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 669171,
+      "sha256": "90a485495a2aab3e4ec86537b4b4a3cd935bd58afc3ce2f42ca39f2490893249",
+      "used_in": [
+        "src/components/DarkSaaSAnalytics.tsx:2641 (via ENGRAVING_ASSETS.fansipanMountainPagoda)",
+        "src/components/VintageNewspaperIllustrations.tsx:634",
+        "src/components/VintageNewspaperIllustrations.tsx:726 (via ENGRAVING_ASSETS.fansipanMountainPagoda)",
+        "src/components/WarmLightWorkspace.tsx:1065 (via ENGRAVING_ASSETS.fansipanMountainPagoda)",
+        "src/constants/engravings.tsx:34"
+      ],
+      "status": "active",
+      "notes": "Large image (653.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811756011_b1e728ae.jpg",
+      "web_path": "/assets/engravings/media_1793811756011_b1e728ae.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 632325,
+      "sha256": "21865836f550403e16672d3e1331f17fcf2dbc536843281c8f90424c38601fd8",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:633",
+        "src/components/VintageNewspaperIllustrations.tsx:718 (via ENGRAVING_ASSETS.londonRedTelephoneBooth)",
+        "src/components/WarmLightWorkspace.tsx:1519 (via ENGRAVING_ASSETS.londonRedTelephoneBooth)",
+        "src/constants/engravings.tsx:33"
+      ],
+      "status": "active",
+      "notes": "Large image (617.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811758027_1241b438.jpg",
+      "web_path": "/assets/engravings/media_1793811758027_1241b438.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 755513,
+      "sha256": "8eaa057708ae0ddc8b07dd9e038489cd19f2b4c5839e8641e9d4b2c1cde59663",
+      "used_in": [
+        "src/components/DarkSaaSAnalytics.tsx:1474 (via ENGRAVING_ASSETS.himalayaMonasteryPilgrimage)",
+        "src/components/DarkSaaSAnalytics.tsx:1934 (via ENGRAVING_ASSETS.himalayaMonasteryPilgrimage)",
+        "src/components/DarkSaaSAnalytics.tsx:2738 (via ENGRAVING_ASSETS.himalayaMonasteryPilgrimage)",
+        "src/components/VintageNewspaperIllustrations.tsx:635",
+        "src/components/VintageNewspaperIllustrations.tsx:734 (via ENGRAVING_ASSETS.himalayaMonasteryPilgrimage)",
+        "src/constants/engravings.tsx:35"
+      ],
+      "status": "active",
+      "notes": "Large image (737.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811759869_032b41e1.jpg",
+      "web_path": "/assets/engravings/media_1793811759869_032b41e1.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 491788,
+      "sha256": "e4858dd2aaea5db7ccbd30ed61157ef981b31766eadeec8e0e10369bd4a853ae",
+      "used_in": [
+        "src/components/DistinctionsQuiz.tsx:230 (via ENGRAVING_ASSETS.statueOfLiberty)",
+        "src/components/VintageNewspaperIllustrations.tsx:636",
+        "src/constants/engravings.tsx:23"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/engravings/media_1793811761895_a97c88e1.jpg",
+      "web_path": "/assets/engravings/media_1793811761895_a97c88e1.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 572305,
+      "sha256": "035c09e841ab35685f36b9771781e4f182fad9655f57df922209fa9a335bf0c2",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (558.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811779491_5535d5a2.jpg",
+      "web_path": "/assets/engravings/media_1793811779491_5535d5a2.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 414390,
+      "sha256": "7751b714768df07c93c28c72401e9d6e5ece26202eba97de931b6b61d0697a44",
+      "used_in": [
+        "src/components/MistakeBank.tsx:286 (via ENGRAVING_ASSETS.christRedeemer)",
+        "src/components/VintageNewspaperIllustrations.tsx:639",
+        "src/constants/engravings.tsx:29"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/engravings/media_1793811781405_06f70de0.jpg",
+      "web_path": "/assets/engravings/media_1793811781405_06f70de0.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 768515,
+      "sha256": "3d04a8d5ede61a9533e4810aa8759a5643e1611d654e5e114835d481c0dc7e3c",
+      "used_in": [
+        "src/components/SpeedQuiz.tsx:299 (via ENGRAVING_ASSETS.khueVanCac)",
+        "src/components/VintageNewspaperIllustrations.tsx:648",
+        "src/components/VintageNewspaperIllustrations.tsx:742 (via ENGRAVING_ASSETS.khueVanCac)",
+        "src/components/WarmLightWorkspace.tsx:1194 (via ENGRAVING_ASSETS.khueVanCac)",
+        "src/components/challenge/VstepPdfUnlimitedBankTab.tsx:268 (via ENGRAVING_ASSETS.khueVanCac)",
+        "src/constants/engravings.tsx:17"
+      ],
+      "status": "active",
+      "notes": "Large image (750.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811783266_536da3d9.jpg",
+      "web_path": "/assets/engravings/media_1793811783266_536da3d9.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 493499,
+      "sha256": "98b41e520fb9bebc108423cc4b2bc09463ad17acbd4d22847470a2e5b56afe49",
+      "used_in": [
+        "src/components/ContextQuiz.tsx:96 (via ENGRAVING_ASSETS.empireState)",
+        "src/components/ExpandedExamplesLibrary.tsx:887 (via ENGRAVING_ASSETS.empireState)",
+        "src/components/VintageNewspaperIllustrations.tsx:637",
+        "src/constants/engravings.tsx:27"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/engravings/media_1793811785155_7bd64c72.jpg",
+      "web_path": "/assets/engravings/media_1793811785155_7bd64c72.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 655072,
+      "sha256": "7d6adf0f597cccb242aeb0834aeb14391c67090be890357f22a25bb27e18942b",
+      "used_in": [
+        "src/components/InteractiveNodeMatching.tsx:248 (via ENGRAVING_ASSETS.japaneseCoveredBridge)",
+        "src/components/VintageNewspaperIllustrations.tsx:645",
+        "src/constants/engravings.tsx:25"
+      ],
+      "status": "active",
+      "notes": "Large image (639.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811786405_92512a1a.jpg",
+      "web_path": "/assets/engravings/media_1793811786405_92512a1a.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 391134,
+      "sha256": "67ce070232a65d83d308cfca68a56faaa162dfc608abd1f252e70db42c0f30ae",
+      "used_in": [
+        "src/components/DarkSaaSAnalytics.tsx:2446 (via ENGRAVING_ASSETS.sydneyOperaHouse)",
+        "src/components/VintageNewspaperIllustrations.tsx:644",
+        "src/components/challenge/ChallengeSpeakingTab.tsx:334 (via ENGRAVING_ASSETS.sydneyOperaHouse)",
+        "src/constants/engravings.tsx:32"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "web_path": "/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 241339,
+      "sha256": "d59f13427bdda35e077773751fd5fcf4331015ea1f0e28b0ccb5de588eb08a4b",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:655",
+        "src/components/VintageNewspaperIllustrations.tsx:656",
+        "src/components/VintageNewspaperIllustrations.tsx:658",
+        "src/constants/engravings.tsx:42"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/engravings/media_1793811814509_8e1a0a56.jpg",
+      "web_path": "/assets/engravings/media_1793811814509_8e1a0a56.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 864112,
+      "sha256": "46e692e19c5a0aa18e7935b4eedd5a9b2458b0a7c69899d0b231c484acd3719a",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:628",
+        "src/components/VintageNewspaperIllustrations.tsx:659",
+        "src/components/VintageNewspaperIllustrations.tsx:665",
+        "src/components/VintageNewspaperIllustrations.tsx:668",
+        "src/constants/engravings.tsx:46"
+      ],
+      "status": "active",
+      "notes": "Large image (843.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811816204_28d89c59.jpg",
+      "web_path": "/assets/engravings/media_1793811816204_28d89c59.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 552848,
+      "sha256": "b796ddd492a5d80779c06459c69efd7d827cf05c59829d2d4090cb8e0d6f6ecc",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:657",
+        "src/components/VintageNewspaperIllustrations.tsx:669",
+        "src/constants/engravings.tsx:48"
+      ],
+      "status": "active",
+      "notes": "Large image (539.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811817772_fbaf0cee.jpg",
+      "web_path": "/assets/engravings/media_1793811817772_fbaf0cee.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 712351,
+      "sha256": "118bc63e1318d9805a78c3a38a9c9ae22c122a65f815b57b1554f3b20465c1d7",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:652",
+        "src/components/VintageNewspaperIllustrations.tsx:660",
+        "src/constants/engravings.tsx:50"
+      ],
+      "status": "active",
+      "notes": "Large image (695.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811819338_c2158141.jpg",
+      "web_path": "/assets/engravings/media_1793811819338_c2158141.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 533514,
+      "sha256": "ef1d04e2f53af4940f924beec3707597590f2ec4661fe0f78b495a6649d1547b",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:653",
+        "src/constants/engravings.tsx:52"
+      ],
+      "status": "active",
+      "notes": "Large image (521.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811820951_bf81ab82.jpg",
+      "web_path": "/assets/engravings/media_1793811820951_bf81ab82.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 796627,
+      "sha256": "1dce9bbbaa2d23eab212c2d3cef66bc2ac376ecb0e24ad663c051c534ce79002",
+      "used_in": [
+        "src/components/FlashcardsMode.tsx:196 (via ENGRAVING_ASSETS.grandLibrary)",
+        "src/components/VintageNewspaperIllustrations.tsx:651",
+        "src/components/VintageNewspaperIllustrations.tsx:661",
+        "src/components/VintageNewspaperIllustrations.tsx:662",
+        "src/components/VintageNewspaperIllustrations.tsx:663",
+        "src/components/VintageNewspaperIllustrations.tsx:664",
+        "src/constants/engravings.tsx:44"
+      ],
+      "status": "active",
+      "notes": "Large image (778.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811822599_e91b8190.jpg",
+      "web_path": "/assets/engravings/media_1793811822599_e91b8190.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 603793,
+      "sha256": "8ca26bf72ad612f3d243810d91cdf8e20a9fd7642e8019f1150cd3b10a6818d3",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:654",
+        "src/constants/engravings.tsx:54"
+      ],
+      "status": "active",
+      "notes": "Large image (589.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811851379_f0af845e.jpg",
+      "web_path": "/assets/engravings/media_1793811851379_f0af845e.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 634558,
+      "sha256": "68df64e0f22daeb31ee392e0096e31a086dcca0e30cab2900abce55ca90bfc32",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:631",
+        "src/constants/engravings.tsx:11"
+      ],
+      "status": "active",
+      "notes": "Large image (619.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811853284_46df672f.jpg",
+      "web_path": "/assets/engravings/media_1793811853284_46df672f.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 541621,
+      "sha256": "193f5a4d92005a97767db8ed0739aa50643396b57fcc5ef702377d66e2e31270",
+      "used_in": [
+        "src/components/ExpandedExamplesLibrary.tsx:476 (via ENGRAVING_ASSETS.saigonNotreDame)",
+        "src/components/VintageNewspaperIllustrations.tsx:647",
+        "src/components/challenge/IeltsChallengePage.tsx:1077 (via ENGRAVING_ASSETS.saigonNotreDame)",
+        "src/constants/engravings.tsx:19"
+      ],
+      "status": "active",
+      "notes": "Large image (528.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793811854733_ff0469e4.jpg",
+      "web_path": "/assets/engravings/media_1793811854733_ff0469e4.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 319760,
+      "sha256": "8b4442bf6762873805496bfeb8ec65057a9df146b8888cbd192517535bdd7efb",
+      "used_in": [
+        "src/components/CollocationsQuiz.tsx:159 (via ENGRAVING_ASSETS.eiffelTower)",
+        "src/components/VintageNewspaperIllustrations.tsx:638",
+        "src/constants/engravings.tsx:21"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/engravings/media_1793811857019_aa8b3c02.jpg",
+      "web_path": "/assets/engravings/media_1793811857019_aa8b3c02.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 613329,
+      "sha256": "33964bd9c7fec62cfeb1b62ca36314a71eefddcf98ea7766df7574965b87ae6b",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:632",
+        "src/components/VintageNewspaperIllustrations.tsx:710 (via ENGRAVING_ASSETS.towerBridgeLondon)",
+        "src/components/WarmLightWorkspace.tsx:1320 (via ENGRAVING_ASSETS.towerBridgeLondon)",
+        "src/components/analytics/GmailWorkspaceModal.tsx:255",
+        "src/constants/engravings.tsx:31",
+        "src/services/gmailService.ts:581"
+      ],
+      "status": "active",
+      "notes": "Large image (599.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/pyramids-giza.jpg",
+      "web_path": "/assets/engravings/pyramids-giza.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1315036,
+      "sha256": "4d63194404eed0f4aa7240211a53c5717a66627419b25677fa162a06406b8a3b",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:641",
+        "src/constants/engravings.tsx:36"
+      ],
+      "status": "active",
+      "notes": "Large image (1284.2 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/saigon-notre-dame.jpg",
+      "web_path": "/assets/engravings/saigon-notre-dame.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1037742,
+      "sha256": "85d32995757b39474c8434c630dbedacf48f0a0e1815c2504cb523209c7f0426",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1013.4 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/taj-mahal.jpg",
+      "web_path": "/assets/engravings/taj-mahal.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1329136,
+      "sha256": "0b11ef54b0bb8885f73ea942fe5c17baa63664e1173c791fe20a8f20e57bd9f2",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:642",
+        "src/components/challenge/ChallengeVocabularyTab.tsx:276 (via ENGRAVING_ASSETS.tajMahal)",
+        "src/constants/engravings.tsx:37"
+      ],
+      "status": "active",
+      "notes": "Large image (1298.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/tokyo-tower.jpg",
+      "web_path": "/assets/engravings/tokyo-tower.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1156891,
+      "sha256": "846d23c80b01b4c875b3c33f8f5429e68e6569c53e1bd53e79b7ae35a2becc04",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:640",
+        "src/constants/engravings.tsx:38"
+      ],
+      "status": "active",
+      "notes": "Large image (1129.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/big-ben.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/big-ben.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1224703,
+      "sha256": "649e5a6e78df43f9b1a676cbe545357b817ed889666bc3d7db5bff60a14bea32",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:701"
+      ],
+      "status": "active",
+      "notes": "Large image (1196.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/khue-van-cac.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/khue-van-cac.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1101816,
+      "sha256": "05083aaac3a65a99389c44fb0119dc80a5155786724090d6e151de2c7aee79aa",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:741"
+      ],
+      "status": "active",
+      "notes": "Large image (1076.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/editorial/vintage-editorial-quill-cat.jpg",
+      "web_path": "/assets/vintage-editorial/editorial/vintage-editorial-quill-cat.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1565265,
+      "sha256": "16be8d260e58dc1d041f89f82c05411c8c69848311d3e9ba4393a208f0a9014d",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1528.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/hero/master-english-cat-laptop.jpg",
+      "web_path": "/assets/vintage-editorial/hero/master-english-cat-laptop.jpg",
+      "type": "jpg",
+      "dimensions": "2004x1126",
+      "size_bytes": 231386,
+      "sha256": "5b14f307ae45d45f42066d7ef6df03175aa8b8cb5f2a5f9268aed18946494c99",
+      "used_in": [
+        "src/components/VintageNewspaperIllustrations.tsx:625"
+      ],
+      "status": "active",
+      "notes": null
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-butterfly-magnifier.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-butterfly-magnifier.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1500964,
+      "sha256": "97121d762f7b533e1a7d50588e882553a6801459cb2959a6633d63914e011478",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1465.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-compass.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-compass.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1295081,
+      "sha256": "fc94e734a516d57d731285f9438dda25e9ba9be051d7d4e4e8e36f794eda4341",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1264.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-dictionary-armchair.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-dictionary-armchair.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1010829,
+      "sha256": "53bde7dcddd27fad4ed8d592d6387f579571425f035b95da531c703859186d09",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (987.1 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-graduation-cap.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-graduation-cap.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1035796,
+      "sha256": "267eca6d1af8375e5dda303311d3798179df742a0d103f185ead5b6c5678cdaa",
+      "used_in": [
+        "index.html:8",
+        "index.html:9",
+        "src/components/VintageNewspaperIllustrations.tsx:685"
+      ],
+      "status": "active",
+      "notes": "Large image (1011.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-library.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-library.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1387073,
+      "sha256": "8be82bfccdd146e14c0325221113affc44ad8368488328cac3b40cc658bf3aeb",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1354.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-near-books.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-near-books.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1196824,
+      "sha256": "7d9d067405f2d31a3d8cca7e9ad0045c532ab244ba71b7c2c408986296feb551",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1168.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-oil-lamp.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-oil-lamp.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1303611,
+      "sha256": "ba46864bbc7057f66c1c8a53715986c3048bb1d0a3c5c537d80d22f656ed7efd",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1273.1 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-scroll.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-scroll.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1060626,
+      "sha256": "0a1634491b9fe5cbbf4ef05f1f175811f20fd4d01b965294310889bcadce5ba3",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1035.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-sleeping-book.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-sleeping-book.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1334889,
+      "sha256": "713b1fa5e1a580129496e0b2f75d1d89e3bd6aa0b67aaebbff8baa356158c178",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1303.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-telescope.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-telescope.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1349176,
+      "sha256": "1c4d8905fc750036e78b542d809f5afc16bb5aa163f0db741565bd457cfd6dba",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1317.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-writing-quill.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-writing-quill.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1235519,
+      "sha256": "a914494ad5793ce2112d668fe7f3b154dc3b090d00f93386c5e023b993418ade",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision); Large image (1206.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/master-english-standalone.html",
+      "web_path": "/master-english-standalone.html",
+      "type": "html",
+      "dimensions": null,
+      "size_bytes": 69017,
+      "sha256": "c0de9a5fd37752217d98b086d4435569ba80908bf8ee401dbaf9aa93e8695cfc",
+      "used_in": [],
+      "status": "unused",
+      "notes": "No reference found in codebase (unique SHA-256 — preserved per Section 9 for user decision)"
+    },
+    {
+      "path": "src/data/rubyTypingAudioB64.ts",
+      "web_path": null,
+      "type": "ts",
+      "dimensions": null,
+      "size_bytes": 343313,
+      "sha256": "eec97b823d80fa5dbf12c6496133436fcb8efe4b86c7d7141c7ad83db0a256a4",
+      "used_in": [
+        "src/components/RubyWritingBox.tsx:2"
+      ],
+      "status": "active",
+      "notes": null
+    }
+  ],
+  "cleaned_duplicates": [
+    {
+      "path": "public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K.jpg",
+      "web_path": "/assets/engravings/,_dãy_núi_himalia_434c71a3_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1503189,
+      "sha256": "2b927be315d12ec2236cdff9166ebcaad12195bfaecdf48f15fdeb0acc7651b3",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg; Large image (1468.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Architectural_sketch_of_Khue_Van…_c0c0559b_2K.jpg",
+      "web_path": "/assets/engravings/Architectural_sketch_of_Khue_Van…_c0c0559b_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1371032,
+      "sha256": "a1d62a0b03f75cd45c2bfe7b7e876362a1f44b65fd40b53f329fcdb842c71016",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Architectural_sketch_of_Khue_Van…_c0c0559b_2K-1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Architectural_sketch_of_Khue_Van…_c0c0559b_2K-1.jpg; Large image (1338.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/Sydney_Opera_House_architectural…_e0fe80fa.jpg",
+      "web_path": "/assets/engravings/Sydney_Opera_House_architectural…_e0fe80fa.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 391134,
+      "sha256": "67ce070232a65d83d308cfca68a56faaa162dfc608abd1f252e70db42c0f30ae",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811786405_92512a1a.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811786405_92512a1a.jpg"
+    },
+    {
+      "path": "public/assets/engravings/big-ben.jpg",
+      "web_path": "/assets/engravings/big-ben.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1224703,
+      "sha256": "649e5a6e78df43f9b1a676cbe545357b817ed889666bc3d7db5bff60a14bea32",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/vintage-editorial/architecture/big-ben.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/vintage-editorial/architecture/big-ben.jpg; Large image (1196.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/christ-redeemer.jpg",
+      "web_path": "/assets/engravings/christ-redeemer.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 775497,
+      "sha256": "2b21c6e8864a51fdffcae6737e3a0c2a6f7300138cc4be773419b1a27284054f",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Architectural_sketch_of_Christ_R…_86bb2b0e_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Architectural_sketch_of_Christ_R…_86bb2b0e_2K.jpg; Large image (757.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/empire-state.jpg",
+      "web_path": "/assets/engravings/empire-state.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 934823,
+      "sha256": "d5e5ed5ddc16ab0f4d5cc480b84b086668209064f8eafcf443e2ff65b82c12b4",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Empire_State_Building_architectu…_18985320_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Empire_State_Building_architectu…_18985320_2K.jpg; Large image (912.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/fansipan-mountain-pagoda.jpg",
+      "web_path": "/assets/engravings/fansipan-mountain-pagoda.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1315434,
+      "sha256": "14d2d9b2d6643121ce184239e62c465f485b786a3d0dcd9106a37b206addf76f",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/bốt điện thoại công cộng.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/bốt điện thoại công cộng.jpg; Large image (1284.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/himalaya-monastery-pilgrimage.jpg",
+      "web_path": "/assets/engravings/himalaya-monastery-pilgrimage.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1503189,
+      "sha256": "2b927be315d12ec2236cdff9166ebcaad12195bfaecdf48f15fdeb0acc7651b3",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg; Large image (1468.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/japanese-covered-bridge.jpg",
+      "web_path": "/assets/engravings/japanese-covered-bridge.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1174662,
+      "sha256": "6cdbbab0912b4f627f4812f9dbfa48b9ec5f6c5beff4ea444a3b5b2a85f8155b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Japanese_Covered_Bridge_architec…_06e44f23_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Japanese_Covered_Bridge_architec…_06e44f23_2K.jpg; Large image (1147.1 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/khue-van-cac.jpg",
+      "web_path": "/assets/engravings/khue-van-cac.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1101816,
+      "sha256": "05083aaac3a65a99389c44fb0119dc80a5155786724090d6e151de2c7aee79aa",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/vintage-editorial/architecture/khue-van-cac.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/vintage-editorial/architecture/khue-van-cac.jpg; Large image (1076.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720120163_314fee33.jpg",
+      "web_path": "/assets/engravings/media_1793720120163_314fee33.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 241339,
+      "sha256": "d59f13427bdda35e077773751fd5fcf4331015ea1f0e28b0ccb5de588eb08a4b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811812608_a204e6ab.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720320392_576b7387.jpg",
+      "web_path": "/assets/engravings/media_1793720320392_576b7387.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 864112,
+      "sha256": "46e692e19c5a0aa18e7935b4eedd5a9b2458b0a7c69899d0b231c484acd3719a",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811814509_8e1a0a56.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811814509_8e1a0a56.jpg; Large image (843.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720322626_c93c7be0.jpg",
+      "web_path": "/assets/engravings/media_1793720322626_c93c7be0.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 552848,
+      "sha256": "b796ddd492a5d80779c06459c69efd7d827cf05c59829d2d4090cb8e0d6f6ecc",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811816204_28d89c59.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811816204_28d89c59.jpg; Large image (539.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720329564_ed86d7a0.jpg",
+      "web_path": "/assets/engravings/media_1793720329564_ed86d7a0.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 712351,
+      "sha256": "118bc63e1318d9805a78c3a38a9c9ae22c122a65f815b57b1554f3b20465c1d7",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811817772_fbaf0cee.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811817772_fbaf0cee.jpg; Large image (695.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720449551_387642af.jpg",
+      "web_path": "/assets/engravings/media_1793720449551_387642af.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 533514,
+      "sha256": "ef1d04e2f53af4940f924beec3707597590f2ec4661fe0f78b495a6649d1547b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811819338_c2158141.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811819338_c2158141.jpg; Large image (521.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720454648_e67ed2b0.jpg",
+      "web_path": "/assets/engravings/media_1793720454648_e67ed2b0.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 796627,
+      "sha256": "1dce9bbbaa2d23eab212c2d3cef66bc2ac376ecb0e24ad663c051c534ce79002",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811820951_bf81ab82.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811820951_bf81ab82.jpg; Large image (778.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793720457068_e8ab3723.jpg",
+      "web_path": "/assets/engravings/media_1793720457068_e8ab3723.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 603793,
+      "sha256": "8ca26bf72ad612f3d243810d91cdf8e20a9fd7642e8019f1150cd3b10a6818d3",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811822599_e91b8190.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811822599_e91b8190.jpg; Large image (589.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819824140_7d0afdf1.jpg",
+      "web_path": "/assets/engravings/media_1793819824140_7d0afdf1.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 669171,
+      "sha256": "90a485495a2aab3e4ec86537b4b4a3cd935bd58afc3ce2f42ca39f2490893249",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811753703_9c8a0c28.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811753703_9c8a0c28.jpg; Large image (653.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819825317_061c0812.jpg",
+      "web_path": "/assets/engravings/media_1793819825317_061c0812.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 414390,
+      "sha256": "7751b714768df07c93c28c72401e9d6e5ece26202eba97de931b6b61d0697a44",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811779491_5535d5a2.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811779491_5535d5a2.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819826757_0236b468.jpg",
+      "web_path": "/assets/engravings/media_1793819826757_0236b468.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 241339,
+      "sha256": "d59f13427bdda35e077773751fd5fcf4331015ea1f0e28b0ccb5de588eb08a4b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811812608_a204e6ab.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819828216_3c2094b9.jpg",
+      "web_path": "/assets/engravings/media_1793819828216_3c2094b9.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 634558,
+      "sha256": "68df64e0f22daeb31ee392e0096e31a086dcca0e30cab2900abce55ca90bfc32",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811851379_f0af845e.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811851379_f0af845e.jpg; Large image (619.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819842946_064f1ec0.jpg",
+      "web_path": "/assets/engravings/media_1793819842946_064f1ec0.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 632325,
+      "sha256": "21865836f550403e16672d3e1331f17fcf2dbc536843281c8f90424c38601fd8",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811756011_b1e728ae.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811756011_b1e728ae.jpg; Large image (617.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819844495_74cd38d2.jpg",
+      "web_path": "/assets/engravings/media_1793819844495_74cd38d2.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 755513,
+      "sha256": "8eaa057708ae0ddc8b07dd9e038489cd19f2b4c5839e8641e9d4b2c1cde59663",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811758027_1241b438.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811758027_1241b438.jpg; Large image (737.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819846099_9e3f49bd.jpg",
+      "web_path": "/assets/engravings/media_1793819846099_9e3f49bd.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 491788,
+      "sha256": "e4858dd2aaea5db7ccbd30ed61157ef981b31766eadeec8e0e10369bd4a853ae",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811759869_032b41e1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811759869_032b41e1.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819847997_e0e42cb3.jpg",
+      "web_path": "/assets/engravings/media_1793819847997_e0e42cb3.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 572305,
+      "sha256": "035c09e841ab35685f36b9771781e4f182fad9655f57df922209fa9a335bf0c2",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811761895_a97c88e1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811761895_a97c88e1.jpg; Large image (558.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819849644_078a068b.jpg",
+      "web_path": "/assets/engravings/media_1793819849644_078a068b.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 768515,
+      "sha256": "3d04a8d5ede61a9533e4810aa8759a5643e1611d654e5e114835d481c0dc7e3c",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811781405_06f70de0.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811781405_06f70de0.jpg; Large image (750.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819851172_1288332a.jpg",
+      "web_path": "/assets/engravings/media_1793819851172_1288332a.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 493499,
+      "sha256": "98b41e520fb9bebc108423cc4b2bc09463ad17acbd4d22847470a2e5b56afe49",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811783266_536da3d9.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811783266_536da3d9.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819866178_b9e76399.jpg",
+      "web_path": "/assets/engravings/media_1793819866178_b9e76399.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 655072,
+      "sha256": "7d6adf0f597cccb242aeb0834aeb14391c67090be890357f22a25bb27e18942b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811785155_7bd64c72.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811785155_7bd64c72.jpg; Large image (639.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819867669_57ac1eac.jpg",
+      "web_path": "/assets/engravings/media_1793819867669_57ac1eac.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 391134,
+      "sha256": "67ce070232a65d83d308cfca68a56faaa162dfc608abd1f252e70db42c0f30ae",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811786405_92512a1a.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811786405_92512a1a.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819869613_c2ca5a7f.jpg",
+      "web_path": "/assets/engravings/media_1793819869613_c2ca5a7f.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 864112,
+      "sha256": "46e692e19c5a0aa18e7935b4eedd5a9b2458b0a7c69899d0b231c484acd3719a",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811814509_8e1a0a56.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811814509_8e1a0a56.jpg; Large image (843.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819871525_2d8553b5.jpg",
+      "web_path": "/assets/engravings/media_1793819871525_2d8553b5.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 552848,
+      "sha256": "b796ddd492a5d80779c06459c69efd7d827cf05c59829d2d4090cb8e0d6f6ecc",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811816204_28d89c59.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811816204_28d89c59.jpg; Large image (539.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819873130_c53a9680.jpg",
+      "web_path": "/assets/engravings/media_1793819873130_c53a9680.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 712351,
+      "sha256": "118bc63e1318d9805a78c3a38a9c9ae22c122a65f815b57b1554f3b20465c1d7",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811817772_fbaf0cee.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811817772_fbaf0cee.jpg; Large image (695.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819874817_3281c17e.jpg",
+      "web_path": "/assets/engravings/media_1793819874817_3281c17e.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 533514,
+      "sha256": "ef1d04e2f53af4940f924beec3707597590f2ec4661fe0f78b495a6649d1547b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811819338_c2158141.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811819338_c2158141.jpg; Large image (521.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819893000_70360dc9.jpg",
+      "web_path": "/assets/engravings/media_1793819893000_70360dc9.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 796627,
+      "sha256": "1dce9bbbaa2d23eab212c2d3cef66bc2ac376ecb0e24ad663c051c534ce79002",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811820951_bf81ab82.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811820951_bf81ab82.jpg; Large image (778.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819894779_a9b7c81b.jpg",
+      "web_path": "/assets/engravings/media_1793819894779_a9b7c81b.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 603793,
+      "sha256": "8ca26bf72ad612f3d243810d91cdf8e20a9fd7642e8019f1150cd3b10a6818d3",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811822599_e91b8190.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811822599_e91b8190.jpg; Large image (589.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819896301_0c5f3d4c.jpg",
+      "web_path": "/assets/engravings/media_1793819896301_0c5f3d4c.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 541621,
+      "sha256": "193f5a4d92005a97767db8ed0739aa50643396b57fcc5ef702377d66e2e31270",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811853284_46df672f.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811853284_46df672f.jpg; Large image (528.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819897711_49d7e9eb.jpg",
+      "web_path": "/assets/engravings/media_1793819897711_49d7e9eb.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 319760,
+      "sha256": "8b4442bf6762873805496bfeb8ec65057a9df146b8888cbd192517535bdd7efb",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811854733_ff0469e4.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811854733_ff0469e4.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819899623_cd1a8296.jpg",
+      "web_path": "/assets/engravings/media_1793819899623_cd1a8296.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 613329,
+      "sha256": "33964bd9c7fec62cfeb1b62ca36314a71eefddcf98ea7766df7574965b87ae6b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811857019_aa8b3c02.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811857019_aa8b3c02.jpg; Large image (599.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819901608_0c8b40c6.jpg",
+      "web_path": "/assets/engravings/media_1793819901608_0c8b40c6.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 572305,
+      "sha256": "035c09e841ab35685f36b9771781e4f182fad9655f57df922209fa9a335bf0c2",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811761895_a97c88e1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811761895_a97c88e1.jpg; Large image (558.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819924374_89e6f303.jpg",
+      "web_path": "/assets/engravings/media_1793819924374_89e6f303.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 241339,
+      "sha256": "d59f13427bdda35e077773751fd5fcf4331015ea1f0e28b0ccb5de588eb08a4b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811812608_a204e6ab.jpg"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819928970_474eb7c2.jpg",
+      "web_path": "/assets/engravings/media_1793819928970_474eb7c2.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 864112,
+      "sha256": "46e692e19c5a0aa18e7935b4eedd5a9b2458b0a7c69899d0b231c484acd3719a",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811814509_8e1a0a56.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811814509_8e1a0a56.jpg; Large image (843.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819930398_d7d45442.jpg",
+      "web_path": "/assets/engravings/media_1793819930398_d7d45442.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 552848,
+      "sha256": "b796ddd492a5d80779c06459c69efd7d827cf05c59829d2d4090cb8e0d6f6ecc",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811816204_28d89c59.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811816204_28d89c59.jpg; Large image (539.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819932266_f462f90c.jpg",
+      "web_path": "/assets/engravings/media_1793819932266_f462f90c.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 712351,
+      "sha256": "118bc63e1318d9805a78c3a38a9c9ae22c122a65f815b57b1554f3b20465c1d7",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811817772_fbaf0cee.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811817772_fbaf0cee.jpg; Large image (695.7 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819933908_746151be.jpg",
+      "web_path": "/assets/engravings/media_1793819933908_746151be.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 533514,
+      "sha256": "ef1d04e2f53af4940f924beec3707597590f2ec4661fe0f78b495a6649d1547b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811819338_c2158141.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811819338_c2158141.jpg; Large image (521.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/media_1793819935655_1375baff.jpg",
+      "web_path": "/assets/engravings/media_1793819935655_1375baff.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 603793,
+      "sha256": "8ca26bf72ad612f3d243810d91cdf8e20a9fd7642e8019f1150cd3b10a6818d3",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811822599_e91b8190.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811822599_e91b8190.jpg; Large image (589.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/màu_đỏ_rực_hơn_đi_5f0d8a2e_2K.jpg",
+      "web_path": "/assets/engravings/màu_đỏ_rực_hơn_đi_5f0d8a2e_2K.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1312063,
+      "sha256": "ae731820c4009a52cba72c8a56a9ffa64c79195dbc2f9dd995f6e0bc3db636c7",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/london-red-telephone-booth.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/london-red-telephone-booth.jpg; Large image (1281.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/one-pillar-pagoda.jpg",
+      "web_path": "/assets/engravings/one-pillar-pagoda.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1101816,
+      "sha256": "05083aaac3a65a99389c44fb0119dc80a5155786724090d6e151de2c7aee79aa",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/vintage-editorial/architecture/khue-van-cac.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/vintage-editorial/architecture/khue-van-cac.jpg; Large image (1076.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/statue-of-liberty.jpg",
+      "web_path": "/assets/engravings/statue-of-liberty.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 966992,
+      "sha256": "d1a8905d6d4dce8707c8cec571480605a1ec388a1290029d32a408cb9973b7a5",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Statue_of_Liberty_architectural_…_96957bbd_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Statue_of_Liberty_architectural_…_96957bbd_2K.jpg; Large image (944.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/engravings/sydney-opera-house.jpg",
+      "web_path": "/assets/engravings/sydney-opera-house.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 391134,
+      "sha256": "67ce070232a65d83d308cfca68a56faaa162dfc608abd1f252e70db42c0f30ae",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811786405_92512a1a.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811786405_92512a1a.jpg"
+    },
+    {
+      "path": "public/assets/engravings/tower-bridge-london.jpg",
+      "web_path": "/assets/engravings/tower-bridge-london.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1095013,
+      "sha256": "c7b5da4421b46f1f19115262749e3a9411af4ca2b9ab1331ea768f2405028967",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Saigon_Notre-Dame_Cathedral_etch…_a3ab8b71_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Saigon_Notre-Dame_Cathedral_etch…_a3ab8b71_2K.jpg; Large image (1069.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/christ-redeemer.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/christ-redeemer.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 775497,
+      "sha256": "2b21c6e8864a51fdffcae6737e3a0c2a6f7300138cc4be773419b1a27284054f",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Architectural_sketch_of_Christ_R…_86bb2b0e_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Architectural_sketch_of_Christ_R…_86bb2b0e_2K.jpg; Large image (757.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/colosseum.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/colosseum.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1402378,
+      "sha256": "d5baa9cff8a0c6a559939f4fd835a61f860c1f926981ab8bfea53a2dc9268af9",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/colosseum.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/colosseum.jpg; Large image (1369.5 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/eiffel-tower.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/eiffel-tower.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 590827,
+      "sha256": "e905326bae5cebcf80c7655a4cfb7de67532eb7b635ed55a926589e3bf6b35cb",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/eiffel-tower.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/eiffel-tower.jpg; Large image (577.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/empire-state.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/empire-state.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 934823,
+      "sha256": "d5e5ed5ddc16ab0f4d5cc480b84b086668209064f8eafcf443e2ff65b82c12b4",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Empire_State_Building_architectu…_18985320_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Empire_State_Building_architectu…_18985320_2K.jpg; Large image (912.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/fansipan-mountain-pagoda.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/fansipan-mountain-pagoda.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1315434,
+      "sha256": "14d2d9b2d6643121ce184239e62c465f485b786a3d0dcd9106a37b206addf76f",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/bốt điện thoại công cộng.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/bốt điện thoại công cộng.jpg; Large image (1284.6 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/himalaya-monastery-pilgrimage.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/himalaya-monastery-pilgrimage.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1503189,
+      "sha256": "2b927be315d12ec2236cdff9166ebcaad12195bfaecdf48f15fdeb0acc7651b3",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/,_dãy_núi_himalia_434c71a3_2K-1.jpg; Large image (1468.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/japanese-covered-bridge.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/japanese-covered-bridge.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1174662,
+      "sha256": "6cdbbab0912b4f627f4812f9dbfa48b9ec5f6c5beff4ea444a3b5b2a85f8155b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Japanese_Covered_Bridge_architec…_06e44f23_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Japanese_Covered_Bridge_architec…_06e44f23_2K.jpg; Large image (1147.1 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/london-red-telephone-booth.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/london-red-telephone-booth.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1312063,
+      "sha256": "ae731820c4009a52cba72c8a56a9ffa64c79195dbc2f9dd995f6e0bc3db636c7",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/london-red-telephone-booth.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/london-red-telephone-booth.jpg; Large image (1281.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/one-pillar-pagoda.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/one-pillar-pagoda.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1101816,
+      "sha256": "05083aaac3a65a99389c44fb0119dc80a5155786724090d6e151de2c7aee79aa",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/vintage-editorial/architecture/khue-van-cac.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/vintage-editorial/architecture/khue-van-cac.jpg; Large image (1076.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/pyramids-giza.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/pyramids-giza.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1315036,
+      "sha256": "4d63194404eed0f4aa7240211a53c5717a66627419b25677fa162a06406b8a3b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/pyramids-giza.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/pyramids-giza.jpg; Large image (1284.2 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/saigon-notre-dame.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/saigon-notre-dame.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1037742,
+      "sha256": "85d32995757b39474c8434c630dbedacf48f0a0e1815c2504cb523209c7f0426",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/saigon-notre-dame.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/saigon-notre-dame.jpg; Large image (1013.4 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/statue-of-liberty.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/statue-of-liberty.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 966992,
+      "sha256": "d1a8905d6d4dce8707c8cec571480605a1ec388a1290029d32a408cb9973b7a5",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Statue_of_Liberty_architectural_…_96957bbd_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Statue_of_Liberty_architectural_…_96957bbd_2K.jpg; Large image (944.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/sydney-opera-house.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/sydney-opera-house.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 391134,
+      "sha256": "67ce070232a65d83d308cfca68a56faaa162dfc608abd1f252e70db42c0f30ae",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811786405_92512a1a.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811786405_92512a1a.jpg"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/taj-mahal.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/taj-mahal.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1329136,
+      "sha256": "0b11ef54b0bb8885f73ea942fe5c17baa63664e1173c791fe20a8f20e57bd9f2",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/taj-mahal.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/taj-mahal.jpg; Large image (1298.0 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/tokyo-tower.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/tokyo-tower.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1156891,
+      "sha256": "846d23c80b01b4c875b3c33f8f5429e68e6569c53e1bd53e79b7ae35a2becc04",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/tokyo-tower.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/tokyo-tower.jpg; Large image (1129.8 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/architecture/tower-bridge-london.jpg",
+      "web_path": "/assets/vintage-editorial/architecture/tower-bridge-london.jpg",
+      "type": "jpg",
+      "dimensions": "2752x1536",
+      "size_bytes": 1095013,
+      "sha256": "c7b5da4421b46f1f19115262749e3a9411af4ca2b9ab1331ea768f2405028967",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/Saigon_Notre-Dame_Cathedral_etch…_a3ab8b71_2K.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/Saigon_Notre-Dame_Cathedral_etch…_a3ab8b71_2K.jpg; Large image (1069.3 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-glasses-book.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-glasses-book.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 241339,
+      "sha256": "d59f13427bdda35e077773751fd5fcf4331015ea1f0e28b0ccb5de588eb08a4b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811812608_a204e6ab.jpg"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-red-hourglass.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-red-hourglass.jpg",
+      "type": "jpg",
+      "dimensions": "2000x1116",
+      "size_bytes": 552848,
+      "sha256": "b796ddd492a5d80779c06459c69efd7d827cf05c59829d2d4090cb8e0d6f6ecc",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811816204_28d89c59.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811816204_28d89c59.jpg; Large image (539.9 KB) — candidate for WebP/AVIF compression"
+    },
+    {
+      "path": "public/assets/vintage-editorial/mascot/cat-scholar-reading-desk.jpg",
+      "web_path": "/assets/vintage-editorial/mascot/cat-scholar-reading-desk.jpg",
+      "type": "jpg",
+      "dimensions": "1376x768",
+      "size_bytes": 241339,
+      "sha256": "d59f13427bdda35e077773751fd5fcf4331015ea1f0e28b0ccb5de588eb08a4b",
+      "used_in": [],
+      "status": "duplicate_of:public/assets/engravings/media_1793811812608_a204e6ab.jpg",
+      "notes": "Unreferenced exact SHA-256 duplicate of public/assets/engravings/media_1793811812608_a204e6ab.jpg"
+    }
+  ]
+}

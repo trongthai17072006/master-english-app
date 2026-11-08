@@ -1,0 +1,6 @@
+{
+  "name": "Mastere",
+  "description": "Mastere – Your Academic English Learning Space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
